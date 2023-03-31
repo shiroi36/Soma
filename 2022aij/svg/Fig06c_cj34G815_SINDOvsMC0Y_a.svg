@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   stroke-dasharray="none"
+   shape-rendering="auto"
+   font-family="'Dialog'"
+   width="250"
+   text-rendering="auto"
+   fill-opacity="1"
+   contentScriptType="text/ecmascript"
+   color-interpolation="auto"
+   color-rendering="auto"
+   preserveAspectRatio="xMidYMid meet"
+   font-size="12px"
+   fill="black"
+   stroke="black"
+   image-rendering="auto"
+   stroke-miterlimit="10"
+   zoomAndPan="magnify"
+   version="1.0"
+   stroke-linecap="square"
+   stroke-linejoin="miter"
+   contentStyleType="text/css"
+   font-style="normal"
+   height="125"
+   stroke-width="1"
+   stroke-dashoffset="0"
+   font-weight="normal"
+   stroke-opacity="1"
+   id="svg1149"
+   sodipodi:docname="SINDOvsMC0Y_a.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata1153">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview1151"
+     showgrid="false"
+     inkscape:zoom="7.5066154"
+     inkscape:cx="108.58051"
+     inkscape:cy="10.063559"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1149" />
+  <!--jun.util.prepareGraphics2D-->
+  <defs
+     id="genericDefs" />
+  <g
+     id="g1147">
+    <defs
+       id="defs1">
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath1">
+        <path
+           d="M0 0 L250 0 L250 125 L0 125 L0 0 Z"
+           id="path3" />
+      </clipPath>
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath2">
+        <path
+           d="M71.5 30.5 L71.5 280.5 L-53.5 280.5 L-53.5 30.5 L71.5 30.5 Z"
+           id="path6" />
+      </clipPath>
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath3">
+        <path
+           d="M48 8 L48 94 L238 94 L238 8 Z"
+           id="path9" />
+      </clipPath>
+    </defs>
+    <g
+       fill="white"
+       text-rendering="optimizeLegibility"
+       stroke="white"
+       id="g19">
+      <rect
+         x="0"
+         y="0"
+         clip-path="url(#clipPath1)"
+         width="250"
+         height="125"
+         stroke="none"
+         id="rect13" />
+      <rect
+         x="48"
+         y="8"
+         clip-path="url(#clipPath1)"
+         width="190"
+         height="86"
+         stroke="none"
+         id="rect15" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="94"
+         y2="94"
+         stroke="gray"
+         stroke-width="0.5"
+         id="line17" />
+    </g>
+    <g
+       font-size="10px"
+       fill="gray"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke="gray"
+       stroke-width="0.5"
+       id="g129">
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="48"
+         x2="48"
+         y1="96"
+         y2="94"
+         id="line21" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="57.846359"
+         x2="57.846359"
+         y1="96"
+         y2="94"
+         id="line23" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="64.832466"
+         x2="64.832466"
+         y1="96"
+         y2="94"
+         id="line25" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="70.251305"
+         x2="70.251305"
+         y1="96"
+         y2="94"
+         id="line27" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="74.678825"
+         x2="74.678825"
+         y1="96"
+         y2="94"
+         id="line29" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="78.422234"
+         x2="78.422234"
+         y1="96"
+         y2="94"
+         id="line31" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="81.664925"
+         x2="81.664925"
+         y1="96"
+         y2="94"
+         id="line33" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="84.525185"
+         x2="84.525185"
+         y1="96"
+         y2="94"
+         id="line35" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="87.083771"
+         x2="87.083771"
+         y1="96"
+         y2="94"
+         id="line37" />
+      <text
+         x="73.583771"
+         y="107.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text39">0.001</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="87.083771"
+         x2="87.083771"
+         y1="96"
+         y2="94"
+         id="line41" />
+      <text
+         x="90.416229"
+         y="107.79883"
+         clip-path="url(#clipPath1)"
+         xml:space="preserve"
+         id="text43"
+         transform="translate(-61.440678)"
+         style="fill:#000000;stroke:none">0.0002</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="103.916229"
+         x2="103.916229"
+         y1="96"
+         y2="94"
+         id="line45" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="113.762589"
+         x2="113.762589"
+         y1="96"
+         y2="94"
+         id="line47" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="120.748695"
+         x2="120.748695"
+         y1="96"
+         y2="94"
+         id="line49" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="126.167534"
+         x2="126.167534"
+         y1="96"
+         y2="94"
+         id="line51" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="130.595047"
+         x2="130.595047"
+         y1="96"
+         y2="94"
+         id="line53" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="134.33847"
+         x2="134.33847"
+         y1="96"
+         y2="94"
+         id="line55" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="137.581161"
+         x2="137.581161"
+         y1="96"
+         y2="94"
+         id="line57" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="140.441406"
+         x2="140.441406"
+         y1="96"
+         y2="94"
+         id="line59" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="143"
+         x2="143"
+         y1="96"
+         y2="94"
+         id="line61" />
+      <text
+         x="132.5"
+         y="107.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text63">0.01</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="143"
+         x2="143"
+         y1="96"
+         y2="94"
+         id="line65" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="159.832458"
+         x2="159.832458"
+         y1="96"
+         y2="94"
+         id="line69" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="169.678818"
+         x2="169.678818"
+         y1="96"
+         y2="94"
+         id="line71" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="176.664932"
+         x2="176.664932"
+         y1="96"
+         y2="94"
+         id="line73" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="182.083771"
+         x2="182.083771"
+         y1="96"
+         y2="94"
+         id="line75" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="186.511292"
+         x2="186.511292"
+         y1="96"
+         y2="94"
+         id="line77" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="190.2547"
+         x2="190.2547"
+         y1="96"
+         y2="94"
+         id="line79" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="193.497391"
+         x2="193.497391"
+         y1="96"
+         y2="94"
+         id="line81" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="196.357651"
+         x2="196.357651"
+         y1="96"
+         y2="94"
+         id="line83" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="198.916229"
+         x2="198.916229"
+         y1="96"
+         y2="94"
+         id="line85" />
+      <text
+         x="191.416229"
+         y="107.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text87">0.1</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="198.916229"
+         x2="198.916229"
+         y1="96"
+         y2="94"
+         id="line89" />
+      <text
+         x="208.248688"
+         y="107.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text91">0.2</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="215.748688"
+         x2="215.748688"
+         y1="96"
+         y2="94"
+         id="line93" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="225.595047"
+         x2="225.595047"
+         y1="96"
+         y2="94"
+         id="line95" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="232.581161"
+         x2="232.581161"
+         y1="96"
+         y2="94"
+         id="line97" />
+      <text
+         x="230.5"
+         y="107.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text99">0.5</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="238"
+         x2="238"
+         y1="96"
+         y2="94"
+         id="line101" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="48"
+         x2="48"
+         y1="8"
+         y2="94"
+         id="line105" />
+      <text
+         x="32"
+         y="98.298828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text107">-2</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="46"
+         x2="48"
+         y1="94"
+         y2="94"
+         id="line109" />
+      <text
+         x="36"
+         y="79.187714"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text111">0</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="46"
+         x2="48"
+         y1="74.888885"
+         y2="74.888885"
+         id="line113" />
+      <text
+         x="36"
+         y="60.076607"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text115">2</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="46"
+         x2="48"
+         y1="55.777779"
+         y2="55.777779"
+         id="line117" />
+      <text
+         x="36"
+         y="40.965496"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text119">4</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="46"
+         x2="48"
+         y1="36.666668"
+         y2="36.666668"
+         id="line121" />
+      <text
+         x="36"
+         y="21.854383"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text123">6</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="46"
+         x2="48"
+         y1="17.555555"
+         y2="17.555555"
+         id="line125" />
+      <path
+         fill="black"
+         d="M-12.890625 51.011719 L-12.9375 51.121094 Q-13.484375 53.011719 -14.453125 54.589844 L-14.984375 53.714844 Q-13.609375 51.777344 -13.03125 49.417969 L-14.734375 49.417969 L-14.734375 48.636719 L-12.890625 48.636719 L-12.890625 46.121094 L-12.078125 46.121094 L-12.078125 48.636719 L-10.390625 48.636719 L-10.390625 49.417969 L-12.078125 49.417969 L-12.078125 50.574219 Q-10.890625 51.558594 -10.203125 52.355469 L-10.71875 53.214844 Q-11.3125 52.371094 -12.078125 51.511719 L-12.078125 56.902344 L-12.890625 56.902344 L-12.890625 51.011719 ZM-4.625 46.902344 L-4.625 56.683594 L-5.4375 56.683594 L-5.4375 55.839844 L-9.109375 55.839844 L-9.109375 56.683594 L-9.90625 56.683594 L-9.90625 46.902344 L-4.625 46.902344 ZM-9.109375 47.636719 L-9.109375 49.589844 L-5.4375 49.589844 L-5.4375 47.636719 L-9.109375 47.636719 ZM-9.109375 50.308594 L-9.109375 52.261719 L-5.4375 52.261719 L-5.4375 50.308594 L-9.109375 50.308594 ZM-9.109375 52.980469 L-9.109375 55.105469 L-5.4375 55.105469 L-5.4375 52.980469 L-9.109375 52.980469 ZM2.90625 50.558594 L6.75 50.558594 L6.75 56.902344 L5.859375 56.902344 L5.859375 56.292969 L-1.953125 56.292969 L-1.953125 55.511719 L5.859375 55.511719 L5.859375 53.730469 L-1.671875 53.730469 L-1.671875 52.964844 L5.859375 52.964844 L5.859375 51.324219 L-1.96875 51.324219 L-1.96875 50.558594 L2.015625 50.558594 L2.015625 46.402344 L2.90625 46.402344 L2.90625 50.558594 ZM-0.28125 50.027344 Q-0.921875 48.621094 -1.671875 47.605469 L-0.890625 47.167969 Q-0.125 48.136719 0.578125 49.589844 L-0.28125 50.027344 ZM4.171875 49.652344 Q5 48.527344 5.71875 46.980469 L6.609375 47.386719 Q5.859375 48.871094 4.96875 50.074219 L4.171875 49.652344 ZM13.84375 52.902344 L13.84375 56.839844 L13.03125 56.839844 L13.03125 56.292969 L10.546875 56.292969 L10.546875 56.902344 L9.71875 56.902344 L9.71875 52.902344 L13.84375 52.902344 ZM10.546875 53.621094 L10.546875 55.574219 L13.03125 55.574219 L13.03125 53.621094 L10.546875 53.621094 ZM16.609375 50.011719 L16.609375 46.355469 L17.46875 46.355469 L17.46875 50.011719 L19.875 50.011719 L19.875 50.808594 L17.46875 50.808594 L17.46875 56.902344 L16.609375 56.902344 L16.609375 50.808594 L14.234375 50.808594 L14.234375 50.011719 L16.609375 50.011719 ZM9.96875 46.605469 L13.609375 46.605469 L13.609375 47.339844 L9.96875 47.339844 L9.96875 46.605469 ZM9.21875 48.167969 L14.40625 48.167969 L14.40625 48.933594 L9.21875 48.933594 L9.21875 48.167969 ZM9.96875 49.761719 L13.609375 49.761719 L13.609375 50.496094 L9.96875 50.496094 L9.96875 49.761719 ZM9.96875 51.324219 L13.609375 51.324219 L13.609375 52.074219 L9.96875 52.074219 L9.96875 51.324219 ZM27.734375 46.902344 L27.734375 54.027344 L24.359375 54.027344 L24.359375 46.902344 L27.734375 46.902344 ZM25.109375 47.636719 L25.109375 49.011719 L26.984375 49.011719 L26.984375 47.636719 L25.109375 47.636719 ZM25.109375 49.714844 L25.109375 51.074219 L26.984375 51.074219 L26.984375 49.714844 L25.109375 49.714844 ZM25.109375 51.777344 L25.109375 53.292969 L26.984375 53.292969 L26.984375 51.777344 L25.109375 51.777344 ZM23.15625 48.761719 Q22.375 47.761719 21.546875 47.121094 L22.109375 46.496094 Q22.953125 47.152344 23.75 48.058594 L23.15625 48.761719 ZM22.796875 51.574219 Q22.03125 50.667969 21.109375 49.949219 L21.671875 49.324219 Q22.640625 49.996094 23.359375 50.855469 L22.796875 51.574219 ZM21.203125 56.199219 Q22.21875 54.558594 22.9375 52.480469 L23.625 53.027344 Q22.90625 55.167969 21.921875 56.855469 L21.203125 56.199219 ZM27.65625 56.542969 Q27.015625 55.464844 26.359375 54.714844 L27 54.246094 Q27.6875 54.964844 28.328125 55.933594 L27.65625 56.542969 ZM28.703125 47.589844 L29.515625 47.589844 L29.515625 54.261719 L28.703125 54.261719 L28.703125 47.589844 ZM23.578125 56.261719 Q24.4375 55.496094 25.09375 54.214844 L25.796875 54.621094 Q25.046875 56.074219 24.140625 56.980469 L23.578125 56.261719 ZM30.65625 46.527344 L31.46875 46.527344 L31.46875 55.855469 Q31.46875 56.792969 30.4375 56.792969 Q29.71875 56.792969 29.015625 56.730469 L28.828125 55.855469 Q29.734375 55.964844 30.28125 55.964844 Q30.65625 55.964844 30.65625 55.605469 L30.65625 46.527344 ZM38.046875 47.589844 L38.046875 47.042969 L34.484375 47.042969 L34.484375 46.402344 L42.515625 46.402344 L42.515625 47.042969 L38.875 47.042969 L38.875 47.589844 L43.5 47.589844 L43.5 49.761719 L42.65625 49.761719 L42.65625 48.230469 L38.875 48.230469 L38.875 50.636719 L38.046875 50.636719 L38.046875 48.230469 L34.328125 48.230469 L34.328125 49.761719 L33.484375 49.761719 L33.484375 47.589844 L38.046875 47.589844 ZM41.34375 55.511719 Q42.21875 55.949219 43.796875 56.199219 L43.328125 56.917969 Q40.09375 56.292969 38.625 54.058594 L37.125 54.058594 L37.125 55.949219 Q38.453125 55.746094 39.75 55.480469 L39.8125 56.121094 Q37.765625 56.605469 35.15625 56.980469 L34.890625 56.230469 Q35.078125 56.214844 35.5625 56.152344 Q36.015625 56.105469 36.296875 56.074219 L36.296875 54.058594 L34.9375 54.058594 Q34.8125 55.871094 33.890625 57.074219 L33.234375 56.464844 Q34.125 55.308594 34.125 53.589844 L34.125 50.980469 L43.1875 50.980469 L43.1875 51.589844 L34.953125 51.589844 L34.953125 53.417969 L43.5 53.417969 L43.5 54.058594 L42.296875 54.058594 L42.875 54.527344 Q42.25 55.042969 41.34375 55.511719 ZM40.703125 55.152344 Q41.53125 54.621094 42.125 54.058594 L39.515625 54.058594 Q40.046875 54.730469 40.703125 55.152344 ZM34.890625 48.730469 L37.484375 48.730469 L37.484375 49.292969 L34.890625 49.292969 L34.890625 48.730469 ZM34.890625 49.824219 L37.484375 49.824219 L37.484375 50.386719 L34.890625 50.386719 L34.890625 49.824219 ZM39.421875 48.730469 L42.09375 48.730469 L42.09375 49.292969 L39.421875 49.292969 L39.421875 48.730469 ZM39.421875 49.824219 L42.09375 49.824219 L42.09375 50.386719 L39.421875 50.386719 L39.421875 49.824219 ZM35.515625 52.167969 L42.28125 52.167969 L42.28125 52.761719 L35.515625 52.761719 L35.515625 52.167969 ZM51.09375 47.386719 L55.359375 47.386719 L55.359375 48.121094 L46.890625 48.121094 L46.890625 49.402344 L48.859375 49.402344 L48.859375 48.480469 L49.671875 48.480469 L49.671875 49.402344 L52.1875 49.402344 L52.1875 48.480469 L52.984375 48.480469 L52.984375 49.402344 L55.421875 49.402344 L55.421875 50.121094 L52.984375 50.121094 L52.984375 51.808594 L48.859375 51.808594 L48.859375 50.121094 L46.890625 50.121094 L46.890625 50.902344 Q46.890625 53.371094 46.625 54.605469 Q46.390625 55.683594 45.640625 56.886719 L45 56.152344 Q45.71875 55.042969 45.9375 53.464844 Q46.046875 52.558594 46.046875 50.902344 L46.046875 47.386719 L50.1875 47.386719 L50.1875 46.089844 L51.09375 46.089844 L51.09375 47.386719 ZM49.671875 50.121094 L49.671875 51.152344 L52.1875 51.152344 L52.1875 50.121094 L49.671875 50.121094 ZM51.265625 55.558594 Q49.734375 56.496094 47.265625 56.980469 L46.796875 56.246094 Q49.09375 55.933594 50.53125 55.136719 Q49.265625 54.355469 48.46875 53.199219 L47.453125 53.199219 L47.453125 52.496094 L53.6875 52.496094 L54.109375 52.871094 Q53.171875 54.199219 51.984375 55.089844 Q53.453125 55.683594 55.609375 55.949219 L55.078125 56.808594 Q52.8125 56.371094 51.265625 55.558594 ZM49.390625 53.199219 Q50.09375 54.105469 51.203125 54.714844 Q52.3125 53.964844 52.796875 53.199219 L49.390625 53.199219 Z"
+         clip-path="url(#clipPath2)"
+         transform="matrix(0,-1,1,0,-30.5,71.5)"
+         stroke="none"
+         id="path127" />
+    </g>
+    <g
+       stroke-linecap="butt"
+       fill="silver"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke-linejoin="bevel"
+       stroke-dasharray="2,2"
+       stroke="silver"
+       stroke-width="0.5"
+       stroke-miterlimit="0"
+       id="g209">
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="48"
+         y1="8"
+         y2="94"
+         id="line131" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="57.84636"
+         x2="57.84636"
+         y1="8"
+         y2="94"
+         id="line133" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="64.832463"
+         x2="64.832463"
+         y1="8"
+         y2="94"
+         id="line135" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="70.251306"
+         x2="70.251306"
+         y1="8"
+         y2="94"
+         id="line137" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="74.678823"
+         x2="74.678823"
+         y1="8"
+         y2="94"
+         id="line139" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="78.422235"
+         x2="78.422235"
+         y1="8"
+         y2="94"
+         id="line141" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="81.664926"
+         x2="81.664926"
+         y1="8"
+         y2="94"
+         id="line143" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="84.525182"
+         x2="84.525182"
+         y1="8"
+         y2="94"
+         id="line145" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="87.083769"
+         x2="87.083769"
+         y1="8"
+         y2="94"
+         id="line147" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="87.083769"
+         x2="87.083769"
+         y1="8"
+         y2="94"
+         id="line149" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="103.916231"
+         x2="103.916231"
+         y1="8"
+         y2="94"
+         id="line151" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="113.762591"
+         x2="113.762591"
+         y1="8"
+         y2="94"
+         id="line153" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="120.748694"
+         x2="120.748694"
+         y1="8"
+         y2="94"
+         id="line155" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="126.167537"
+         x2="126.167537"
+         y1="8"
+         y2="94"
+         id="line157" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="130.595054"
+         x2="130.595054"
+         y1="8"
+         y2="94"
+         id="line159" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="134.338466"
+         x2="134.338466"
+         y1="8"
+         y2="94"
+         id="line161" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="137.581157"
+         x2="137.581157"
+         y1="8"
+         y2="94"
+         id="line163" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="140.441414"
+         x2="140.441414"
+         y1="8"
+         y2="94"
+         id="line165" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="143"
+         x2="143"
+         y1="8"
+         y2="94"
+         id="line167" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="143"
+         x2="143"
+         y1="8"
+         y2="94"
+         id="line169" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="159.832463"
+         x2="159.832463"
+         y1="8"
+         y2="94"
+         id="line171" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="169.678823"
+         x2="169.678823"
+         y1="8"
+         y2="94"
+         id="line173" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="176.664926"
+         x2="176.664926"
+         y1="8"
+         y2="94"
+         id="line175" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="182.083769"
+         x2="182.083769"
+         y1="8"
+         y2="94"
+         id="line177" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="186.511285"
+         x2="186.511285"
+         y1="8"
+         y2="94"
+         id="line179" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="190.254698"
+         x2="190.254698"
+         y1="8"
+         y2="94"
+         id="line181" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="193.497389"
+         x2="193.497389"
+         y1="8"
+         y2="94"
+         id="line183" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="196.357645"
+         x2="196.357645"
+         y1="8"
+         y2="94"
+         id="line185" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="198.916231"
+         x2="198.916231"
+         y1="8"
+         y2="94"
+         id="line187" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="198.916231"
+         x2="198.916231"
+         y1="8"
+         y2="94"
+         id="line189" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="215.748694"
+         x2="215.748694"
+         y1="8"
+         y2="94"
+         id="line191" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="225.595054"
+         x2="225.595054"
+         y1="8"
+         y2="94"
+         id="line193" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="232.581157"
+         x2="232.581157"
+         y1="8"
+         y2="94"
+         id="line195" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="238"
+         x2="238"
+         y1="8"
+         y2="94"
+         id="line197" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="94"
+         y2="94"
+         id="line199" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="74.888889"
+         y2="74.888889"
+         id="line201" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="55.777778"
+         y2="55.777778"
+         id="line203" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="36.666667"
+         y2="36.666667"
+         id="line205" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="48"
+         x2="238"
+         y1="17.555556"
+         y2="17.555556"
+         id="line207" />
+    </g>
+    <g
+       stroke-linecap="round"
+       fill="red"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke-linejoin="round"
+       stroke="red"
+       stroke-width="2"
+       stroke-miterlimit="0"
+       id="g213">
+      <path
+         fill="none"
+         d="M61.565376 90.185966 L67.156998 88.3517 L72.748627 86.501221 L78.340248 84.634529 L83.93187 82.751617 L89.523491 80.852493 L95.11512 78.937157 L100.706741 77.0056 L106.298363 75.057831 L111.889984 73.093849 L117.481606 71.113647 L123.073235 69.117233 L128.664856 67.104599 L134.256485 65.075752 L139.848099 63.030693 L145.439728 60.969418 L151.031342 58.891926 L156.622971 56.798218 L162.2146 54.688297 L167.806213 52.562157 L173.397842 50.419804 L178.989471 48.261238 L184.581085 46.086452 L190.172714 43.895454 L195.764328 41.68824 L201.355957 39.464809 L206.947586 37.225166 L212.5392 34.969307 L218.130829 32.697231 L223.722443 30.408939 L229.314072 28.104433 L234.905701 25.783712"
+         clip-path="url(#clipPath3)"
+         id="path211" />
+    </g>
+    <g
+       stroke-linecap="round"
+       fill="blue"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke-linejoin="round"
+       stroke-dasharray="9,3"
+       stroke="blue"
+       stroke-miterlimit="0"
+       id="g219">
+      <path
+         fill="none"
+         d="M61.565376 90.761505 L67.156998 88.775597 L72.748627 86.789688 L78.340248 84.80378 L83.93187 82.817871 L89.523491 80.831955 L95.11512 78.846046 L100.706741 76.860138 L106.298363 74.874229 L111.889984 72.888313 L117.481606 70.902405 L123.073235 68.916496 L128.664856 66.930588 L134.256485 64.944679 L139.848099 62.958767 L145.439728 60.972855 L151.031342 58.986946 L156.622971 57.001034 L162.2146 55.015125 L167.806213 53.029217 L173.397842 51.043304 L178.989471 49.057396 L184.581085 47.071484 L190.172714 45.085575 L195.764328 43.099663 L201.355957 41.113754 L206.947586 39.127846 L212.5392 37.141933 L218.130829 35.156025 L223.722443 33.170113 L229.314072 31.184204 L234.905701 29.198294"
+         clip-path="url(#clipPath3)"
+         id="path215" />
+      <path
+         fill="black"
+         d="M211.193604 33.717785 L213.193604 33.717785 L213.193604 35.717785 L211.193604 35.717785 L211.193604 33.717785 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path217" />
+    </g>
+    <g
+       font-family="sans-serif"
+       text-rendering="optimizeLegibility"
+       id="g1145">
+      <path
+         fill="none"
+         d="M211.193604 33.717785 L213.193604 33.717785 L213.193604 35.717785 L211.193604 35.717785 L211.193604 33.717785 Z"
+         clip-path="url(#clipPath3)"
+         id="path221" />
+      <path
+         d="M189.406494 40.404419 L191.406494 40.404419 L191.406494 42.404419 L189.406494 42.404419 L189.406494 40.404419 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path223" />
+      <path
+         fill="none"
+         d="M189.406494 40.404419 L191.406494 40.404419 L191.406494 42.404419 L189.406494 42.404419 L189.406494 40.404419 Z"
+         clip-path="url(#clipPath3)"
+         id="path225" />
+      <path
+         d="M192.859985 40.649307 L194.859985 40.649307 L194.859985 42.649307 L192.859985 42.649307 L192.859985 40.649307 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path227" />
+      <path
+         fill="none"
+         d="M192.859985 40.649307 L194.859985 40.649307 L194.859985 42.649307 L192.859985 42.649307 L192.859985 40.649307 Z"
+         clip-path="url(#clipPath3)"
+         id="path229" />
+      <path
+         d="M184.044159 45.809933 L186.044159 45.809933 L186.044159 47.809933 L184.044159 47.809933 L184.044159 45.809933 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path231" />
+      <path
+         fill="none"
+         d="M184.044159 45.809933 L186.044159 45.809933 L186.044159 47.809933 L184.044159 47.809933 L184.044159 45.809933 Z"
+         clip-path="url(#clipPath3)"
+         id="path233" />
+      <path
+         d="M161.760178 47.963306 L163.760178 47.963306 L163.760178 49.963306 L161.760178 49.963306 L161.760178 47.963306 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path235" />
+      <path
+         fill="none"
+         d="M161.760178 47.963306 L163.760178 47.963306 L163.760178 49.963306 L161.760178 49.963306 L161.760178 47.963306 Z"
+         clip-path="url(#clipPath3)"
+         id="path237" />
+      <path
+         d="M160.387848 52.013878 L162.387848 52.013878 L162.387848 54.013878 L160.387848 54.013878 L160.387848 52.013878 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path239" />
+      <path
+         fill="none"
+         d="M160.387848 52.013878 L162.387848 52.013878 L162.387848 54.013878 L160.387848 54.013878 L160.387848 52.013878 Z"
+         clip-path="url(#clipPath3)"
+         id="path241" />
+      <path
+         d="M166.975662 51.731087 L168.975662 51.731087 L168.975662 53.731087 L166.975662 53.731087 L166.975662 51.731087 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path243" />
+      <path
+         fill="none"
+         d="M166.975662 51.731087 L168.975662 51.731087 L168.975662 53.731087 L166.975662 53.731087 L166.975662 51.731087 Z"
+         clip-path="url(#clipPath3)"
+         id="path245" />
+      <path
+         d="M151.944031 57.764454 L153.944031 57.764454 L153.944031 59.764454 L151.944031 59.764454 L151.944031 57.764454 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path247" />
+      <path
+         fill="none"
+         d="M151.944031 57.764454 L153.944031 57.764454 L153.944031 59.764454 L151.944031 59.764454 L151.944031 57.764454 Z"
+         clip-path="url(#clipPath3)"
+         id="path249" />
+      <path
+         d="M162.947891 54.054672 L164.947891 54.054672 L164.947891 56.054672 L162.947891 56.054672 L162.947891 54.054672 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path251" />
+      <path
+         fill="none"
+         d="M162.947891 54.054672 L164.947891 54.054672 L164.947891 56.054672 L162.947891 56.054672 L162.947891 54.054672 Z"
+         clip-path="url(#clipPath3)"
+         id="path253" />
+      <path
+         d="M154.55513 57.483124 L156.55513 57.483124 L156.55513 59.483124 L154.55513 59.483124 L154.55513 57.483124 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path255" />
+      <path
+         fill="none"
+         d="M154.55513 57.483124 L156.55513 57.483124 L156.55513 59.483124 L154.55513 59.483124 L154.55513 57.483124 Z"
+         clip-path="url(#clipPath3)"
+         id="path257" />
+      <path
+         d="M153.092102 56.323338 L155.092102 56.323338 L155.092102 58.323338 L153.092102 58.323338 L153.092102 56.323338 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path259" />
+      <path
+         fill="none"
+         d="M153.092102 56.323338 L155.092102 56.323338 L155.092102 58.323338 L153.092102 58.323338 L153.092102 56.323338 Z"
+         clip-path="url(#clipPath3)"
+         id="path261" />
+      <path
+         d="M148.658508 59.263145 L150.658508 59.263145 L150.658508 61.263145 L148.658508 61.263145 L148.658508 59.263145 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path263" />
+      <path
+         fill="none"
+         d="M148.658508 59.263145 L150.658508 59.263145 L150.658508 61.263145 L148.658508 61.263145 L148.658508 59.263145 Z"
+         clip-path="url(#clipPath3)"
+         id="path265" />
+      <path
+         d="M147.737808 58.291313 L149.737808 58.291313 L149.737808 60.291313 L147.737808 60.291313 L147.737808 58.291313 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path267" />
+      <path
+         fill="none"
+         d="M147.737808 58.291313 L149.737808 58.291313 L149.737808 60.291313 L147.737808 60.291313 L147.737808 58.291313 Z"
+         clip-path="url(#clipPath3)"
+         id="path269" />
+      <path
+         d="M143.989059 58.414356 L145.989059 58.414356 L145.989059 60.414356 L143.989059 60.414356 L143.989059 58.414356 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path271" />
+      <path
+         fill="none"
+         d="M143.989059 58.414356 L145.989059 58.414356 L145.989059 60.414356 L143.989059 60.414356 L143.989059 58.414356 Z"
+         clip-path="url(#clipPath3)"
+         id="path273" />
+      <path
+         d="M151.418884 57.50098 L153.418884 57.50098 L153.418884 59.50098 L151.418884 59.50098 L151.418884 57.50098 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path275" />
+      <path
+         fill="none"
+         d="M151.418884 57.50098 L153.418884 57.50098 L153.418884 59.50098 L151.418884 59.50098 L151.418884 57.50098 Z"
+         clip-path="url(#clipPath3)"
+         id="path277" />
+      <path
+         d="M137.077515 61.898365 L139.077515 61.898365 L139.077515 63.898365 L137.077515 63.898365 L137.077515 61.898365 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path279" />
+      <path
+         fill="none"
+         d="M137.077515 61.898365 L139.077515 61.898365 L139.077515 63.898365 L137.077515 63.898365 L137.077515 61.898365 Z"
+         clip-path="url(#clipPath3)"
+         id="path281" />
+      <path
+         d="M142.569168 60.291836 L144.569168 60.291836 L144.569168 62.291836 L142.569168 62.291836 L142.569168 60.291836 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path283" />
+      <path
+         fill="none"
+         d="M142.569168 60.291836 L144.569168 60.291836 L144.569168 62.291836 L142.569168 62.291836 L142.569168 60.291836 Z"
+         clip-path="url(#clipPath3)"
+         id="path285" />
+      <path
+         d="M152.873917 57.813168 L154.873917 57.813168 L154.873917 59.813168 L152.873917 59.813168 L152.873917 57.813168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path287" />
+      <path
+         fill="none"
+         d="M152.873917 57.813168 L154.873917 57.813168 L154.873917 59.813168 L152.873917 59.813168 L152.873917 57.813168 Z"
+         clip-path="url(#clipPath3)"
+         id="path289" />
+      <path
+         d="M149.162292 59.846413 L151.162292 59.846413 L151.162292 61.846413 L149.162292 61.846413 L149.162292 59.846413 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path291" />
+      <path
+         fill="none"
+         d="M149.162292 59.846413 L151.162292 59.846413 L151.162292 61.846413 L149.162292 61.846413 L149.162292 59.846413 Z"
+         clip-path="url(#clipPath3)"
+         id="path293" />
+      <path
+         d="M149.963867 59.053577 L151.963867 59.053577 L151.963867 61.053577 L149.963867 61.053577 L149.963867 59.053577 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path295" />
+      <path
+         fill="none"
+         d="M149.963867 59.053577 L151.963867 59.053577 L151.963867 61.053577 L149.963867 61.053577 L149.963867 59.053577 Z"
+         clip-path="url(#clipPath3)"
+         id="path297" />
+      <path
+         d="M146.346283 60.877186 L148.346283 60.877186 L148.346283 62.877186 L146.346283 62.877186 L146.346283 60.877186 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path299" />
+      <path
+         fill="none"
+         d="M146.346283 60.877186 L148.346283 60.877186 L148.346283 62.877186 L146.346283 62.877186 L146.346283 60.877186 Z"
+         clip-path="url(#clipPath3)"
+         id="path301" />
+      <path
+         d="M145.746704 62.794796 L147.746704 62.794796 L147.746704 64.7948 L145.746704 64.7948 L145.746704 62.794796 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path303" />
+      <path
+         fill="none"
+         d="M145.746704 62.794796 L147.746704 62.794796 L147.746704 64.7948 L145.746704 64.7948 L145.746704 62.794796 Z"
+         clip-path="url(#clipPath3)"
+         id="path305" />
+      <path
+         d="M142.156372 61.166382 L144.156372 61.166382 L144.156372 63.166382 L142.156372 63.166382 L142.156372 61.166382 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path307" />
+      <path
+         fill="none"
+         d="M142.156372 61.166382 L144.156372 61.166382 L144.156372 63.166382 L142.156372 63.166382 L142.156372 61.166382 Z"
+         clip-path="url(#clipPath3)"
+         id="path309" />
+      <path
+         d="M131.344406 67.186981 L133.344406 67.186981 L133.344406 69.186981 L131.344406 69.186981 L131.344406 67.186981 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path311" />
+      <path
+         fill="none"
+         d="M131.344406 67.186981 L133.344406 67.186981 L133.344406 69.186981 L131.344406 69.186981 L131.344406 67.186981 Z"
+         clip-path="url(#clipPath3)"
+         id="path313" />
+      <path
+         d="M138.76947 61.31361 L140.76947 61.31361 L140.76947 63.31361 L138.76947 63.31361 L138.76947 61.31361 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path315" />
+      <path
+         fill="none"
+         d="M138.76947 61.31361 L140.76947 61.31361 L140.76947 63.31361 L138.76947 63.31361 L138.76947 61.31361 Z"
+         clip-path="url(#clipPath3)"
+         id="path317" />
+      <path
+         d="M134.880112 66.081322 L136.880112 66.081322 L136.880112 68.081322 L134.880112 68.081322 L134.880112 66.081322 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path319" />
+      <path
+         fill="none"
+         d="M134.880112 66.081322 L136.880112 66.081322 L136.880112 68.081322 L134.880112 68.081322 L134.880112 66.081322 Z"
+         clip-path="url(#clipPath3)"
+         id="path321" />
+      <path
+         d="M133.294846 63.131508 L135.294846 63.131508 L135.294846 65.131508 L133.294846 65.131508 L133.294846 63.131508 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path323" />
+      <path
+         fill="none"
+         d="M133.294846 63.131508 L135.294846 63.131508 L135.294846 65.131508 L133.294846 65.131508 L133.294846 63.131508 Z"
+         clip-path="url(#clipPath3)"
+         id="path325" />
+      <path
+         d="M136.467056 61.206512 L138.467056 61.206512 L138.467056 63.206512 L136.467056 63.206512 L136.467056 61.206512 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path327" />
+      <path
+         fill="none"
+         d="M136.467056 61.206512 L138.467056 61.206512 L138.467056 63.206512 L136.467056 63.206512 L136.467056 61.206512 Z"
+         clip-path="url(#clipPath3)"
+         id="path329" />
+      <path
+         d="M135.21489 62.526844 L137.21489 62.526844 L137.21489 64.52684 L135.21489 64.52684 L135.21489 62.526844 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path331" />
+      <path
+         fill="none"
+         d="M135.21489 62.526844 L137.21489 62.526844 L137.21489 64.52684 L135.21489 64.52684 L135.21489 62.526844 Z"
+         clip-path="url(#clipPath3)"
+         id="path333" />
+      <path
+         d="M122.735268 65.729233 L124.735268 65.729233 L124.735268 67.729233 L122.735268 67.729233 L122.735268 65.729233 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path335" />
+      <path
+         fill="none"
+         d="M122.735268 65.729233 L124.735268 65.729233 L124.735268 67.729233 L122.735268 67.729233 L122.735268 65.729233 Z"
+         clip-path="url(#clipPath3)"
+         id="path337" />
+      <path
+         d="M129.713135 61.649025 L131.713135 61.649025 L131.713135 63.649025 L129.713135 63.649025 L129.713135 61.649025 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path339" />
+      <path
+         fill="none"
+         d="M129.713135 61.649025 L131.713135 61.649025 L131.713135 63.649025 L129.713135 63.649025 L129.713135 61.649025 Z"
+         clip-path="url(#clipPath3)"
+         id="path341" />
+      <path
+         d="M141.976196 63.840248 L143.976196 63.840248 L143.976196 65.840248 L141.976196 65.840248 L141.976196 63.840248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path343" />
+      <path
+         fill="none"
+         d="M141.976196 63.840248 L143.976196 63.840248 L143.976196 65.840248 L141.976196 65.840248 L141.976196 63.840248 Z"
+         clip-path="url(#clipPath3)"
+         id="path345" />
+      <path
+         d="M131.904602 65.722229 L133.904602 65.722229 L133.904602 67.722229 L131.904602 67.722229 L131.904602 65.722229 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path347" />
+      <path
+         fill="none"
+         d="M131.904602 65.722229 L133.904602 65.722229 L133.904602 67.722229 L131.904602 67.722229 L131.904602 65.722229 Z"
+         clip-path="url(#clipPath3)"
+         id="path349" />
+      <path
+         d="M130.523041 63.765797 L132.523041 63.765797 L132.523041 65.7658 L130.523041 65.7658 L130.523041 63.765797 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path351" />
+      <path
+         fill="none"
+         d="M130.523041 63.765797 L132.523041 63.765797 L132.523041 65.7658 L130.523041 65.7658 L130.523041 63.765797 Z"
+         clip-path="url(#clipPath3)"
+         id="path353" />
+      <path
+         d="M127.837082 67.288689 L129.837082 67.288689 L129.837082 69.288689 L127.837082 69.288689 L127.837082 67.288689 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path355" />
+      <path
+         fill="none"
+         d="M127.837082 67.288689 L129.837082 67.288689 L129.837082 69.288689 L127.837082 69.288689 L127.837082 67.288689 Z"
+         clip-path="url(#clipPath3)"
+         id="path357" />
+      <path
+         d="M135.426102 65.073586 L137.426102 65.073586 L137.426102 67.073586 L135.426102 67.073586 L135.426102 65.073586 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path359" />
+      <path
+         fill="none"
+         d="M135.426102 65.073586 L137.426102 65.073586 L137.426102 67.073586 L135.426102 67.073586 L135.426102 65.073586 Z"
+         clip-path="url(#clipPath3)"
+         id="path361" />
+      <path
+         d="M135.689148 63.737076 L137.689148 63.737076 L137.689148 65.737076 L135.689148 65.737076 L135.689148 63.737076 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path363" />
+      <path
+         fill="none"
+         d="M135.689148 63.737076 L137.689148 63.737076 L137.689148 65.737076 L135.689148 65.737076 L135.689148 63.737076 Z"
+         clip-path="url(#clipPath3)"
+         id="path365" />
+      <path
+         d="M142.143204 63.194313 L144.143204 63.194313 L144.143204 65.194313 L142.143204 65.194313 L142.143204 63.194313 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path367" />
+      <path
+         fill="none"
+         d="M142.143204 63.194313 L144.143204 63.194313 L144.143204 65.194313 L142.143204 65.194313 L142.143204 63.194313 Z"
+         clip-path="url(#clipPath3)"
+         id="path369" />
+      <path
+         d="M115.343552 81.33548 L117.343552 81.33548 L117.343552 83.33548 L115.343552 83.33548 L115.343552 81.33548 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path371" />
+      <path
+         fill="none"
+         d="M115.343552 81.33548 L117.343552 81.33548 L117.343552 83.33548 L115.343552 83.33548 L115.343552 81.33548 Z"
+         clip-path="url(#clipPath3)"
+         id="path373" />
+      <path
+         d="M128.821091 66.314934 L130.821091 66.314934 L130.821091 68.314934 L128.821091 68.314934 L128.821091 66.314934 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path375" />
+      <path
+         fill="none"
+         d="M128.821091 66.314934 L130.821091 66.314934 L130.821091 68.314934 L128.821091 68.314934 L128.821091 66.314934 Z"
+         clip-path="url(#clipPath3)"
+         id="path377" />
+      <path
+         d="M129.793198 65.615936 L131.793198 65.615936 L131.793198 67.615936 L129.793198 67.615936 L129.793198 65.615936 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path379" />
+      <path
+         fill="none"
+         d="M129.793198 65.615936 L131.793198 65.615936 L131.793198 67.615936 L129.793198 67.615936 L129.793198 65.615936 Z"
+         clip-path="url(#clipPath3)"
+         id="path381" />
+      <path
+         d="M128.813248 64.496086 L130.813248 64.496086 L130.813248 66.496086 L128.813248 66.496086 L128.813248 64.496086 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path383" />
+      <path
+         fill="none"
+         d="M128.813248 64.496086 L130.813248 64.496086 L130.813248 66.496086 L128.813248 66.496086 L128.813248 64.496086 Z"
+         clip-path="url(#clipPath3)"
+         id="path385" />
+      <path
+         d="M122.943039 67.198128 L124.943039 67.198128 L124.943039 69.198128 L122.943039 69.198128 L122.943039 67.198128 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path387" />
+      <path
+         fill="none"
+         d="M122.943039 67.198128 L124.943039 67.198128 L124.943039 69.198128 L122.943039 69.198128 L122.943039 67.198128 Z"
+         clip-path="url(#clipPath3)"
+         id="path389" />
+      <path
+         d="M131.016174 66.092056 L133.016174 66.092056 L133.016174 68.092056 L131.016174 68.092056 L131.016174 66.092056 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path391" />
+      <path
+         fill="none"
+         d="M131.016174 66.092056 L133.016174 66.092056 L133.016174 68.092056 L131.016174 68.092056 L131.016174 66.092056 Z"
+         clip-path="url(#clipPath3)"
+         id="path393" />
+      <path
+         d="M120.850121 66.428581 L122.850121 66.428581 L122.850121 68.428581 L120.850121 68.428581 L120.850121 66.428581 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path395" />
+      <path
+         fill="none"
+         d="M120.850121 66.428581 L122.850121 66.428581 L122.850121 68.428581 L120.850121 68.428581 L120.850121 66.428581 Z"
+         clip-path="url(#clipPath3)"
+         id="path397" />
+      <path
+         d="M131.708939 65.462273 L133.708939 65.462273 L133.708939 67.462273 L131.708939 67.462273 L131.708939 65.462273 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path399" />
+      <path
+         fill="none"
+         d="M131.708939 65.462273 L133.708939 65.462273 L133.708939 67.462273 L131.708939 67.462273 L131.708939 65.462273 Z"
+         clip-path="url(#clipPath3)"
+         id="path401" />
+      <path
+         d="M143.637573 61.4613 L145.637573 61.4613 L145.637573 63.4613 L143.637573 63.4613 L143.637573 61.4613 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path403" />
+      <path
+         fill="none"
+         d="M143.637573 61.4613 L145.637573 61.4613 L145.637573 63.4613 L143.637573 63.4613 L143.637573 61.4613 Z"
+         clip-path="url(#clipPath3)"
+         id="path405" />
+      <path
+         d="M133.864502 64.383797 L135.864502 64.383797 L135.864502 66.383797 L133.864502 66.383797 L133.864502 64.383797 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path407" />
+      <path
+         fill="none"
+         d="M133.864502 64.383797 L135.864502 64.383797 L135.864502 66.383797 L133.864502 66.383797 L133.864502 64.383797 Z"
+         clip-path="url(#clipPath3)"
+         id="path409" />
+      <path
+         d="M142.180405 64.675438 L144.180405 64.675438 L144.180405 66.675438 L142.180405 66.675438 L142.180405 64.675438 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path411" />
+      <path
+         fill="none"
+         d="M142.180405 64.675438 L144.180405 64.675438 L144.180405 66.675438 L142.180405 66.675438 L142.180405 64.675438 Z"
+         clip-path="url(#clipPath3)"
+         id="path413" />
+      <path
+         d="M121.44825 64.892357 L123.44825 64.892357 L123.44825 66.892357 L121.44825 66.892357 L121.44825 64.892357 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path415" />
+      <path
+         fill="none"
+         d="M121.44825 64.892357 L123.44825 64.892357 L123.44825 66.892357 L121.44825 66.892357 L121.44825 64.892357 Z"
+         clip-path="url(#clipPath3)"
+         id="path417" />
+      <path
+         d="M124.44899 65.64682 L126.44899 65.64682 L126.44899 67.64682 L124.44899 67.64682 L124.44899 65.64682 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path419" />
+      <path
+         fill="none"
+         d="M124.44899 65.64682 L126.44899 65.64682 L126.44899 67.64682 L124.44899 67.64682 L124.44899 65.64682 Z"
+         clip-path="url(#clipPath3)"
+         id="path421" />
+      <path
+         d="M117.195946 65.338226 L119.195946 65.338226 L119.195946 67.338226 L117.195946 67.338226 L117.195946 65.338226 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path423" />
+      <path
+         fill="none"
+         d="M117.195946 65.338226 L119.195946 65.338226 L119.195946 67.338226 L117.195946 67.338226 L117.195946 65.338226 Z"
+         clip-path="url(#clipPath3)"
+         id="path425" />
+      <path
+         d="M131.017731 63.919621 L133.017731 63.919621 L133.017731 65.919617 L131.017731 65.919617 L131.017731 63.919621 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path427" />
+      <path
+         fill="none"
+         d="M131.017731 63.919621 L133.017731 63.919621 L133.017731 65.919617 L131.017731 65.919617 L131.017731 63.919621 Z"
+         clip-path="url(#clipPath3)"
+         id="path429" />
+      <path
+         d="M123.575333 64.436096 L125.575333 64.436096 L125.575333 66.436096 L123.575333 66.436096 L123.575333 64.436096 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path431" />
+      <path
+         fill="none"
+         d="M123.575333 64.436096 L125.575333 64.436096 L125.575333 66.436096 L123.575333 66.436096 L123.575333 64.436096 Z"
+         clip-path="url(#clipPath3)"
+         id="path433" />
+      <path
+         d="M116.384056 68.184029 L118.384056 68.184029 L118.384056 70.184029 L116.384056 70.184029 L116.384056 68.184029 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path435" />
+      <path
+         fill="none"
+         d="M116.384056 68.184029 L118.384056 68.184029 L118.384056 70.184029 L116.384056 70.184029 L116.384056 68.184029 Z"
+         clip-path="url(#clipPath3)"
+         id="path437" />
+      <path
+         d="M121.940399 68.184898 L123.940399 68.184898 L123.940399 70.184898 L121.940399 70.184898 L121.940399 68.184898 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path439" />
+      <path
+         fill="none"
+         d="M121.940399 68.184898 L123.940399 68.184898 L123.940399 70.184898 L121.940399 70.184898 L121.940399 68.184898 Z"
+         clip-path="url(#clipPath3)"
+         id="path441" />
+      <path
+         d="M112.319336 69.455917 L114.319336 69.455917 L114.319336 71.455917 L112.319336 71.455917 L112.319336 69.455917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path443" />
+      <path
+         fill="none"
+         d="M112.319336 69.455917 L114.319336 69.455917 L114.319336 71.455917 L112.319336 71.455917 L112.319336 69.455917 Z"
+         clip-path="url(#clipPath3)"
+         id="path445" />
+      <path
+         d="M124.897247 67.374191 L126.897247 67.374191 L126.897247 69.374191 L124.897247 69.374191 L124.897247 67.374191 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path447" />
+      <path
+         fill="none"
+         d="M124.897247 67.374191 L126.897247 67.374191 L126.897247 69.374191 L124.897247 69.374191 L124.897247 67.374191 Z"
+         clip-path="url(#clipPath3)"
+         id="path449" />
+      <path
+         d="M125.653763 68.668617 L127.653763 68.668617 L127.653763 70.668617 L125.653763 70.668617 L125.653763 68.668617 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path451" />
+      <path
+         fill="none"
+         d="M125.653763 68.668617 L127.653763 68.668617 L127.653763 70.668617 L125.653763 70.668617 L125.653763 68.668617 Z"
+         clip-path="url(#clipPath3)"
+         id="path453" />
+      <path
+         d="M117.795044 68.053017 L119.795044 68.053017 L119.795044 70.053017 L117.795044 70.053017 L117.795044 68.053017 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path455" />
+      <path
+         fill="none"
+         d="M117.795044 68.053017 L119.795044 68.053017 L119.795044 70.053017 L117.795044 70.053017 L117.795044 68.053017 Z"
+         clip-path="url(#clipPath3)"
+         id="path457" />
+      <path
+         d="M121.698608 67.142883 L123.698608 67.142883 L123.698608 69.142883 L121.698608 69.142883 L121.698608 67.142883 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path459" />
+      <path
+         fill="none"
+         d="M121.698608 67.142883 L123.698608 67.142883 L123.698608 69.142883 L121.698608 69.142883 L121.698608 67.142883 Z"
+         clip-path="url(#clipPath3)"
+         id="path461" />
+      <path
+         d="M127.049232 66.197609 L129.049225 66.197609 L129.049225 68.197609 L127.049232 68.197609 L127.049232 66.197609 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path463" />
+      <path
+         fill="none"
+         d="M127.049232 66.197609 L129.049225 66.197609 L129.049225 68.197609 L127.049232 68.197609 L127.049232 66.197609 Z"
+         clip-path="url(#clipPath3)"
+         id="path465" />
+      <path
+         d="M125.838997 67.564629 L127.838997 67.564629 L127.838997 69.564629 L125.838997 69.564629 L125.838997 67.564629 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path467" />
+      <path
+         fill="none"
+         d="M125.838997 67.564629 L127.838997 67.564629 L127.838997 69.564629 L125.838997 69.564629 L125.838997 67.564629 Z"
+         clip-path="url(#clipPath3)"
+         id="path469" />
+      <path
+         d="M118.682198 69.164383 L120.682198 69.164383 L120.682198 71.164383 L118.682198 71.164383 L118.682198 69.164383 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path471" />
+      <path
+         fill="none"
+         d="M118.682198 69.164383 L120.682198 69.164383 L120.682198 71.164383 L118.682198 71.164383 L118.682198 69.164383 Z"
+         clip-path="url(#clipPath3)"
+         id="path473" />
+      <path
+         d="M117.679787 69.874619 L119.679787 69.874619 L119.679787 71.874619 L117.679787 71.874619 L117.679787 69.874619 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path475" />
+      <path
+         fill="none"
+         d="M117.679787 69.874619 L119.679787 69.874619 L119.679787 71.874619 L117.679787 71.874619 L117.679787 69.874619 Z"
+         clip-path="url(#clipPath3)"
+         id="path477" />
+      <path
+         d="M123.186974 67.926048 L125.186974 67.926048 L125.186974 69.926048 L123.186974 69.926048 L123.186974 67.926048 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path479" />
+      <path
+         fill="none"
+         d="M123.186974 67.926048 L125.186974 67.926048 L125.186974 69.926048 L123.186974 69.926048 L123.186974 67.926048 Z"
+         clip-path="url(#clipPath3)"
+         id="path481" />
+      <path
+         d="M121.257042 68.754929 L123.257042 68.754929 L123.257042 70.754929 L121.257042 70.754929 L121.257042 68.754929 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path483" />
+      <path
+         fill="none"
+         d="M121.257042 68.754929 L123.257042 68.754929 L123.257042 70.754929 L121.257042 70.754929 L121.257042 68.754929 Z"
+         clip-path="url(#clipPath3)"
+         id="path485" />
+      <path
+         d="M117.818932 69.324562 L119.818932 69.324562 L119.818932 71.324562 L117.818932 71.324562 L117.818932 69.324562 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path487" />
+      <path
+         fill="none"
+         d="M117.818932 69.324562 L119.818932 69.324562 L119.818932 71.324562 L117.818932 71.324562 L117.818932 69.324562 Z"
+         clip-path="url(#clipPath3)"
+         id="path489" />
+      <path
+         d="M111.35614 70.108528 L113.35614 70.108528 L113.35614 72.108528 L111.35614 72.108528 L111.35614 70.108528 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path491" />
+      <path
+         fill="none"
+         d="M111.35614 70.108528 L113.35614 70.108528 L113.35614 72.108528 L111.35614 72.108528 L111.35614 70.108528 Z"
+         clip-path="url(#clipPath3)"
+         id="path493" />
+      <path
+         d="M106.179993 72.622314 L108.179993 72.622314 L108.179993 74.622314 L106.179993 74.622314 L106.179993 72.622314 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path495" />
+      <path
+         fill="none"
+         d="M106.179993 72.622314 L108.179993 72.622314 L108.179993 74.622314 L106.179993 74.622314 L106.179993 72.622314 Z"
+         clip-path="url(#clipPath3)"
+         id="path497" />
+      <path
+         d="M116.174187 69.191093 L118.174187 69.191093 L118.174187 71.191093 L116.174187 71.191093 L116.174187 69.191093 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path499" />
+      <path
+         fill="none"
+         d="M116.174187 69.191093 L118.174187 69.191093 L118.174187 71.191093 L116.174187 71.191093 L116.174187 69.191093 Z"
+         clip-path="url(#clipPath3)"
+         id="path501" />
+      <path
+         d="M128.191833 67.431633 L130.191833 67.431633 L130.191833 69.431633 L128.191833 69.431633 L128.191833 67.431633 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path503" />
+      <path
+         fill="none"
+         d="M128.191833 67.431633 L130.191833 67.431633 L130.191833 69.431633 L128.191833 69.431633 L128.191833 67.431633 Z"
+         clip-path="url(#clipPath3)"
+         id="path505" />
+      <path
+         d="M119.047913 65.993065 L121.047913 65.993065 L121.047913 67.993065 L119.047913 67.993065 L119.047913 65.993065 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path507" />
+      <path
+         fill="none"
+         d="M119.047913 65.993065 L121.047913 65.993065 L121.047913 67.993065 L119.047913 67.993065 L119.047913 65.993065 Z"
+         clip-path="url(#clipPath3)"
+         id="path509" />
+      <path
+         d="M121.510529 69.517967 L123.510529 69.517967 L123.510529 71.517967 L121.510529 71.517967 L121.510529 69.517967 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path511" />
+      <path
+         fill="none"
+         d="M121.510529 69.517967 L123.510529 69.517967 L123.510529 71.517967 L121.510529 71.517967 L121.510529 69.517967 Z"
+         clip-path="url(#clipPath3)"
+         id="path513" />
+      <path
+         d="M115.31031 73.029785 L117.31031 73.029785 L117.31031 75.029785 L115.31031 75.029785 L115.31031 73.029785 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path515" />
+      <path
+         fill="none"
+         d="M115.31031 73.029785 L117.31031 73.029785 L117.31031 75.029785 L115.31031 75.029785 L115.31031 73.029785 Z"
+         clip-path="url(#clipPath3)"
+         id="path517" />
+      <path
+         d="M121.234726 68.685486 L123.234726 68.685486 L123.234726 70.685486 L121.234726 70.685486 L121.234726 68.685486 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path519" />
+      <path
+         fill="none"
+         d="M121.234726 68.685486 L123.234726 68.685486 L123.234726 70.685486 L121.234726 70.685486 L121.234726 68.685486 Z"
+         clip-path="url(#clipPath3)"
+         id="path521" />
+      <path
+         d="M113.62574 70.31221 L115.62574 70.31221 L115.62574 72.31221 L113.62574 72.31221 L113.62574 70.31221 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path523" />
+      <path
+         fill="none"
+         d="M113.62574 70.31221 L115.62574 70.31221 L115.62574 72.31221 L113.62574 72.31221 L113.62574 70.31221 Z"
+         clip-path="url(#clipPath3)"
+         id="path525" />
+      <path
+         d="M115.109604 71.159286 L117.109604 71.159286 L117.109604 73.159286 L115.109604 73.159286 L115.109604 71.159286 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path527" />
+      <path
+         fill="none"
+         d="M115.109604 71.159286 L117.109604 71.159286 L117.109604 73.159286 L115.109604 73.159286 L115.109604 71.159286 Z"
+         clip-path="url(#clipPath3)"
+         id="path529" />
+      <path
+         d="M111.917999 71.791489 L113.917999 71.791489 L113.917999 73.791489 L111.917999 73.791489 L111.917999 71.791489 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path531" />
+      <path
+         fill="none"
+         d="M111.917999 71.791489 L113.917999 71.791489 L113.917999 73.791489 L111.917999 73.791489 L111.917999 71.791489 Z"
+         clip-path="url(#clipPath3)"
+         id="path533" />
+      <path
+         d="M122.867447 68.543251 L124.867447 68.543251 L124.867447 70.543251 L122.867447 70.543251 L122.867447 68.543251 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path535" />
+      <path
+         fill="none"
+         d="M122.867447 68.543251 L124.867447 68.543251 L124.867447 70.543251 L122.867447 70.543251 L122.867447 68.543251 Z"
+         clip-path="url(#clipPath3)"
+         id="path537" />
+      <path
+         d="M125.226776 69.171402 L127.226776 69.171402 L127.226776 71.171402 L125.226776 71.171402 L125.226776 69.171402 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path539" />
+      <path
+         fill="none"
+         d="M125.226776 69.171402 L127.226776 69.171402 L127.226776 71.171402 L125.226776 71.171402 L125.226776 69.171402 Z"
+         clip-path="url(#clipPath3)"
+         id="path541" />
+      <path
+         d="M111.587189 71.846298 L113.587189 71.846298 L113.587189 73.846298 L111.587189 73.846298 L111.587189 71.846298 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path543" />
+      <path
+         fill="none"
+         d="M111.587189 71.846298 L113.587189 71.846298 L113.587189 73.846298 L111.587189 73.846298 L111.587189 71.846298 Z"
+         clip-path="url(#clipPath3)"
+         id="path545" />
+      <path
+         d="M100.653198 73.94075 L102.653198 73.94075 L102.653198 75.94075 L100.653198 75.94075 L100.653198 73.94075 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path547" />
+      <path
+         fill="none"
+         d="M100.653198 73.94075 L102.653198 73.94075 L102.653198 75.94075 L100.653198 75.94075 L100.653198 73.94075 Z"
+         clip-path="url(#clipPath3)"
+         id="path549" />
+      <path
+         d="M99.996155 71.697968 L101.996155 71.697968 L101.996155 73.697968 L99.996155 73.697968 L99.996155 71.697968 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path551" />
+      <path
+         fill="none"
+         d="M99.996155 71.697968 L101.996155 71.697968 L101.996155 73.697968 L99.996155 73.697968 L99.996155 71.697968 Z"
+         clip-path="url(#clipPath3)"
+         id="path553" />
+      <path
+         d="M115.546097 72.76313 L117.546097 72.76313 L117.546097 74.76313 L115.546097 74.76313 L115.546097 72.76313 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path555" />
+      <path
+         fill="none"
+         d="M115.546097 72.76313 L117.546097 72.76313 L117.546097 74.76313 L115.546097 74.76313 L115.546097 72.76313 Z"
+         clip-path="url(#clipPath3)"
+         id="path557" />
+      <path
+         d="M112.632462 70.358101 L114.632462 70.358101 L114.632462 72.358101 L112.632462 72.358101 L112.632462 70.358101 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path559" />
+      <path
+         fill="none"
+         d="M112.632462 70.358101 L114.632462 70.358101 L114.632462 72.358101 L112.632462 72.358101 L112.632462 70.358101 Z"
+         clip-path="url(#clipPath3)"
+         id="path561" />
+      <path
+         d="M119.214355 69.287682 L121.214355 69.287682 L121.214355 71.287682 L119.214355 71.287682 L119.214355 69.287682 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path563" />
+      <path
+         fill="none"
+         d="M119.214355 69.287682 L121.214355 69.287682 L121.214355 71.287682 L119.214355 71.287682 L119.214355 69.287682 Z"
+         clip-path="url(#clipPath3)"
+         id="path565" />
+      <path
+         d="M119.697098 71.247856 L121.697098 71.247856 L121.697098 73.247856 L119.697098 73.247856 L119.697098 71.247856 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path567" />
+      <path
+         fill="none"
+         d="M119.697098 71.247856 L121.697098 71.247856 L121.697098 73.247856 L119.697098 73.247856 L119.697098 71.247856 Z"
+         clip-path="url(#clipPath3)"
+         id="path569" />
+      <path
+         d="M113.946487 72.726013 L115.946487 72.726013 L115.946487 74.726013 L113.946487 74.726013 L113.946487 72.726013 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path571" />
+      <path
+         fill="none"
+         d="M113.946487 72.726013 L115.946487 72.726013 L115.946487 74.726013 L113.946487 74.726013 L113.946487 72.726013 Z"
+         clip-path="url(#clipPath3)"
+         id="path573" />
+      <path
+         d="M110.140923 71.432892 L112.140923 71.432892 L112.140923 73.432892 L110.140923 73.432892 L110.140923 71.432892 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path575" />
+      <path
+         fill="none"
+         d="M110.140923 71.432892 L112.140923 71.432892 L112.140923 73.432892 L110.140923 73.432892 L110.140923 71.432892 Z"
+         clip-path="url(#clipPath3)"
+         id="path577" />
+      <path
+         d="M104.251381 71.063797 L106.251381 71.063797 L106.251381 73.063797 L104.251381 73.063797 L104.251381 71.063797 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path579" />
+      <path
+         fill="none"
+         d="M104.251381 71.063797 L106.251381 71.063797 L106.251381 73.063797 L104.251381 73.063797 L104.251381 71.063797 Z"
+         clip-path="url(#clipPath3)"
+         id="path581" />
+      <path
+         d="M116.17144 67.787033 L118.17144 67.787033 L118.17144 69.787033 L116.17144 69.787033 L116.17144 67.787033 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path583" />
+      <path
+         fill="none"
+         d="M116.17144 67.787033 L118.17144 67.787033 L118.17144 69.787033 L116.17144 69.787033 L116.17144 67.787033 Z"
+         clip-path="url(#clipPath3)"
+         id="path585" />
+      <path
+         d="M101.932739 72.296562 L103.932739 72.296562 L103.932739 74.296562 L101.932739 74.296562 L101.932739 72.296562 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path587" />
+      <path
+         fill="none"
+         d="M101.932739 72.296562 L103.932739 72.296562 L103.932739 74.296562 L101.932739 74.296562 L101.932739 72.296562 Z"
+         clip-path="url(#clipPath3)"
+         id="path589" />
+      <path
+         d="M104.088181 75.131935 L106.088181 75.131935 L106.088181 77.131935 L104.088181 77.131935 L104.088181 75.131935 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path591" />
+      <path
+         fill="none"
+         d="M104.088181 75.131935 L106.088181 75.131935 L106.088181 77.131935 L104.088181 77.131935 L104.088181 75.131935 Z"
+         clip-path="url(#clipPath3)"
+         id="path593" />
+      <path
+         d="M111.718567 70.19886 L113.718567 70.19886 L113.718567 72.19886 L111.718567 72.19886 L111.718567 70.19886 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path595" />
+      <path
+         fill="none"
+         d="M111.718567 70.19886 L113.718567 70.19886 L113.718567 72.19886 L111.718567 72.19886 L111.718567 70.19886 Z"
+         clip-path="url(#clipPath3)"
+         id="path597" />
+      <path
+         d="M111.66037 72.79689 L113.66037 72.79689 L113.66037 74.79689 L111.66037 74.79689 L111.66037 72.79689 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path599" />
+      <path
+         fill="none"
+         d="M111.66037 72.79689 L113.66037 72.79689 L113.66037 74.79689 L111.66037 74.79689 L111.66037 72.79689 Z"
+         clip-path="url(#clipPath3)"
+         id="path601" />
+      <path
+         d="M108.898293 72.439423 L110.898293 72.439423 L110.898293 74.439423 L108.898293 74.439423 L108.898293 72.439423 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path603" />
+      <path
+         fill="none"
+         d="M108.898293 72.439423 L110.898293 72.439423 L110.898293 74.439423 L108.898293 74.439423 L108.898293 72.439423 Z"
+         clip-path="url(#clipPath3)"
+         id="path605" />
+      <path
+         d="M115.524506 70.074287 L117.524506 70.074287 L117.524506 72.074287 L115.524506 72.074287 L115.524506 70.074287 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path607" />
+      <path
+         fill="none"
+         d="M115.524506 70.074287 L117.524506 70.074287 L117.524506 72.074287 L115.524506 72.074287 L115.524506 70.074287 Z"
+         clip-path="url(#clipPath3)"
+         id="path609" />
+      <path
+         d="M116.439766 70.370064 L118.439766 70.370064 L118.439766 72.370064 L116.439766 72.370064 L116.439766 70.370064 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path611" />
+      <path
+         fill="none"
+         d="M116.439766 70.370064 L118.439766 70.370064 L118.439766 72.370064 L116.439766 72.370064 L116.439766 70.370064 Z"
+         clip-path="url(#clipPath3)"
+         id="path613" />
+      <path
+         d="M89.083511 90.763741 L91.083511 90.763741 L91.083511 92.763741 L89.083511 92.763741 L89.083511 90.763741 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path615" />
+      <path
+         fill="none"
+         d="M89.083511 90.763741 L91.083511 90.763741 L91.083511 92.763741 L89.083511 92.763741 L89.083511 90.763741 Z"
+         clip-path="url(#clipPath3)"
+         id="path617" />
+      <path
+         d="M111.377556 71.137672 L113.377556 71.137672 L113.377556 73.137672 L111.377556 73.137672 L111.377556 71.137672 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path619" />
+      <path
+         fill="none"
+         d="M111.377556 71.137672 L113.377556 71.137672 L113.377556 73.137672 L111.377556 73.137672 L111.377556 71.137672 Z"
+         clip-path="url(#clipPath3)"
+         id="path621" />
+      <path
+         d="M104.593834 73.520065 L106.593834 73.520065 L106.593834 75.520065 L104.593834 75.520065 L104.593834 73.520065 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path623" />
+      <path
+         fill="none"
+         d="M104.593834 73.520065 L106.593834 73.520065 L106.593834 75.520065 L104.593834 75.520065 L104.593834 73.520065 Z"
+         clip-path="url(#clipPath3)"
+         id="path625" />
+      <path
+         d="M113.502769 69.655357 L115.502769 69.655357 L115.502769 71.655357 L113.502769 71.655357 L113.502769 69.655357 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path627" />
+      <path
+         fill="none"
+         d="M113.502769 69.655357 L115.502769 69.655357 L115.502769 71.655357 L113.502769 71.655357 L113.502769 69.655357 Z"
+         clip-path="url(#clipPath3)"
+         id="path629" />
+      <path
+         d="M113.509125 73.828712 L115.509125 73.828712 L115.509125 75.828712 L113.509125 75.828712 L113.509125 73.828712 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path631" />
+      <path
+         fill="none"
+         d="M113.509125 73.828712 L115.509125 73.828712 L115.509125 75.828712 L113.509125 75.828712 L113.509125 73.828712 Z"
+         clip-path="url(#clipPath3)"
+         id="path633" />
+      <path
+         d="M100.32637 72.905556 L102.32637 72.905556 L102.32637 74.905556 L100.32637 74.905556 L100.32637 72.905556 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path635" />
+      <path
+         fill="none"
+         d="M100.32637 72.905556 L102.32637 72.905556 L102.32637 74.905556 L100.32637 74.905556 L100.32637 72.905556 Z"
+         clip-path="url(#clipPath3)"
+         id="path637" />
+      <path
+         d="M107.966385 72.102386 L109.966385 72.102386 L109.966385 74.102386 L107.966385 74.102386 L107.966385 72.102386 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path639" />
+      <path
+         fill="none"
+         d="M107.966385 72.102386 L109.966385 72.102386 L109.966385 74.102386 L107.966385 74.102386 L107.966385 72.102386 Z"
+         clip-path="url(#clipPath3)"
+         id="path641" />
+      <path
+         d="M102.464127 73.306648 L104.464127 73.306648 L104.464127 75.306648 L102.464127 75.306648 L102.464127 73.306648 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path643" />
+      <path
+         fill="none"
+         d="M102.464127 73.306648 L104.464127 73.306648 L104.464127 75.306648 L102.464127 75.306648 L102.464127 73.306648 Z"
+         clip-path="url(#clipPath3)"
+         id="path645" />
+      <path
+         d="M107.404861 69.995895 L109.404861 69.995895 L109.404861 71.995895 L107.404861 71.995895 L107.404861 69.995895 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path647" />
+      <path
+         fill="none"
+         d="M107.404861 69.995895 L109.404861 69.995895 L109.404861 71.995895 L107.404861 71.995895 L107.404861 69.995895 Z"
+         clip-path="url(#clipPath3)"
+         id="path649" />
+      <path
+         d="M107.372086 75.143219 L109.372086 75.143219 L109.372086 77.143219 L107.372086 77.143219 L107.372086 75.143219 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path651" />
+      <path
+         fill="none"
+         d="M107.372086 75.143219 L109.372086 75.143219 L109.372086 77.143219 L107.372086 77.143219 L107.372086 75.143219 Z"
+         clip-path="url(#clipPath3)"
+         id="path653" />
+      <path
+         d="M76.449852 75.866768 L78.449852 75.866768 L78.449852 77.866768 L76.449852 77.866768 L76.449852 75.866768 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path655" />
+      <path
+         fill="none"
+         d="M76.449852 75.866768 L78.449852 75.866768 L78.449852 77.866768 L76.449852 77.866768 L76.449852 75.866768 Z"
+         clip-path="url(#clipPath3)"
+         id="path657" />
+      <path
+         d="M94.299248 72.134148 L96.299248 72.134148 L96.299248 74.134148 L94.299248 74.134148 L94.299248 72.134148 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path659" />
+      <path
+         fill="none"
+         d="M94.299248 72.134148 L96.299248 72.134148 L96.299248 74.134148 L94.299248 74.134148 L94.299248 72.134148 Z"
+         clip-path="url(#clipPath3)"
+         id="path661" />
+      <path
+         d="M104.049973 74.829292 L106.049973 74.829292 L106.049973 76.829292 L104.049973 76.829292 L104.049973 74.829292 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path663" />
+      <path
+         fill="none"
+         d="M104.049973 74.829292 L106.049973 74.829292 L106.049973 76.829292 L104.049973 76.829292 L104.049973 74.829292 Z"
+         clip-path="url(#clipPath3)"
+         id="path665" />
+      <path
+         d="M95.270477 74.961426 L97.270477 74.961426 L97.270477 76.961426 L95.270477 76.961426 L95.270477 74.961426 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path667" />
+      <path
+         fill="none"
+         d="M95.270477 74.961426 L97.270477 74.961426 L97.270477 76.961426 L95.270477 76.961426 L95.270477 74.961426 Z"
+         clip-path="url(#clipPath3)"
+         id="path669" />
+      <path
+         d="M112.403778 74.038498 L114.403778 74.038498 L114.403778 76.038498 L112.403778 76.038498 L112.403778 74.038498 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path671" />
+      <path
+         fill="none"
+         d="M112.403778 74.038498 L114.403778 74.038498 L114.403778 76.038498 L112.403778 76.038498 L112.403778 74.038498 Z"
+         clip-path="url(#clipPath3)"
+         id="path673" />
+      <path
+         d="M92.420151 71.886559 L94.420151 71.886559 L94.420151 73.886559 L92.420151 73.886559 L92.420151 71.886559 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path675" />
+      <path
+         fill="none"
+         d="M92.420151 71.886559 L94.420151 71.886559 L94.420151 73.886559 L92.420151 73.886559 L92.420151 71.886559 Z"
+         clip-path="url(#clipPath3)"
+         id="path677" />
+      <path
+         d="M114.937325 72.602074 L116.937325 72.602074 L116.937325 74.602074 L114.937325 74.602074 L114.937325 72.602074 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path679" />
+      <path
+         fill="none"
+         d="M114.937325 72.602074 L116.937325 72.602074 L116.937325 74.602074 L114.937325 74.602074 L114.937325 72.602074 Z"
+         clip-path="url(#clipPath3)"
+         id="path681" />
+      <path
+         d="M104.911232 72.483162 L106.911232 72.483162 L106.911232 74.483162 L104.911232 74.483162 L104.911232 72.483162 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path683" />
+      <path
+         fill="none"
+         d="M104.911232 72.483162 L106.911232 72.483162 L106.911232 74.483162 L104.911232 74.483162 L104.911232 72.483162 Z"
+         clip-path="url(#clipPath3)"
+         id="path685" />
+      <path
+         d="M104.363152 73.863472 L106.363152 73.863472 L106.363152 75.863472 L104.363152 75.863472 L104.363152 73.863472 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path687" />
+      <path
+         fill="none"
+         d="M104.363152 73.863472 L106.363152 73.863472 L106.363152 75.863472 L104.363152 75.863472 L104.363152 73.863472 Z"
+         clip-path="url(#clipPath3)"
+         id="path689" />
+      <path
+         d="M103.632126 73.332375 L105.632126 73.332375 L105.632126 75.332375 L103.632126 75.332375 L103.632126 73.332375 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path691" />
+      <path
+         fill="none"
+         d="M103.632126 73.332375 L105.632126 73.332375 L105.632126 75.332375 L103.632126 75.332375 L103.632126 73.332375 Z"
+         clip-path="url(#clipPath3)"
+         id="path693" />
+      <path
+         d="M96.599617 73.675201 L98.599617 73.675201 L98.599617 75.675201 L96.599617 75.675201 L96.599617 73.675201 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path695" />
+      <path
+         fill="none"
+         d="M96.599617 73.675201 L98.599617 73.675201 L98.599617 75.675201 L96.599617 75.675201 L96.599617 73.675201 Z"
+         clip-path="url(#clipPath3)"
+         id="path697" />
+      <path
+         d="M93.828644 76.355461 L95.828644 76.355461 L95.828644 78.355461 L93.828644 78.355461 L93.828644 76.355461 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path699" />
+      <path
+         fill="none"
+         d="M93.828644 76.355461 L95.828644 76.355461 L95.828644 78.355461 L93.828644 78.355461 L93.828644 76.355461 Z"
+         clip-path="url(#clipPath3)"
+         id="path701" />
+      <path
+         d="M110.707031 71.730255 L112.707031 71.730255 L112.707031 73.730255 L110.707031 73.730255 L110.707031 71.730255 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path703" />
+      <path
+         fill="none"
+         d="M110.707031 71.730255 L112.707031 71.730255 L112.707031 73.730255 L110.707031 73.730255 L110.707031 71.730255 Z"
+         clip-path="url(#clipPath3)"
+         id="path705" />
+      <path
+         d="M99.659813 74.989334 L101.659813 74.989334 L101.659813 76.989334 L99.659813 76.989334 L99.659813 74.989334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path707" />
+      <path
+         fill="none"
+         d="M99.659813 74.989334 L101.659813 74.989334 L101.659813 76.989334 L99.659813 76.989334 L99.659813 74.989334 Z"
+         clip-path="url(#clipPath3)"
+         id="path709" />
+      <path
+         d="M95.871422 75.690445 L97.871422 75.690445 L97.871422 77.690445 L95.871422 77.690445 L95.871422 75.690445 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path711" />
+      <path
+         fill="none"
+         d="M95.871422 75.690445 L97.871422 75.690445 L97.871422 77.690445 L95.871422 77.690445 L95.871422 75.690445 Z"
+         clip-path="url(#clipPath3)"
+         id="path713" />
+      <path
+         d="M99.400879 76.273369 L101.400879 76.273369 L101.400879 78.273369 L99.400879 78.273369 L99.400879 76.273369 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path715" />
+      <path
+         fill="none"
+         d="M99.400879 76.273369 L101.400879 76.273369 L101.400879 78.273369 L99.400879 78.273369 L99.400879 76.273369 Z"
+         clip-path="url(#clipPath3)"
+         id="path717" />
+      <path
+         d="M102.477005 73.843834 L104.477005 73.843834 L104.477005 75.843834 L102.477005 75.843834 L102.477005 73.843834 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path719" />
+      <path
+         fill="none"
+         d="M102.477005 73.843834 L104.477005 73.843834 L104.477005 75.843834 L102.477005 75.843834 L102.477005 73.843834 Z"
+         clip-path="url(#clipPath3)"
+         id="path721" />
+      <path
+         d="M98.799423 74.600235 L100.799423 74.600235 L100.799423 76.600235 L98.799423 76.600235 L98.799423 74.600235 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path723" />
+      <path
+         fill="none"
+         d="M98.799423 74.600235 L100.799423 74.600235 L100.799423 76.600235 L98.799423 76.600235 L98.799423 74.600235 Z"
+         clip-path="url(#clipPath3)"
+         id="path725" />
+      <path
+         d="M100.479919 74.184135 L102.479919 74.184135 L102.479919 76.184135 L100.479919 76.184135 L100.479919 74.184135 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path727" />
+      <path
+         fill="none"
+         d="M100.479919 74.184135 L102.479919 74.184135 L102.479919 76.184135 L100.479919 76.184135 L100.479919 74.184135 Z"
+         clip-path="url(#clipPath3)"
+         id="path729" />
+      <path
+         d="M102.989601 73.032906 L104.989601 73.032906 L104.989601 75.032906 L102.989601 75.032906 L102.989601 73.032906 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path731" />
+      <path
+         fill="none"
+         d="M102.989601 73.032906 L104.989601 73.032906 L104.989601 75.032906 L102.989601 75.032906 L102.989601 73.032906 Z"
+         clip-path="url(#clipPath3)"
+         id="path733" />
+      <path
+         d="M97.030762 77.23333 L99.030762 77.23333 L99.030762 79.23333 L97.030762 79.23333 L97.030762 77.23333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path735" />
+      <path
+         fill="none"
+         d="M97.030762 77.23333 L99.030762 77.23333 L99.030762 79.23333 L97.030762 79.23333 L97.030762 77.23333 Z"
+         clip-path="url(#clipPath3)"
+         id="path737" />
+      <path
+         d="M96.242706 76.789429 L98.242706 76.789429 L98.242706 78.789429 L96.242706 78.789429 L96.242706 76.789429 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path739" />
+      <path
+         fill="none"
+         d="M96.242706 76.789429 L98.242706 76.789429 L98.242706 78.789429 L96.242706 78.789429 L96.242706 76.789429 Z"
+         clip-path="url(#clipPath3)"
+         id="path741" />
+      <path
+         d="M96.244698 76.789436 L98.244698 76.789436 L98.244698 78.789436 L96.244698 78.789436 L96.244698 76.789436 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path743" />
+      <path
+         fill="none"
+         d="M96.244698 76.789436 L98.244698 76.789436 L98.244698 78.789436 L96.244698 78.789436 L96.244698 76.789436 Z"
+         clip-path="url(#clipPath3)"
+         id="path745" />
+      <path
+         d="M107.512032 73.840607 L109.512032 73.840607 L109.512032 75.840607 L107.512032 75.840607 L107.512032 73.840607 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path747" />
+      <path
+         fill="none"
+         d="M107.512032 73.840607 L109.512032 73.840607 L109.512032 75.840607 L107.512032 75.840607 L107.512032 73.840607 Z"
+         clip-path="url(#clipPath3)"
+         id="path749" />
+      <path
+         d="M95.688606 75.80455 L97.688606 75.80455 L97.688606 77.80455 L95.688606 77.80455 L95.688606 75.80455 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path751" />
+      <path
+         fill="none"
+         d="M95.688606 75.80455 L97.688606 75.80455 L97.688606 77.80455 L95.688606 77.80455 L95.688606 75.80455 Z"
+         clip-path="url(#clipPath3)"
+         id="path753" />
+      <path
+         d="M103.170013 75.801819 L105.170013 75.801819 L105.170013 77.801819 L103.170013 77.801819 L103.170013 75.801819 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path755" />
+      <path
+         fill="none"
+         d="M103.170013 75.801819 L105.170013 75.801819 L105.170013 77.801819 L103.170013 77.801819 L103.170013 75.801819 Z"
+         clip-path="url(#clipPath3)"
+         id="path757" />
+      <path
+         d="M91.986267 78.380119 L93.986267 78.380119 L93.986267 80.380119 L91.986267 80.380119 L91.986267 78.380119 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path759" />
+      <path
+         fill="none"
+         d="M91.986267 78.380119 L93.986267 78.380119 L93.986267 80.380119 L91.986267 80.380119 L91.986267 78.380119 Z"
+         clip-path="url(#clipPath3)"
+         id="path761" />
+      <path
+         d="M105.80172 75.735565 L107.80172 75.735565 L107.80172 77.735565 L105.80172 77.735565 L105.80172 75.735565 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path763" />
+      <path
+         fill="none"
+         d="M105.80172 75.735565 L107.80172 75.735565 L107.80172 77.735565 L105.80172 77.735565 L105.80172 75.735565 Z"
+         clip-path="url(#clipPath3)"
+         id="path765" />
+      <path
+         d="M96.680199 77.424309 L98.680199 77.424309 L98.680199 79.424309 L96.680199 79.424309 L96.680199 77.424309 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path767" />
+      <path
+         fill="none"
+         d="M96.680199 77.424309 L98.680199 77.424309 L98.680199 79.424309 L96.680199 79.424309 L96.680199 77.424309 Z"
+         clip-path="url(#clipPath3)"
+         id="path769" />
+      <path
+         d="M103.228172 72.159912 L105.228172 72.159912 L105.228172 74.159912 L103.228172 74.159912 L103.228172 72.159912 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path771" />
+      <path
+         fill="none"
+         d="M103.228172 72.159912 L105.228172 72.159912 L105.228172 74.159912 L103.228172 74.159912 L103.228172 72.159912 Z"
+         clip-path="url(#clipPath3)"
+         id="path773" />
+      <path
+         d="M97.399605 78.092346 L99.399605 78.092346 L99.399605 80.092346 L97.399605 80.092346 L97.399605 78.092346 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path775" />
+      <path
+         fill="none"
+         d="M97.399605 78.092346 L99.399605 78.092346 L99.399605 80.092346 L97.399605 80.092346 L97.399605 78.092346 Z"
+         clip-path="url(#clipPath3)"
+         id="path777" />
+      <path
+         d="M86.339104 78.318634 L88.339104 78.318634 L88.339104 80.318634 L86.339104 80.318634 L86.339104 78.318634 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path779" />
+      <path
+         fill="none"
+         d="M86.339104 78.318634 L88.339104 78.318634 L88.339104 80.318634 L86.339104 80.318634 L86.339104 78.318634 Z"
+         clip-path="url(#clipPath3)"
+         id="path781" />
+      <path
+         d="M115.105888 73.718445 L117.105888 73.718445 L117.105888 75.718445 L115.105888 75.718445 L115.105888 73.718445 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path783" />
+      <path
+         fill="none"
+         d="M115.105888 73.718445 L117.105888 73.718445 L117.105888 75.718445 L115.105888 75.718445 L115.105888 73.718445 Z"
+         clip-path="url(#clipPath3)"
+         id="path785" />
+      <path
+         d="M99.076889 79.313248 L101.076889 79.313248 L101.076889 81.313248 L99.076889 81.313248 L99.076889 79.313248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path787" />
+      <path
+         fill="none"
+         d="M99.076889 79.313248 L101.076889 79.313248 L101.076889 81.313248 L99.076889 81.313248 L99.076889 79.313248 Z"
+         clip-path="url(#clipPath3)"
+         id="path789" />
+      <path
+         d="M90.672447 76.994255 L92.672447 76.994255 L92.672447 78.994255 L90.672447 78.994255 L90.672447 76.994255 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path791" />
+      <path
+         fill="none"
+         d="M90.672447 76.994255 L92.672447 76.994255 L92.672447 78.994255 L90.672447 78.994255 L90.672447 76.994255 Z"
+         clip-path="url(#clipPath3)"
+         id="path793" />
+      <path
+         d="M110.567017 76.290955 L112.567017 76.290955 L112.567017 78.290955 L110.567017 78.290955 L110.567017 76.290955 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path795" />
+      <path
+         fill="none"
+         d="M110.567017 76.290955 L112.567017 76.290955 L112.567017 78.290955 L110.567017 78.290955 L110.567017 76.290955 Z"
+         clip-path="url(#clipPath3)"
+         id="path797" />
+      <path
+         d="M90.581062 76.792099 L92.581062 76.792099 L92.581062 78.792099 L90.581062 78.792099 L90.581062 76.792099 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path799" />
+      <path
+         fill="none"
+         d="M90.581062 76.792099 L92.581062 76.792099 L92.581062 78.792099 L90.581062 78.792099 L90.581062 76.792099 Z"
+         clip-path="url(#clipPath3)"
+         id="path801" />
+      <path
+         d="M85.491837 78.786819 L87.491837 78.786819 L87.491837 80.786819 L85.491837 80.786819 L85.491837 78.786819 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path803" />
+      <path
+         fill="none"
+         d="M85.491837 78.786819 L87.491837 78.786819 L87.491837 80.786819 L85.491837 80.786819 L85.491837 78.786819 Z"
+         clip-path="url(#clipPath3)"
+         id="path805" />
+      <path
+         d="M100.141212 76.536407 L102.141212 76.536407 L102.141212 78.536407 L100.141212 78.536407 L100.141212 76.536407 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path807" />
+      <path
+         fill="none"
+         d="M100.141212 76.536407 L102.141212 76.536407 L102.141212 78.536407 L100.141212 78.536407 L100.141212 76.536407 Z"
+         clip-path="url(#clipPath3)"
+         id="path809" />
+      <path
+         d="M105.200653 74.553284 L107.200653 74.553284 L107.200653 76.553284 L105.200653 76.553284 L105.200653 74.553284 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path811" />
+      <path
+         fill="none"
+         d="M105.200653 74.553284 L107.200653 74.553284 L107.200653 76.553284 L105.200653 76.553284 L105.200653 74.553284 Z"
+         clip-path="url(#clipPath3)"
+         id="path813" />
+      <path
+         d="M98.734917 78.587463 L100.734917 78.587463 L100.734917 80.587463 L98.734917 80.587463 L98.734917 78.587463 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path815" />
+      <path
+         fill="none"
+         d="M98.734917 78.587463 L100.734917 78.587463 L100.734917 80.587463 L98.734917 80.587463 L98.734917 78.587463 Z"
+         clip-path="url(#clipPath3)"
+         id="path817" />
+      <path
+         d="M101.639397 74.20932 L103.639397 74.20932 L103.639397 76.20932 L101.639397 76.20932 L101.639397 74.20932 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path819" />
+      <path
+         fill="none"
+         d="M101.639397 74.20932 L103.639397 74.20932 L103.639397 76.20932 L101.639397 76.20932 L101.639397 74.20932 Z"
+         clip-path="url(#clipPath3)"
+         id="path821" />
+      <path
+         d="M95.971855 75.698242 L97.971855 75.698242 L97.971855 77.698242 L95.971855 77.698242 L95.971855 75.698242 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path823" />
+      <path
+         fill="none"
+         d="M95.971855 75.698242 L97.971855 75.698242 L97.971855 77.698242 L95.971855 77.698242 L95.971855 75.698242 Z"
+         clip-path="url(#clipPath3)"
+         id="path825" />
+      <path
+         d="M101.654869 77.191833 L103.654869 77.191833 L103.654869 79.191833 L101.654869 79.191833 L101.654869 77.191833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path827" />
+      <path
+         fill="none"
+         d="M101.654869 77.191833 L103.654869 77.191833 L103.654869 79.191833 L101.654869 79.191833 L101.654869 77.191833 Z"
+         clip-path="url(#clipPath3)"
+         id="path829" />
+      <path
+         d="M93.533783 77.676903 L95.533783 77.676903 L95.533783 79.676903 L93.533783 79.676903 L93.533783 77.676903 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path831" />
+      <path
+         fill="none"
+         d="M93.533783 77.676903 L95.533783 77.676903 L95.533783 79.676903 L93.533783 79.676903 L93.533783 77.676903 Z"
+         clip-path="url(#clipPath3)"
+         id="path833" />
+      <path
+         d="M93.691528 77.406525 L95.691528 77.406525 L95.691528 79.406525 L93.691528 79.406525 L93.691528 77.406525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path835" />
+      <path
+         fill="none"
+         d="M93.691528 77.406525 L95.691528 77.406525 L95.691528 79.406525 L93.691528 79.406525 L93.691528 77.406525 Z"
+         clip-path="url(#clipPath3)"
+         id="path837" />
+      <path
+         d="M98.614357 75.961334 L100.614357 75.961334 L100.614357 77.961334 L98.614357 77.961334 L98.614357 75.961334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path839" />
+      <path
+         fill="none"
+         d="M98.614357 75.961334 L100.614357 75.961334 L100.614357 77.961334 L98.614357 77.961334 L98.614357 75.961334 Z"
+         clip-path="url(#clipPath3)"
+         id="path841" />
+      <path
+         d="M84.800766 84.817757 L86.800766 84.817757 L86.800766 86.817757 L84.800766 86.817757 L84.800766 84.817757 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path843" />
+      <path
+         fill="none"
+         d="M84.800766 84.817757 L86.800766 84.817757 L86.800766 86.817757 L84.800766 86.817757 L84.800766 84.817757 Z"
+         clip-path="url(#clipPath3)"
+         id="path845" />
+      <path
+         d="M99.450645 77.07016 L101.450645 77.07016 L101.450645 79.07016 L99.450645 79.07016 L99.450645 77.07016 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path847" />
+      <path
+         fill="none"
+         d="M99.450645 77.07016 L101.450645 77.07016 L101.450645 79.07016 L99.450645 79.07016 L99.450645 77.07016 Z"
+         clip-path="url(#clipPath3)"
+         id="path849" />
+      <path
+         d="M95.48661 77.700333 L97.48661 77.700333 L97.48661 79.700333 L95.48661 79.700333 L95.48661 77.700333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path851" />
+      <path
+         fill="none"
+         d="M95.48661 77.700333 L97.48661 77.700333 L97.48661 79.700333 L95.48661 79.700333 L95.48661 77.700333 Z"
+         clip-path="url(#clipPath3)"
+         id="path853" />
+      <path
+         d="M88.924278 81.315437 L90.924278 81.315437 L90.924278 83.315437 L88.924278 83.315437 L88.924278 81.315437 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path855" />
+      <path
+         fill="none"
+         d="M88.924278 81.315437 L90.924278 81.315437 L90.924278 83.315437 L88.924278 83.315437 L88.924278 81.315437 Z"
+         clip-path="url(#clipPath3)"
+         id="path857" />
+      <path
+         d="M86.220093 79.291664 L88.220093 79.291664 L88.220093 81.291664 L86.220093 81.291664 L86.220093 79.291664 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path859" />
+      <path
+         fill="none"
+         d="M86.220093 79.291664 L88.220093 79.291664 L88.220093 81.291664 L86.220093 81.291664 L86.220093 79.291664 Z"
+         clip-path="url(#clipPath3)"
+         id="path861" />
+      <path
+         d="M96.645531 77.215378 L98.645531 77.215378 L98.645531 79.215378 L96.645531 79.215378 L96.645531 77.215378 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path863" />
+      <path
+         fill="none"
+         d="M96.645531 77.215378 L98.645531 77.215378 L98.645531 79.215378 L96.645531 79.215378 L96.645531 77.215378 Z"
+         clip-path="url(#clipPath3)"
+         id="path865" />
+      <path
+         d="M80.536011 76.157585 L82.536011 76.157585 L82.536011 78.157585 L80.536011 78.157585 L80.536011 76.157585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path867" />
+      <path
+         fill="none"
+         d="M80.536011 76.157585 L82.536011 76.157585 L82.536011 78.157585 L80.536011 78.157585 L80.536011 76.157585 Z"
+         clip-path="url(#clipPath3)"
+         id="path869" />
+      <path
+         d="M97.502441 77.839035 L99.502441 77.839035 L99.502441 79.839035 L97.502441 79.839035 L97.502441 77.839035 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path871" />
+      <path
+         fill="none"
+         d="M97.502441 77.839035 L99.502441 77.839035 L99.502441 79.839035 L97.502441 79.839035 L97.502441 77.839035 Z"
+         clip-path="url(#clipPath3)"
+         id="path873" />
+      <path
+         d="M93.885887 78.971397 L95.885887 78.971397 L95.885887 80.971397 L93.885887 80.971397 L93.885887 78.971397 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path875" />
+      <path
+         fill="none"
+         d="M93.885887 78.971397 L95.885887 78.971397 L95.885887 80.971397 L93.885887 80.971397 L93.885887 78.971397 Z"
+         clip-path="url(#clipPath3)"
+         id="path877" />
+      <path
+         d="M89.483147 76.726288 L91.483147 76.726288 L91.483147 78.726288 L89.483147 78.726288 L89.483147 76.726288 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path879" />
+      <path
+         fill="none"
+         d="M89.483147 76.726288 L91.483147 76.726288 L91.483147 78.726288 L89.483147 78.726288 L89.483147 76.726288 Z"
+         clip-path="url(#clipPath3)"
+         id="path881" />
+      <path
+         d="M84.26075 79.574341 L86.26075 79.574341 L86.26075 81.574341 L84.26075 81.574341 L84.26075 79.574341 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path883" />
+      <path
+         fill="none"
+         d="M84.26075 79.574341 L86.26075 79.574341 L86.26075 81.574341 L84.26075 81.574341 L84.26075 79.574341 Z"
+         clip-path="url(#clipPath3)"
+         id="path885" />
+      <path
+         d="M84.862831 78.802032 L86.862831 78.802032 L86.862831 80.802032 L84.862831 80.802032 L84.862831 78.802032 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path887" />
+      <path
+         fill="none"
+         d="M84.862831 78.802032 L86.862831 78.802032 L86.862831 80.802032 L84.862831 80.802032 L84.862831 78.802032 Z"
+         clip-path="url(#clipPath3)"
+         id="path889" />
+      <path
+         d="M82.386902 79.986755 L84.386902 79.986755 L84.386902 81.986755 L82.386902 81.986755 L82.386902 79.986755 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path891" />
+      <path
+         fill="none"
+         d="M82.386902 79.986755 L84.386902 79.986755 L84.386902 81.986755 L82.386902 81.986755 L82.386902 79.986755 Z"
+         clip-path="url(#clipPath3)"
+         id="path893" />
+      <path
+         d="M74.970604 84.011589 L76.970604 84.011589 L76.970604 86.011589 L74.970604 86.011589 L74.970604 84.011589 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path895" />
+      <path
+         fill="none"
+         d="M74.970604 84.011589 L76.970604 84.011589 L76.970604 86.011589 L74.970604 86.011589 L74.970604 84.011589 Z"
+         clip-path="url(#clipPath3)"
+         id="path897" />
+      <path
+         d="M82.167297 83.168243 L84.167297 83.168243 L84.167297 85.168243 L82.167297 85.168243 L82.167297 83.168243 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path899" />
+      <path
+         fill="none"
+         d="M82.167297 83.168243 L84.167297 83.168243 L84.167297 85.168243 L82.167297 85.168243 L82.167297 83.168243 Z"
+         clip-path="url(#clipPath3)"
+         id="path901" />
+      <path
+         d="M90.269661 80.267639 L92.269661 80.267639 L92.269661 82.267639 L90.269661 82.267639 L90.269661 80.267639 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path903" />
+      <path
+         fill="none"
+         d="M90.269661 80.267639 L92.269661 80.267639 L92.269661 82.267639 L90.269661 82.267639 L90.269661 80.267639 Z"
+         clip-path="url(#clipPath3)"
+         id="path905" />
+      <path
+         d="M92.816505 79.641563 L94.816505 79.641563 L94.816505 81.641563 L92.816505 81.641563 L92.816505 79.641563 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path907" />
+      <path
+         fill="none"
+         d="M92.816505 79.641563 L94.816505 79.641563 L94.816505 81.641563 L92.816505 81.641563 L92.816505 79.641563 Z"
+         clip-path="url(#clipPath3)"
+         id="path909" />
+      <path
+         d="M83.812302 81.773964 L85.812302 81.773964 L85.812302 83.773964 L83.812302 83.773964 L83.812302 81.773964 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path911" />
+      <path
+         fill="none"
+         d="M83.812302 81.773964 L85.812302 81.773964 L85.812302 83.773964 L83.812302 83.773964 L83.812302 81.773964 Z"
+         clip-path="url(#clipPath3)"
+         id="path913" />
+      <path
+         d="M90.023369 80.716469 L92.023369 80.716469 L92.023369 82.716469 L90.023369 82.716469 L90.023369 80.716469 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path915" />
+      <path
+         fill="none"
+         d="M90.023369 80.716469 L92.023369 80.716469 L92.023369 82.716469 L90.023369 82.716469 L90.023369 80.716469 Z"
+         clip-path="url(#clipPath3)"
+         id="path917" />
+      <path
+         d="M76.799202 81.869171 L78.799202 81.869171 L78.799202 83.869171 L76.799202 83.869171 L76.799202 81.869171 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path919" />
+      <path
+         fill="none"
+         d="M76.799202 81.869171 L78.799202 81.869171 L78.799202 83.869171 L76.799202 83.869171 L76.799202 81.869171 Z"
+         clip-path="url(#clipPath3)"
+         id="path921" />
+      <path
+         d="M101.273323 81.169083 L103.273323 81.169083 L103.273323 83.169083 L101.273323 83.169083 L101.273323 81.169083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path923" />
+      <path
+         fill="none"
+         d="M101.273323 81.169083 L103.273323 81.169083 L103.273323 83.169083 L101.273323 83.169083 L101.273323 81.169083 Z"
+         clip-path="url(#clipPath3)"
+         id="path925" />
+      <path
+         d="M88.278534 82.000031 L90.278534 82.000031 L90.278534 84.000031 L88.278534 84.000031 L88.278534 82.000031 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path927" />
+      <path
+         fill="none"
+         d="M88.278534 82.000031 L90.278534 82.000031 L90.278534 84.000031 L88.278534 84.000031 L88.278534 82.000031 Z"
+         clip-path="url(#clipPath3)"
+         id="path929" />
+      <path
+         d="M86.581184 80.838493 L88.581184 80.838493 L88.581184 82.838493 L86.581184 82.838493 L86.581184 80.838493 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path931" />
+      <path
+         fill="none"
+         d="M86.581184 80.838493 L88.581184 80.838493 L88.581184 82.838493 L86.581184 82.838493 L86.581184 80.838493 Z"
+         clip-path="url(#clipPath3)"
+         id="path933" />
+      <path
+         d="M85.140091 79.452766 L87.140091 79.452766 L87.140091 81.452766 L85.140091 81.452766 L85.140091 79.452766 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path935" />
+      <path
+         fill="none"
+         d="M85.140091 79.452766 L87.140091 79.452766 L87.140091 81.452766 L85.140091 81.452766 L85.140091 79.452766 Z"
+         clip-path="url(#clipPath3)"
+         id="path937" />
+      <path
+         d="M82.678322 80.356804 L84.678322 80.356804 L84.678322 82.356804 L82.678322 82.356804 L82.678322 80.356804 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path939" />
+      <path
+         fill="none"
+         d="M82.678322 80.356804 L84.678322 80.356804 L84.678322 82.356804 L82.678322 82.356804 L82.678322 80.356804 Z"
+         clip-path="url(#clipPath3)"
+         id="path941" />
+      <path
+         d="M81.117737 82.690308 L83.117737 82.690308 L83.117737 84.690308 L81.117737 84.690308 L81.117737 82.690308 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path943" />
+      <path
+         fill="none"
+         d="M81.117737 82.690308 L83.117737 82.690308 L83.117737 84.690308 L81.117737 84.690308 L81.117737 82.690308 Z"
+         clip-path="url(#clipPath3)"
+         id="path945" />
+      <path
+         d="M70.404503 93.40168 L72.404503 93.40168 L72.404503 95.40168 L70.404503 95.40168 L70.404503 93.40168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path947" />
+      <path
+         fill="none"
+         d="M70.404503 93.40168 L72.404503 93.40168 L72.404503 95.40168 L70.404503 95.40168 L70.404503 93.40168 Z"
+         clip-path="url(#clipPath3)"
+         id="path949" />
+      <path
+         d="M77.042435 81.89827 L79.042435 81.89827 L79.042435 83.89827 L77.042435 83.89827 L77.042435 81.89827 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path951" />
+      <path
+         fill="none"
+         d="M77.042435 81.89827 L79.042435 81.89827 L79.042435 83.89827 L77.042435 83.89827 L77.042435 81.89827 Z"
+         clip-path="url(#clipPath3)"
+         id="path953" />
+      <path
+         d="M83.744377 80.952782 L85.744377 80.952782 L85.744377 82.952782 L83.744377 82.952782 L83.744377 80.952782 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path955" />
+      <path
+         fill="none"
+         d="M83.744377 80.952782 L85.744377 80.952782 L85.744377 82.952782 L83.744377 82.952782 L83.744377 80.952782 Z"
+         clip-path="url(#clipPath3)"
+         id="path957" />
+      <path
+         d="M88.905464 81.61734 L90.905464 81.61734 L90.905464 83.61734 L88.905464 83.61734 L88.905464 81.61734 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path959" />
+      <path
+         fill="none"
+         d="M88.905464 81.61734 L90.905464 81.61734 L90.905464 83.61734 L88.905464 83.61734 L88.905464 81.61734 Z"
+         clip-path="url(#clipPath3)"
+         id="path961" />
+      <path
+         d="M79.671692 82.275101 L81.671692 82.275101 L81.671692 84.275101 L79.671692 84.275101 L79.671692 82.275101 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path963" />
+      <path
+         fill="none"
+         d="M79.671692 82.275101 L81.671692 82.275101 L81.671692 84.275101 L79.671692 84.275101 L79.671692 82.275101 Z"
+         clip-path="url(#clipPath3)"
+         id="path965" />
+      <path
+         d="M83.535027 83.444229 L85.535027 83.444229 L85.535027 85.444229 L83.535027 85.444229 L83.535027 83.444229 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path967" />
+      <path
+         fill="none"
+         d="M83.535027 83.444229 L85.535027 83.444229 L85.535027 85.444229 L83.535027 85.444229 L83.535027 83.444229 Z"
+         clip-path="url(#clipPath3)"
+         id="path969" />
+      <path
+         d="M81.585724 84.15239 L83.585724 84.15239 L83.585724 86.15239 L81.585724 86.15239 L81.585724 84.15239 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path971" />
+      <path
+         fill="none"
+         d="M81.585724 84.15239 L83.585724 84.15239 L83.585724 86.15239 L81.585724 86.15239 L81.585724 84.15239 Z"
+         clip-path="url(#clipPath3)"
+         id="path973" />
+      <path
+         d="M84.715736 81.780174 L86.715736 81.780174 L86.715736 83.780174 L84.715736 83.780174 L84.715736 81.780174 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path975" />
+      <path
+         fill="none"
+         d="M84.715736 81.780174 L86.715736 81.780174 L86.715736 83.780174 L84.715736 83.780174 L84.715736 81.780174 Z"
+         clip-path="url(#clipPath3)"
+         id="path977" />
+      <path
+         d="M89.059837 81.41581 L91.059837 81.41581 L91.059837 83.41581 L89.059837 83.41581 L89.059837 81.41581 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path979" />
+      <path
+         fill="none"
+         d="M89.059837 81.41581 L91.059837 81.41581 L91.059837 83.41581 L89.059837 83.41581 L89.059837 81.41581 Z"
+         clip-path="url(#clipPath3)"
+         id="path981" />
+      <path
+         d="M76.52459 84.372765 L78.52459 84.372765 L78.52459 86.372765 L76.52459 86.372765 L76.52459 84.372765 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path983" />
+      <path
+         fill="none"
+         d="M76.52459 84.372765 L78.52459 84.372765 L78.52459 86.372765 L76.52459 86.372765 L76.52459 84.372765 Z"
+         clip-path="url(#clipPath3)"
+         id="path985" />
+      <path
+         d="M77.482162 84.398727 L79.482162 84.398727 L79.482162 86.398727 L77.482162 86.398727 L77.482162 84.398727 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path987" />
+      <path
+         fill="none"
+         d="M77.482162 84.398727 L79.482162 84.398727 L79.482162 86.398727 L77.482162 86.398727 L77.482162 84.398727 Z"
+         clip-path="url(#clipPath3)"
+         id="path989" />
+      <path
+         d="M73.223083 83.87841 L75.223083 83.87841 L75.223083 85.87841 L73.223083 85.87841 L73.223083 83.87841 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path991" />
+      <path
+         fill="none"
+         d="M73.223083 83.87841 L75.223083 83.87841 L75.223083 85.87841 L73.223083 85.87841 L73.223083 83.87841 Z"
+         clip-path="url(#clipPath3)"
+         id="path993" />
+      <path
+         d="M77.93483 85.476288 L79.93483 85.476288 L79.93483 87.476288 L77.93483 87.476288 L77.93483 85.476288 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path995" />
+      <path
+         fill="none"
+         d="M77.93483 85.476288 L79.93483 85.476288 L79.93483 87.476288 L77.93483 87.476288 L77.93483 85.476288 Z"
+         clip-path="url(#clipPath3)"
+         id="path997" />
+      <path
+         d="M80.898949 82.342094 L82.898949 82.342094 L82.898949 84.342094 L80.898949 84.342094 L80.898949 82.342094 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path999" />
+      <path
+         fill="none"
+         d="M80.898949 82.342094 L82.898949 82.342094 L82.898949 84.342094 L80.898949 84.342094 L80.898949 82.342094 Z"
+         clip-path="url(#clipPath3)"
+         id="path1001" />
+      <path
+         d="M68.156799 87.018364 L70.156799 87.018364 L70.156799 89.018364 L68.156799 89.018364 L68.156799 87.018364 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1003" />
+      <path
+         fill="none"
+         d="M68.156799 87.018364 L70.156799 87.018364 L70.156799 89.018364 L68.156799 89.018364 L68.156799 87.018364 Z"
+         clip-path="url(#clipPath3)"
+         id="path1005" />
+      <path
+         d="M83.428169 81.321655 L85.428169 81.321655 L85.428169 83.321655 L83.428169 83.321655 L83.428169 81.321655 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1007" />
+      <path
+         fill="none"
+         d="M83.428169 81.321655 L85.428169 81.321655 L85.428169 83.321655 L83.428169 83.321655 L83.428169 81.321655 Z"
+         clip-path="url(#clipPath3)"
+         id="path1009" />
+      <path
+         d="M72.741959 86.075455 L74.741959 86.075455 L74.741959 88.075455 L72.741959 88.075455 L72.741959 86.075455 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1011" />
+      <path
+         fill="none"
+         d="M72.741959 86.075455 L74.741959 86.075455 L74.741959 88.075455 L72.741959 88.075455 L72.741959 86.075455 Z"
+         clip-path="url(#clipPath3)"
+         id="path1013" />
+      <path
+         d="M64.21479 86.523628 L66.21479 86.523628 L66.21479 88.523628 L64.21479 88.523628 L64.21479 86.523628 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1015" />
+      <path
+         fill="none"
+         d="M64.21479 86.523628 L66.21479 86.523628 L66.21479 88.523628 L64.21479 88.523628 L64.21479 86.523628 Z"
+         clip-path="url(#clipPath3)"
+         id="path1017" />
+      <path
+         d="M73.321808 85.084259 L75.321808 85.084259 L75.321808 87.084259 L73.321808 87.084259 L73.321808 85.084259 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1019" />
+      <path
+         fill="none"
+         d="M73.321808 85.084259 L75.321808 85.084259 L75.321808 87.084259 L73.321808 87.084259 L73.321808 85.084259 Z"
+         clip-path="url(#clipPath3)"
+         id="path1021" />
+      <path
+         d="M67.864189 83.352821 L69.864189 83.352821 L69.864189 85.352821 L67.864189 85.352821 L67.864189 83.352821 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1023" />
+      <path
+         fill="none"
+         d="M67.864189 83.352821 L69.864189 83.352821 L69.864189 85.352821 L67.864189 85.352821 L67.864189 83.352821 Z"
+         clip-path="url(#clipPath3)"
+         id="path1025" />
+      <path
+         d="M72.146919 85.297974 L74.146919 85.297974 L74.146919 87.297974 L72.146919 87.297974 L72.146919 85.297974 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1027" />
+      <path
+         fill="none"
+         d="M72.146919 85.297974 L74.146919 85.297974 L74.146919 87.297974 L72.146919 87.297974 L72.146919 85.297974 Z"
+         clip-path="url(#clipPath3)"
+         id="path1029" />
+      <path
+         d="M71.558548 83.077843 L73.558548 83.077843 L73.558548 85.077843 L71.558548 85.077843 L71.558548 83.077843 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1031" />
+      <path
+         fill="none"
+         d="M71.558548 83.077843 L73.558548 83.077843 L73.558548 85.077843 L71.558548 85.077843 L71.558548 83.077843 Z"
+         clip-path="url(#clipPath3)"
+         id="path1033" />
+      <path
+         d="M77.938126 84.672028 L79.938126 84.672028 L79.938126 86.672028 L77.938126 86.672028 L77.938126 84.672028 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1035" />
+      <path
+         fill="none"
+         d="M77.938126 84.672028 L79.938126 84.672028 L79.938126 86.672028 L77.938126 86.672028 L77.938126 84.672028 Z"
+         clip-path="url(#clipPath3)"
+         id="path1037" />
+      <path
+         d="M69.541946 84.699486 L71.541946 84.699486 L71.541946 86.699486 L69.541946 86.699486 L69.541946 84.699486 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1039" />
+      <path
+         fill="none"
+         d="M69.541946 84.699486 L71.541946 84.699486 L71.541946 86.699486 L69.541946 86.699486 L69.541946 84.699486 Z"
+         clip-path="url(#clipPath3)"
+         id="path1041" />
+      <path
+         d="M72.576225 84.264793 L74.576225 84.264793 L74.576225 86.264793 L72.576225 86.264793 L72.576225 84.264793 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1043" />
+      <path
+         fill="none"
+         d="M72.576225 84.264793 L74.576225 84.264793 L74.576225 86.264793 L72.576225 86.264793 L72.576225 84.264793 Z"
+         clip-path="url(#clipPath3)"
+         id="path1045" />
+      <path
+         d="M73.212936 84.910431 L75.212936 84.910431 L75.212936 86.910431 L73.212936 86.910431 L73.212936 84.910431 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1047" />
+      <path
+         fill="none"
+         d="M73.212936 84.910431 L75.212936 84.910431 L75.212936 86.910431 L73.212936 86.910431 L73.212936 84.910431 Z"
+         clip-path="url(#clipPath3)"
+         id="path1049" />
+      <path
+         d="M90.640846 84.201309 L92.640846 84.201309 L92.640846 86.201309 L90.640846 86.201309 L90.640846 84.201309 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1051" />
+      <path
+         fill="none"
+         d="M90.640846 84.201309 L92.640846 84.201309 L92.640846 86.201309 L90.640846 86.201309 L90.640846 84.201309 Z"
+         clip-path="url(#clipPath3)"
+         id="path1053" />
+      <path
+         d="M78.702324 86.336342 L80.702324 86.336342 L80.702324 88.336342 L78.702324 88.336342 L78.702324 86.336342 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1055" />
+      <path
+         fill="none"
+         d="M78.702324 86.336342 L80.702324 86.336342 L80.702324 88.336342 L78.702324 88.336342 L78.702324 86.336342 Z"
+         clip-path="url(#clipPath3)"
+         id="path1057" />
+      <path
+         d="M82.192276 83.08271 L84.192276 83.08271 L84.192276 85.08271 L82.192276 85.08271 L82.192276 83.08271 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1059" />
+      <path
+         fill="none"
+         d="M82.192276 83.08271 L84.192276 83.08271 L84.192276 85.08271 L82.192276 85.08271 L82.192276 83.08271 Z"
+         clip-path="url(#clipPath3)"
+         id="path1061" />
+      <path
+         d="M79.146927 83.476562 L81.146927 83.476562 L81.146927 85.476562 L79.146927 85.476562 L79.146927 83.476562 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1063" />
+      <path
+         fill="none"
+         d="M79.146927 83.476562 L81.146927 83.476562 L81.146927 85.476562 L79.146927 85.476562 L79.146927 83.476562 Z"
+         clip-path="url(#clipPath3)"
+         id="path1065" />
+      <path
+         d="M63.08749 86.793663 L65.087486 86.793663 L65.087486 88.793663 L63.08749 88.793663 L63.08749 86.793663 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1067" />
+      <path
+         fill="none"
+         d="M63.08749 86.793663 L65.087486 86.793663 L65.087486 88.793663 L63.08749 88.793663 L63.08749 86.793663 Z"
+         clip-path="url(#clipPath3)"
+         id="path1069" />
+      <path
+         d="M66.071304 84.522934 L68.071304 84.522934 L68.071304 86.522934 L66.071304 86.522934 L66.071304 84.522934 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1071" />
+      <path
+         fill="none"
+         d="M66.071304 84.522934 L68.071304 84.522934 L68.071304 86.522934 L66.071304 86.522934 L66.071304 84.522934 Z"
+         clip-path="url(#clipPath3)"
+         id="path1073" />
+      <path
+         d="M66.01403 85.68277 L68.01403 85.68277 L68.01403 87.68277 L66.01403 87.68277 L66.01403 85.68277 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1075" />
+      <path
+         fill="none"
+         d="M66.01403 85.68277 L68.01403 85.68277 L68.01403 87.68277 L66.01403 87.68277 L66.01403 85.68277 Z"
+         clip-path="url(#clipPath3)"
+         id="path1077" />
+      <path
+         d="M73.01519 88.985817 L75.01519 88.985817 L75.01519 90.985817 L73.01519 90.985817 L73.01519 88.985817 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1079" />
+      <path
+         fill="none"
+         d="M73.01519 88.985817 L75.01519 88.985817 L75.01519 90.985817 L73.01519 90.985817 L73.01519 88.985817 Z"
+         clip-path="url(#clipPath3)"
+         id="path1081" />
+      <path
+         d="M66.347305 87.978897 L68.347305 87.978897 L68.347305 89.978897 L66.347305 89.978897 L66.347305 87.978897 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1083" />
+      <path
+         fill="none"
+         d="M66.347305 87.978897 L68.347305 87.978897 L68.347305 89.978897 L66.347305 89.978897 L66.347305 87.978897 Z"
+         clip-path="url(#clipPath3)"
+         id="path1085" />
+      <path
+         d="M67.536774 87.301201 L69.536774 87.301201 L69.536774 89.301201 L67.536774 89.301201 L67.536774 87.301201 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1087" />
+      <path
+         fill="none"
+         d="M67.536774 87.301201 L69.536774 87.301201 L69.536774 89.301201 L67.536774 89.301201 L67.536774 87.301201 Z"
+         clip-path="url(#clipPath3)"
+         id="path1089" />
+      <path
+         d="M63.171246 87.72831 L65.171249 87.72831 L65.171249 89.72831 L63.171246 89.72831 L63.171246 87.72831 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1091" />
+      <path
+         fill="none"
+         d="M63.171246 87.72831 L65.171249 87.72831 L65.171249 89.72831 L63.171246 89.72831 L63.171246 87.72831 Z"
+         clip-path="url(#clipPath3)"
+         id="path1093" />
+      <path
+         d="M70.775856 86.70134 L72.775856 86.70134 L72.775856 88.70134 L70.775856 88.70134 L70.775856 86.70134 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1095" />
+      <path
+         fill="none"
+         d="M70.775856 86.70134 L72.775856 86.70134 L72.775856 88.70134 L70.775856 88.70134 L70.775856 86.70134 Z"
+         clip-path="url(#clipPath3)"
+         id="path1097" />
+      <path
+         d="M70.23719 87.637352 L72.23719 87.637352 L72.23719 89.637352 L70.23719 89.637352 L70.23719 87.637352 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1099" />
+      <path
+         fill="none"
+         d="M70.23719 87.637352 L72.23719 87.637352 L72.23719 89.637352 L70.23719 89.637352 L70.23719 87.637352 Z"
+         clip-path="url(#clipPath3)"
+         id="path1101" />
+      <path
+         d="M63.286266 87.513878 L65.28627 87.513878 L65.28627 89.513878 L63.286266 89.513878 L63.286266 87.513878 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1103" />
+      <path
+         fill="none"
+         d="M63.286266 87.513878 L65.28627 87.513878 L65.28627 89.513878 L63.286266 89.513878 L63.286266 87.513878 Z"
+         clip-path="url(#clipPath3)"
+         id="path1105" />
+      <path
+         d="M67.021744 88.57531 L69.021744 88.57531 L69.021744 90.57531 L67.021744 90.57531 L67.021744 88.57531 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1107" />
+      <path
+         fill="none"
+         d="M67.021744 88.57531 L69.021744 88.57531 L69.021744 90.57531 L67.021744 90.57531 L67.021744 88.57531 Z"
+         clip-path="url(#clipPath3)"
+         id="path1109" />
+      <path
+         d="M70.247765 86.225082 L72.247765 86.225082 L72.247765 88.225082 L70.247765 88.225082 L70.247765 86.225082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1111" />
+      <path
+         fill="none"
+         d="M70.247765 86.225082 L72.247765 86.225082 L72.247765 88.225082 L70.247765 88.225082 L70.247765 86.225082 Z"
+         clip-path="url(#clipPath3)"
+         id="path1113" />
+      <path
+         d="M70.866966 89.093506 L72.866966 89.093506 L72.866966 91.093506 L70.866966 91.093506 L70.866966 89.093506 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1115" />
+      <path
+         fill="none"
+         d="M70.866966 89.093506 L72.866966 89.093506 L72.866966 91.093506 L70.866966 91.093506 L70.866966 89.093506 Z"
+         clip-path="url(#clipPath3)"
+         id="path1117" />
+      <path
+         d="M74.941017 85.133141 L76.941017 85.133141 L76.941017 87.133141 L74.941017 87.133141 L74.941017 85.133141 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1119" />
+      <path
+         fill="none"
+         d="M74.941017 85.133141 L76.941017 85.133141 L76.941017 87.133141 L74.941017 87.133141 L74.941017 85.133141 Z"
+         clip-path="url(#clipPath3)"
+         id="path1121" />
+      <path
+         d="M76.366409 84.962639 L78.366409 84.962639 L78.366409 86.962639 L76.366409 86.962639 L76.366409 84.962639 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1123" />
+      <path
+         fill="none"
+         d="M76.366409 84.962639 L78.366409 84.962639 L78.366409 86.962639 L76.366409 86.962639 L76.366409 84.962639 Z"
+         clip-path="url(#clipPath3)"
+         id="path1125" />
+      <path
+         d="M69.669182 87.903099 L71.669182 87.903099 L71.669182 89.903099 L69.669182 89.903099 L69.669182 87.903099 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1127" />
+      <path
+         fill="none"
+         d="M69.669182 87.903099 L71.669182 87.903099 L71.669182 89.903099 L69.669182 89.903099 L69.669182 87.903099 Z"
+         clip-path="url(#clipPath3)"
+         id="path1129" />
+      <path
+         d="M68.159042 88.766426 L70.159042 88.766426 L70.159042 90.766426 L68.159042 90.766426 L68.159042 88.766426 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1131" />
+      <path
+         fill="none"
+         d="M68.159042 88.766426 L70.159042 88.766426 L70.159042 90.766426 L68.159042 90.766426 L68.159042 88.766426 Z"
+         clip-path="url(#clipPath3)"
+         id="path1133" />
+      <path
+         d="M65.484978 86.741722 L67.484978 86.741722 L67.484978 88.741722 L65.484978 88.741722 L65.484978 86.741722 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1135" />
+      <path
+         fill="none"
+         d="M65.484978 86.741722 L67.484978 86.741722 L67.484978 88.741722 L65.484978 88.741722 L65.484978 86.741722 Z"
+         clip-path="url(#clipPath3)"
+         id="path1137" />
+      <path
+         d="M62.978451 89.584702 L64.978455 89.584702 L64.978455 91.584702 L62.978451 91.584702 L62.978451 89.584702 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path1139" />
+      <path
+         fill="none"
+         d="M62.978451 89.584702 L64.978455 89.584702 L64.978455 91.584702 L62.978451 91.584702 L62.978451 89.584702 Z"
+         clip-path="url(#clipPath3)"
+         id="path1141" />
+      <rect
+         stroke-linecap="round"
+         x="48"
+         y="8"
+         clip-path="url(#clipPath1)"
+         fill="none"
+         width="190"
+         stroke-linejoin="round"
+         height="86"
+         stroke-miterlimit="0"
+         id="rect1143" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.16530037px;line-height:1.5em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0.1672729px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     x="141.4232"
+     y="121.22527"
+     id="text2558"><tspan
+       sodipodi:role="line"
+       id="tspan2556"
+       x="141.4232"
+       y="121.22527"
+       style="stroke-width:0.94488192">C</tspan></text>
+  <text
+     id="text2562"
+     y="122.72311"
+     x="148.69508"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.51570988px;line-height:1.5em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0.11709102px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94488192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     xml:space="preserve"><tspan
+       y="122.72311"
+       x="148.69508"
+       id="tspan2560"
+       sodipodi:role="line"
+       style="fill:#000000;stroke:none;stroke-width:0.94488192">B</tspan></text>
+</svg>

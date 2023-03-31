@@ -1,0 +1,4346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   stroke-dasharray="none"
+   shape-rendering="auto"
+   font-family="'Dialog'"
+   width="500"
+   text-rendering="auto"
+   fill-opacity="1"
+   contentScriptType="text/ecmascript"
+   color-interpolation="auto"
+   color-rendering="auto"
+   preserveAspectRatio="xMidYMid meet"
+   font-size="12px"
+   fill="black"
+   stroke="black"
+   image-rendering="auto"
+   stroke-miterlimit="10"
+   zoomAndPan="magnify"
+   version="1.0"
+   stroke-linecap="square"
+   stroke-linejoin="miter"
+   contentStyleType="text/css"
+   font-style="normal"
+   height="200"
+   stroke-width="1"
+   stroke-dashoffset="0"
+   font-weight="normal"
+   stroke-opacity="1"
+   id="svg1189"
+   sodipodi:docname="G716PredFreqYa_a.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata1193">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview1191"
+     showgrid="false"
+     inkscape:zoom="1.668772"
+     inkscape:cx="311.37868"
+     inkscape:cy="64.026524"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1189" />
+  <!--jun.util.prepareGraphics2D-->
+  <defs
+     id="genericDefs" />
+  <g
+     id="g1187">
+    <defs
+       id="defs1">
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath1">
+        <path
+           d="M0 0 L500 0 L500 200 L0 200 L0 0 Z"
+           id="path3" />
+      </clipPath>
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath2">
+        <path
+           d="M97 76 L97 576 L-103 576 L-103 76 L97 76 Z"
+           id="path6" />
+      </clipPath>
+      <clipPath
+         clipPathUnits="userSpaceOnUse"
+         id="clipPath3">
+        <path
+           d="M43 5 L43 168 L491 168 L491 5 Z"
+           id="path9" />
+      </clipPath>
+    </defs>
+    <g
+       fill="white"
+       text-rendering="optimizeLegibility"
+       stroke="white"
+       id="g17">
+      <rect
+         x="43"
+         y="5"
+         clip-path="url(#clipPath1)"
+         width="448"
+         height="163"
+         stroke="none"
+         id="rect15" />
+    </g>
+    <g
+       font-size="10px"
+       fill="gray"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke="gray"
+       stroke-width="0.5"
+       id="g133">
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="168"
+         y2="168"
+         id="line19" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="43"
+         x2="43"
+         y1="170"
+         y2="168"
+         id="line21" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="66.216682"
+         x2="66.216682"
+         y1="170"
+         y2="168"
+         id="line23" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="82.689178"
+         x2="82.689178"
+         y1="170"
+         y2="168"
+         id="line25" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="95.46624"
+         x2="95.46624"
+         y1="170"
+         y2="168"
+         id="line27" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="105.905853"
+         x2="105.905853"
+         y1="170"
+         y2="168"
+         id="line29" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="114.73243"
+         x2="114.73243"
+         y1="170"
+         y2="168"
+         id="line31" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="122.378349"
+         x2="122.378349"
+         y1="170"
+         y2="168"
+         id="line33" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="129.122528"
+         x2="129.122528"
+         y1="170"
+         y2="168"
+         id="line35" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="135.155411"
+         x2="135.155411"
+         y1="170"
+         y2="168"
+         id="line37" />
+      <text
+         x="121.655411"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text39">0.001</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="135.155411"
+         x2="135.155411"
+         y1="170"
+         y2="168"
+         id="line41" />
+      <text
+         x="161.344589"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text43">0.002</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="174.844589"
+         x2="174.844589"
+         y1="170"
+         y2="168"
+         id="line45" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="198.061264"
+         x2="198.061264"
+         y1="170"
+         y2="168"
+         id="line47" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="214.533768"
+         x2="214.533768"
+         y1="170"
+         y2="168"
+         id="line49" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="227.310822"
+         x2="227.310822"
+         y1="170"
+         y2="168"
+         id="line51" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="237.750443"
+         x2="237.750443"
+         y1="170"
+         y2="168"
+         id="line53" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="246.577011"
+         x2="246.577011"
+         y1="170"
+         y2="168"
+         id="line55" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="254.222946"
+         x2="254.222946"
+         y1="170"
+         y2="168"
+         id="line57" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="260.967133"
+         x2="260.967133"
+         y1="170"
+         y2="168"
+         id="line59" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="267"
+         x2="267"
+         y1="170"
+         y2="168"
+         id="line61" />
+      <text
+         x="256.5"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text63">0.01</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="267"
+         x2="267"
+         y1="170"
+         y2="168"
+         id="line65" />
+      <text
+         x="296.189178"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text67">0.02</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="306.689178"
+         x2="306.689178"
+         y1="170"
+         y2="168"
+         id="line69" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="329.905853"
+         x2="329.905853"
+         y1="170"
+         y2="168"
+         id="line71" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="346.378357"
+         x2="346.378357"
+         y1="170"
+         y2="168"
+         id="line73" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="359.155426"
+         x2="359.155426"
+         y1="170"
+         y2="168"
+         id="line75" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="369.595032"
+         x2="369.595032"
+         y1="170"
+         y2="168"
+         id="line77" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="378.4216"
+         x2="378.4216"
+         y1="170"
+         y2="168"
+         id="line79" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="386.067535"
+         x2="386.067535"
+         y1="170"
+         y2="168"
+         id="line81" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="392.811707"
+         x2="392.811707"
+         y1="170"
+         y2="168"
+         id="line83" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="398.844574"
+         x2="398.844574"
+         y1="170"
+         y2="168"
+         id="line85" />
+      <text
+         x="391.344574"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text87">0.1</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="398.844574"
+         x2="398.844574"
+         y1="170"
+         y2="168"
+         id="line89" />
+      <text
+         x="431.033752"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text91">0.2</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="438.533752"
+         x2="438.533752"
+         y1="170"
+         y2="168"
+         id="line93" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="461.750458"
+         x2="461.750458"
+         y1="170"
+         y2="168"
+         id="line95" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="478.222931"
+         x2="478.222931"
+         y1="170"
+         y2="168"
+         id="line97" />
+      <text
+         x="483.5"
+         y="181.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text99">0.5</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="491"
+         x2="491"
+         y1="170"
+         y2="168"
+         id="line101" />
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="43"
+         x2="43"
+         y1="5"
+         y2="168"
+         id="line105" />
+      <text
+         x="22"
+         y="172.298828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text107">1.6</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="168"
+         y2="168"
+         id="line109" />
+      <text
+         x="22"
+         y="145.132156"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text111">1.8</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="140.833328"
+         y2="140.833328"
+         id="line113" />
+      <text
+         x="22"
+         y="117.965492"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text115">2.0</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="113.666664"
+         y2="113.666664"
+         id="line117" />
+      <text
+         x="22"
+         y="90.798828"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text119">2.2</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="86.5"
+         y2="86.5"
+         id="line121" />
+      <text
+         x="22"
+         y="63.63216"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text123">2.4</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="59.333332"
+         y2="59.333332"
+         id="line125" />
+      <text
+         x="22"
+         y="36.465496"
+         clip-path="url(#clipPath1)"
+         fill="black"
+         stroke="none"
+         xml:space="preserve"
+         id="text127">2.6</text>
+      <line
+         clip-path="url(#clipPath1)"
+         fill="none"
+         x1="41"
+         x2="43"
+         y1="32.166668"
+         y2="32.166668"
+         id="line129" />
+    </g>
+    <g
+       stroke-linecap="butt"
+       fill="silver"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke-linejoin="bevel"
+       stroke-dasharray="2,2"
+       stroke="silver"
+       stroke-width="0.5"
+       stroke-miterlimit="0"
+       id="g215">
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="43"
+         y1="5"
+         y2="168"
+         id="line135" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="66.216679"
+         x2="66.216679"
+         y1="5"
+         y2="168"
+         id="line137" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="82.689176"
+         x2="82.689176"
+         y1="5"
+         y2="168"
+         id="line139" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="95.466236"
+         x2="95.466236"
+         y1="5"
+         y2="168"
+         id="line141" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="105.905855"
+         x2="105.905855"
+         y1="5"
+         y2="168"
+         id="line143" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="114.732427"
+         x2="114.732427"
+         y1="5"
+         y2="168"
+         id="line145" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="122.378351"
+         x2="122.378351"
+         y1="5"
+         y2="168"
+         id="line147" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="129.122535"
+         x2="129.122535"
+         y1="5"
+         y2="168"
+         id="line149" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="135.155412"
+         x2="135.155412"
+         y1="5"
+         y2="168"
+         id="line151" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="135.155412"
+         x2="135.155412"
+         y1="5"
+         y2="168"
+         id="line153" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="174.844588"
+         x2="174.844588"
+         y1="5"
+         y2="168"
+         id="line155" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="198.061267"
+         x2="198.061267"
+         y1="5"
+         y2="168"
+         id="line157" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="214.533764"
+         x2="214.533764"
+         y1="5"
+         y2="168"
+         id="line159" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="227.310824"
+         x2="227.310824"
+         y1="5"
+         y2="168"
+         id="line161" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="237.750443"
+         x2="237.750443"
+         y1="5"
+         y2="168"
+         id="line163" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="246.577015"
+         x2="246.577015"
+         y1="5"
+         y2="168"
+         id="line165" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="254.222939"
+         x2="254.222939"
+         y1="5"
+         y2="168"
+         id="line167" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="260.967123"
+         x2="260.967123"
+         y1="5"
+         y2="168"
+         id="line169" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="267"
+         x2="267"
+         y1="5"
+         y2="168"
+         id="line171" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="267"
+         x2="267"
+         y1="5"
+         y2="168"
+         id="line173" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="306.689176"
+         x2="306.689176"
+         y1="5"
+         y2="168"
+         id="line175" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="329.905855"
+         x2="329.905855"
+         y1="5"
+         y2="168"
+         id="line177" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="346.378351"
+         x2="346.378351"
+         y1="5"
+         y2="168"
+         id="line179" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="359.155412"
+         x2="359.155412"
+         y1="5"
+         y2="168"
+         id="line181" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="369.595031"
+         x2="369.595031"
+         y1="5"
+         y2="168"
+         id="line183" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="378.421603"
+         x2="378.421603"
+         y1="5"
+         y2="168"
+         id="line185" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="386.067527"
+         x2="386.067527"
+         y1="5"
+         y2="168"
+         id="line187" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="392.81171"
+         x2="392.81171"
+         y1="5"
+         y2="168"
+         id="line189" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="398.844588"
+         x2="398.844588"
+         y1="5"
+         y2="168"
+         id="line191" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="398.844588"
+         x2="398.844588"
+         y1="5"
+         y2="168"
+         id="line193" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="438.533764"
+         x2="438.533764"
+         y1="5"
+         y2="168"
+         id="line195" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="461.750443"
+         x2="461.750443"
+         y1="5"
+         y2="168"
+         id="line197" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="478.222939"
+         x2="478.222939"
+         y1="5"
+         y2="168"
+         id="line199" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="491"
+         x2="491"
+         y1="5"
+         y2="168"
+         id="line201" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="168"
+         y2="168"
+         id="line203" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="140.833333"
+         y2="140.833333"
+         id="line205" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="113.666667"
+         y2="113.666667"
+         id="line207" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="86.5"
+         y2="86.5"
+         id="line209" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="59.333333"
+         y2="59.333333"
+         id="line211" />
+      <line
+         clip-path="url(#clipPath3)"
+         fill="none"
+         x1="43"
+         x2="491"
+         y1="32.166667"
+         y2="32.166667"
+         id="line213" />
+    </g>
+    <g
+       fill="rgb(255,85,85)"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke="rgb(255,85,85)"
+       stroke-linejoin="bevel"
+       id="g1169">
+      <path
+         fill="none"
+         d="M174.844589 42.833588 L188.029053 46.46394 L201.213501 50.094292 L214.397964 53.724648 L227.582428 57.355 L240.766876 60.985352 L253.95134 64.615707 L267.135803 68.246056 L280.320251 71.876411 L293.50473 75.50676 L306.689178 79.137115 L319.873627 82.767471 L333.058105 86.39782 L346.242554 90.028175 L359.427002 93.658524 L372.611481 97.288879 L385.795929 100.919235 L398.980377 104.549583 L412.164856 108.179939 L425.349304 111.810287 L438.533752 115.440643 L451.718231 119.070999 L464.902679 122.701347 L478.087128 126.331703"
+         clip-path="url(#clipPath3)"
+         id="path217" />
+      <path
+         fill="none"
+         d="M174.844589 49.866848 L188.029053 50.356609 L201.213501 51.329037 L214.397964 52.784126 L227.582428 54.721886 L240.766876 57.142311 L253.95134 60.045403 L267.135803 63.431156 L280.320251 67.299583 L293.50473 71.650665 L306.689178 76.484421 L319.873627 81.800842 L333.058105 87.59993 L346.242554 93.881676 L359.427002 100.646095 L372.611481 107.893181 L385.795929 115.622925 L398.980377 123.835342 L412.164856 132.530426 L425.349304 141.708176 L438.533752 151.368576 L451.718231 161.511658 L464.902679 172.137405 L478.087128 183.245819"
+         clip-path="url(#clipPath3)"
+         stroke="rgb(85,85,255)"
+         id="path219" />
+      <path
+         fill="black"
+         d="M428.851227 144.518417 L431.451202 144.518417 L431.451202 147.118423 L428.851227 147.118423 L428.851227 144.518417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="path221" />
+      <path
+         fill="none"
+         d="M428.851227 144.518417 L431.451202 144.518417 L431.451202 147.118423 L428.851227 147.118423 L428.851227 144.518417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path223" />
+      <path
+         fill="black"
+         d="M377.479523 96.908836 L380.079529 96.908836 L380.079529 99.508835 L377.479523 99.508835 L377.479523 96.908836 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path225" />
+      <path
+         fill="none"
+         d="M377.479523 96.908836 L380.079529 96.908836 L380.079529 99.508835 L377.479523 99.508835 L377.479523 96.908836 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path227" />
+      <path
+         fill="black"
+         d="M385.622498 119.715248 L388.222473 119.715248 L388.222473 122.315247 L385.622498 122.315247 L385.622498 119.715248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path229" />
+      <path
+         fill="none"
+         d="M385.622498 119.715248 L388.222473 119.715248 L388.222473 122.315247 L385.622498 122.315247 L385.622498 119.715248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path231" />
+      <path
+         fill="black"
+         d="M364.835693 100.291084 L367.435699 100.291084 L367.435699 102.891083 L364.835693 102.891083 L364.835693 100.291084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path233" />
+      <path
+         fill="none"
+         d="M364.835693 100.291084 L367.435699 100.291084 L367.435699 102.891083 L364.835693 102.891083 L364.835693 100.291084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path235" />
+      <path
+         fill="black"
+         d="M312.292419 91.855835 L314.892426 91.855835 L314.892426 94.455833 L312.292419 94.455833 L312.292419 91.855835 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path237" />
+      <path
+         fill="none"
+         d="M312.292419 91.855835 L314.892426 91.855835 L314.892426 94.455833 L312.292419 94.455833 L312.292419 91.855835 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path239" />
+      <path
+         fill="black"
+         d="M309.05661 82.768585 L311.656616 82.768585 L311.656616 85.368584 L309.05661 85.368584 L309.05661 82.768585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path241" />
+      <path
+         fill="none"
+         d="M309.05661 82.768585 L311.656616 82.768585 L311.656616 85.368584 L309.05661 85.368584 L309.05661 82.768585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path243" />
+      <path
+         fill="black"
+         d="M324.589966 87.78083 L327.189972 87.78083 L327.189972 90.380836 L324.589966 90.380836 L324.589966 87.78083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path245" />
+      <path
+         fill="none"
+         d="M324.589966 87.78083 L327.189972 87.78083 L327.189972 90.380836 L324.589966 90.380836 L324.589966 87.78083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path247" />
+      <path
+         fill="black"
+         d="M289.146973 70.801666 L291.746979 70.801666 L291.746979 73.401665 L289.146973 73.401665 L289.146973 70.801666 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path249" />
+      <path
+         fill="none"
+         d="M289.146973 70.801666 L291.746979 70.801666 L291.746979 73.401665 L289.146973 73.401665 L289.146973 70.801666 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path251" />
+      <path
+         fill="black"
+         d="M315.092926 72.377335 L317.692902 72.377335 L317.692902 74.977333 L315.092926 74.977333 L315.092926 72.377335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path253" />
+      <path
+         fill="none"
+         d="M315.092926 72.377335 L317.692902 72.377335 L317.692902 74.977333 L315.092926 74.977333 L315.092926 72.377335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path255" />
+      <path
+         fill="black"
+         d="M295.30365 58.495167 L297.903656 58.495167 L297.903656 61.095165 L295.30365 61.095165 L295.30365 58.495167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path257" />
+      <path
+         fill="none"
+         d="M295.30365 58.495167 L297.903656 58.495167 L297.903656 61.095165 L295.30365 61.095165 L295.30365 58.495167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path259" />
+      <path
+         fill="black"
+         d="M291.854004 72.336586 L294.45401 72.336586 L294.45401 74.936584 L291.854004 74.936584 L291.854004 72.336586 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path261" />
+      <path
+         fill="none"
+         d="M291.854004 72.336586 L294.45401 72.336586 L294.45401 74.936584 L291.854004 74.936584 L291.854004 72.336586 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path263" />
+      <path
+         fill="black"
+         d="M281.400055 85.607498 L284.000031 85.607498 L284.000031 88.207497 L281.400055 88.207497 L281.400055 85.607498 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path265" />
+      <path
+         fill="none"
+         d="M281.400055 85.607498 L284.000031 85.607498 L284.000031 88.207497 L281.400055 88.207497 L281.400055 85.607498 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path267" />
+      <path
+         fill="black"
+         d="M279.229156 88.650169 L281.829132 88.650169 L281.829132 91.250168 L279.229156 91.250168 L279.229156 88.650169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path269" />
+      <path
+         fill="none"
+         d="M279.229156 88.650169 L281.829132 88.650169 L281.829132 91.250168 L279.229156 91.250168 L279.229156 88.650169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path271" />
+      <path
+         fill="black"
+         d="M270.389984 84.452919 L272.98999 84.452919 L272.98999 87.052917 L270.389984 87.052917 L270.389984 84.452919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path273" />
+      <path
+         fill="none"
+         d="M270.389984 84.452919 L272.98999 84.452919 L272.98999 87.052917 L270.389984 87.052917 L270.389984 84.452919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path275" />
+      <path
+         fill="black"
+         d="M287.908722 78.449081 L290.508728 78.449081 L290.508728 81.04908 L287.908722 81.04908 L287.908722 78.449081 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path277" />
+      <path
+         fill="none"
+         d="M287.908722 78.449081 L290.508728 78.449081 L290.508728 81.04908 L287.908722 81.04908 L287.908722 78.449081 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path279" />
+      <path
+         fill="black"
+         d="M254.093277 58.848335 L256.693268 58.848335 L256.693268 61.448334 L254.093277 61.448334 L254.093277 58.848335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path281" />
+      <path
+         fill="none"
+         d="M254.093277 58.848335 L256.693268 58.848335 L256.693268 61.448334 L254.093277 61.448334 L254.093277 58.848335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path283" />
+      <path
+         fill="black"
+         d="M267.042053 63.181416 L269.642029 63.181416 L269.642029 65.781418 L267.042053 65.781418 L267.042053 63.181416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path285" />
+      <path
+         fill="none"
+         d="M267.042053 63.181416 L269.642029 63.181416 L269.642029 65.781418 L267.042053 65.781418 L267.042053 63.181416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path287" />
+      <path
+         fill="black"
+         d="M291.339569 68.818497 L293.939575 68.818497 L293.939575 71.418503 L291.339569 71.418503 L291.339569 68.818497 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path289" />
+      <path
+         fill="none"
+         d="M291.339569 68.818497 L293.939575 68.818497 L293.939575 71.418503 L291.339569 71.418503 L291.339569 68.818497 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path291" />
+      <path
+         fill="black"
+         d="M282.587921 76.22142 L285.187927 76.22142 L285.187927 78.821419 L282.587921 78.821419 L282.587921 76.22142 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path293" />
+      <path
+         fill="none"
+         d="M282.587921 76.22142 L285.187927 76.22142 L285.187927 78.821419 L282.587921 78.821419 L282.587921 76.22142 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path295" />
+      <path
+         fill="black"
+         d="M284.477966 64.852165 L287.077972 64.852165 L287.077972 67.452164 L284.477966 67.452164 L284.477966 64.852165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path297" />
+      <path
+         fill="none"
+         d="M284.477966 64.852165 L287.077972 64.852165 L287.077972 67.452164 L284.477966 67.452164 L284.477966 64.852165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path299" />
+      <path
+         fill="black"
+         d="M275.948059 52.23325 L278.548065 52.23325 L278.548065 54.833248 L275.948059 54.833248 L275.948059 52.23325 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path301" />
+      <path
+         fill="none"
+         d="M275.948059 52.23325 L278.548065 52.23325 L278.548065 54.833248 L275.948059 54.833248 L275.948059 52.23325 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path303" />
+      <path
+         fill="black"
+         d="M274.534332 68.791336 L277.134338 68.791336 L277.134338 71.391335 L274.534332 71.391335 L274.534332 68.791336 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path305" />
+      <path
+         fill="none"
+         d="M274.534332 68.791336 L277.134338 68.791336 L277.134338 71.391335 L274.534332 71.391335 L274.534332 68.791336 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path307" />
+      <path
+         fill="black"
+         d="M266.068695 49.543751 L268.668701 49.543751 L268.668701 52.143749 L266.068695 52.143749 L266.068695 49.543751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path309" />
+      <path
+         fill="none"
+         d="M266.068695 49.543751 L268.668701 49.543751 L268.668701 52.143749 L266.068695 52.143749 L266.068695 49.543751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path311" />
+      <path
+         fill="black"
+         d="M240.575211 38.989502 L243.175217 38.989502 L243.175217 41.5895 L240.575211 41.5895 L240.575211 38.989502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path313" />
+      <path
+         fill="none"
+         d="M240.575211 38.989502 L243.175217 38.989502 L243.175217 41.5895 L240.575211 41.5895 L240.575211 38.989502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path315" />
+      <path
+         fill="black"
+         d="M258.082733 64.526169 L260.682739 64.526169 L260.682739 67.126167 L258.082733 67.126167 L258.082733 64.526169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path317" />
+      <path
+         fill="none"
+         d="M258.082733 64.526169 L260.682739 64.526169 L260.682739 67.126167 L258.082733 67.126167 L258.082733 64.526169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path319" />
+      <path
+         fill="black"
+         d="M248.912064 61.130333 L251.512054 61.130333 L251.512054 63.730331 L248.912064 63.730331 L248.912064 61.130333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path321" />
+      <path
+         fill="none"
+         d="M248.912064 61.130333 L251.512054 61.130333 L251.512054 63.730331 L248.912064 63.730331 L248.912064 61.130333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path323" />
+      <path
+         fill="black"
+         d="M245.174179 58.440834 L247.77417 58.440834 L247.77417 61.040833 L245.174179 61.040833 L245.174179 58.440834 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path325" />
+      <path
+         fill="none"
+         d="M245.174179 58.440834 L247.77417 58.440834 L247.77417 61.040833 L245.174179 61.040833 L245.174179 58.440834 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path327" />
+      <path
+         fill="black"
+         d="M252.653915 83.746582 L255.253906 83.746582 L255.253906 86.346581 L252.653915 86.346581 L252.653915 83.746582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path329" />
+      <path
+         fill="none"
+         d="M252.653915 83.746582 L255.253906 83.746582 L255.253906 86.346581 L252.653915 86.346581 L252.653915 83.746582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path331" />
+      <path
+         fill="black"
+         d="M249.701416 57.707333 L252.301422 57.707333 L252.301422 60.307335 L249.701416 60.307335 L249.701416 57.707333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path333" />
+      <path
+         fill="none"
+         d="M249.701416 57.707333 L252.301422 57.707333 L252.301422 60.307335 L249.701416 60.307335 L249.701416 57.707333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path335" />
+      <path
+         fill="black"
+         d="M220.275787 61.497082 L222.875793 61.497082 L222.875793 64.097084 L220.275787 64.097084 L220.275787 61.497082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path337" />
+      <path
+         fill="none"
+         d="M220.275787 61.497082 L222.875793 61.497082 L222.875793 64.097084 L220.275787 64.097084 L220.275787 61.497082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path339" />
+      <path
+         fill="black"
+         d="M236.728867 50.046333 L239.328873 50.046333 L239.328873 52.646332 L236.728867 52.646332 L236.728867 50.046333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path341" />
+      <path
+         fill="none"
+         d="M236.728867 50.046333 L239.328873 50.046333 L239.328873 52.646332 L236.728867 52.646332 L236.728867 50.046333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path343" />
+      <path
+         fill="black"
+         d="M265.64386 38.94875 L268.243866 38.94875 L268.243866 41.548752 L265.64386 41.548752 L265.64386 38.94875 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path345" />
+      <path
+         fill="none"
+         d="M265.64386 38.94875 L268.243866 38.94875 L268.243866 41.548752 L265.64386 41.548752 L265.64386 38.94875 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path347" />
+      <path
+         fill="black"
+         d="M241.896103 44.680916 L244.496109 44.680916 L244.496109 47.280918 L241.896103 47.280918 L241.896103 44.680916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path349" />
+      <path
+         fill="none"
+         d="M241.896103 44.680916 L244.496109 44.680916 L244.496109 47.280918 L241.896103 47.280918 L241.896103 44.680916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path351" />
+      <path
+         fill="black"
+         d="M238.638519 35.634418 L241.238525 35.634418 L241.238525 38.234417 L238.638519 38.234417 L238.638519 35.634418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path353" />
+      <path
+         fill="none"
+         d="M238.638519 35.634418 L241.238525 35.634418 L241.238525 38.234417 L238.638519 38.234417 L238.638519 35.634418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path355" />
+      <path
+         fill="black"
+         d="M232.305328 38.514084 L234.905319 38.514084 L234.905319 41.114082 L232.305328 41.114082 L232.305328 38.514084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path357" />
+      <path
+         fill="none"
+         d="M232.305328 38.514084 L234.905319 38.514084 L234.905319 41.114082 L232.305328 41.114082 L232.305328 38.514084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path359" />
+      <path
+         fill="black"
+         d="M250.199448 40.537998 L252.799454 40.537998 L252.799454 43.138 L250.199448 43.138 L250.199448 40.537998 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path361" />
+      <path
+         fill="none"
+         d="M250.199448 40.537998 L252.799454 40.537998 L252.799454 43.138 L250.199448 43.138 L250.199448 40.537998 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path363" />
+      <path
+         fill="black"
+         d="M250.819687 53.034668 L253.419693 53.034668 L253.419693 55.634666 L250.819687 55.634666 L250.819687 53.034668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path365" />
+      <path
+         fill="none"
+         d="M250.819687 53.034668 L253.419693 53.034668 L253.419693 55.634666 L250.819687 55.634666 L250.819687 53.034668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path367" />
+      <path
+         fill="black"
+         d="M266.037659 55.140083 L268.637634 55.140083 L268.637634 57.740082 L266.037659 57.740082 L266.037659 55.140083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path369" />
+      <path
+         fill="none"
+         d="M266.037659 55.140083 L268.637634 55.140083 L268.637634 57.740082 L266.037659 57.740082 L266.037659 55.140083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path371" />
+      <path
+         fill="black"
+         d="M202.846893 71.684586 L205.446899 71.684586 L205.446899 74.284584 L202.846893 74.284584 L202.846893 71.684586 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path373" />
+      <path
+         fill="none"
+         d="M202.846893 71.684586 L205.446899 71.684586 L205.446899 74.284584 L202.846893 74.284584 L202.846893 71.684586 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path375" />
+      <path
+         fill="black"
+         d="M234.625519 32.089169 L237.225525 32.089169 L237.225525 34.689167 L234.625519 34.689167 L234.625519 32.089169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path377" />
+      <path
+         fill="none"
+         d="M234.625519 32.089169 L237.225525 32.089169 L237.225525 34.689167 L234.625519 34.689167 L234.625519 32.089169 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path379" />
+      <path
+         fill="black"
+         d="M236.917633 50.399502 L239.517639 50.399502 L239.517639 52.9995 L236.917633 52.9995 L236.917633 50.399502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path381" />
+      <path
+         fill="none"
+         d="M236.917633 50.399502 L239.517639 50.399502 L239.517639 52.9995 L236.917633 52.9995 L236.917633 50.399502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path383" />
+      <path
+         fill="black"
+         d="M234.60701 55.7785 L237.207016 55.7785 L237.207016 58.378498 L234.60701 58.378498 L234.60701 55.7785 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path385" />
+      <path
+         fill="none"
+         d="M234.60701 55.7785 L237.207016 55.7785 L237.207016 58.378498 L234.60701 58.378498 L234.60701 55.7785 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path387" />
+      <path
+         fill="black"
+         d="M220.765686 36.137001 L223.365692 36.137001 L223.365692 38.737 L220.765686 38.737 L220.765686 36.137001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path389" />
+      <path
+         fill="none"
+         d="M220.765686 36.137001 L223.365692 36.137001 L223.365692 38.737 L220.765686 38.737 L220.765686 36.137001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path391" />
+      <path
+         fill="black"
+         d="M239.801285 49.679585 L242.401291 49.679585 L242.401291 52.279583 L239.801285 52.279583 L239.801285 49.679585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path393" />
+      <path
+         fill="none"
+         d="M239.801285 49.679585 L242.401291 49.679585 L242.401291 52.279583 L239.801285 52.279583 L239.801285 49.679585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path395" />
+      <path
+         fill="black"
+         d="M215.830811 45.591 L218.430817 45.591 L218.430817 48.190998 L215.830811 48.190998 L215.830811 45.591 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path397" />
+      <path
+         fill="none"
+         d="M215.830811 45.591 L218.430817 45.591 L218.430817 48.190998 L215.830811 48.190998 L215.830811 45.591 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path399" />
+      <path
+         fill="black"
+         d="M241.434769 51.2145 L244.034775 51.2145 L244.034775 53.814499 L241.434769 53.814499 L241.434769 51.2145 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path401" />
+      <path
+         fill="none"
+         d="M241.434769 51.2145 L244.034775 51.2145 L244.034775 53.814499 L241.434769 53.814499 L241.434769 51.2145 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path403" />
+      <path
+         fill="black"
+         d="M269.561218 68.845665 L272.161224 68.845665 L272.161224 71.445663 L269.561218 71.445663 L269.561218 68.845665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path405" />
+      <path
+         fill="none"
+         d="M269.561218 68.845665 L272.161224 68.845665 L272.161224 71.445663 L269.561218 71.445663 L269.561218 68.845665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path407" />
+      <path
+         fill="black"
+         d="M246.517334 72.730499 L249.11734 72.730499 L249.11734 75.330498 L246.517334 75.330498 L246.517334 72.730499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path409" />
+      <path
+         fill="none"
+         d="M246.517334 72.730499 L249.11734 72.730499 L249.11734 75.330498 L246.517334 75.330498 L246.517334 72.730499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path411" />
+      <path
+         fill="black"
+         d="M266.125366 56.267502 L268.725372 56.267502 L268.725372 58.8675 L266.125366 58.8675 L266.125366 56.267502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path413" />
+      <path
+         fill="none"
+         d="M266.125366 56.267502 L268.725372 56.267502 L268.725372 58.8675 L266.125366 58.8675 L266.125366 56.267502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path415" />
+      <path
+         fill="black"
+         d="M217.241135 60.165916 L219.841141 60.165916 L219.841141 62.765915 L217.241135 62.765915 L217.241135 60.165916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path417" />
+      <path
+         fill="none"
+         d="M217.241135 60.165916 L219.841141 60.165916 L219.841141 62.765915 L217.241135 62.765915 L217.241135 60.165916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path419" />
+      <path
+         fill="black"
+         d="M224.316559 37.862083 L226.916565 37.862083 L226.916565 40.462082 L224.316559 40.462082 L224.316559 37.862083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path421" />
+      <path
+         fill="none"
+         d="M224.316559 37.862083 L226.916565 37.862083 L226.916565 40.462082 L224.316559 40.462082 L224.316559 37.862083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path423" />
+      <path
+         fill="black"
+         d="M207.214661 58.658165 L209.814651 58.658165 L209.814651 61.258167 L207.214661 61.258167 L207.214661 58.658165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path425" />
+      <path
+         fill="none"
+         d="M207.214661 58.658165 L209.814651 58.658165 L209.814651 61.258167 L207.214661 61.258167 L207.214661 58.658165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path427" />
+      <path
+         fill="black"
+         d="M239.804977 67.989914 L242.404984 67.989914 L242.404984 70.58992 L239.804977 70.58992 L239.804977 67.989914 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path429" />
+      <path
+         fill="none"
+         d="M239.804977 67.989914 L242.404984 67.989914 L242.404984 70.58992 L239.804977 70.58992 L239.804977 67.989914 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path431" />
+      <path
+         fill="black"
+         d="M222.256577 55.805668 L224.856583 55.805668 L224.856583 58.405666 L222.256577 58.405666 L222.256577 55.805668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path433" />
+      <path
+         fill="none"
+         d="M222.256577 55.805668 L224.856583 55.805668 L224.856583 58.405666 L222.256577 58.405666 L222.256577 55.805668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path435" />
+      <path
+         fill="black"
+         d="M205.300293 54.474499 L207.900299 54.474499 L207.900299 57.074501 L205.300293 57.074501 L205.300293 54.474499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path437" />
+      <path
+         fill="none"
+         d="M205.300293 54.474499 L207.900299 54.474499 L207.900299 57.074501 L205.300293 57.074501 L205.300293 54.474499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path439" />
+      <path
+         fill="black"
+         d="M218.401566 54.841251 L221.001572 54.841251 L221.001572 57.44125 L218.401566 57.44125 L218.401566 54.841251 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path441" />
+      <path
+         fill="none"
+         d="M218.401566 54.841251 L221.001572 54.841251 L221.001572 57.44125 L218.401566 57.44125 L218.401566 54.841251 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path443" />
+      <path
+         fill="black"
+         d="M195.716125 40.972668 L198.316116 40.972668 L198.316116 43.572666 L195.716125 43.572666 L195.716125 40.972668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path445" />
+      <path
+         fill="none"
+         d="M195.716125 40.972668 L198.316116 40.972668 L198.316116 43.572666 L195.716125 43.572666 L195.716125 40.972668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path447" />
+      <path
+         fill="black"
+         d="M225.37352 77.362419 L227.973511 77.362419 L227.973511 79.962418 L225.37352 79.962418 L225.37352 77.362419 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path449" />
+      <path
+         fill="none"
+         d="M225.37352 77.362419 L227.973511 77.362419 L227.973511 79.962418 L225.37352 79.962418 L225.37352 77.362419 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path451" />
+      <path
+         fill="black"
+         d="M227.157288 38.1745 L229.757278 38.1745 L229.757278 40.774502 L227.157288 40.774502 L227.157288 38.1745 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path453" />
+      <path
+         fill="none"
+         d="M227.157288 38.1745 L229.757278 38.1745 L229.757278 40.774502 L227.157288 40.774502 L227.157288 38.1745 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path455" />
+      <path
+         fill="black"
+         d="M208.627258 35.199749 L211.227264 35.199749 L211.227264 37.799751 L208.627258 37.799751 L208.627258 35.199749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path457" />
+      <path
+         fill="none"
+         d="M208.627258 35.199749 L211.227264 35.199749 L211.227264 37.799751 L208.627258 37.799751 L208.627258 35.199749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path459" />
+      <path
+         fill="black"
+         d="M217.831451 46.569 L220.431442 46.569 L220.431442 49.168999 L217.831451 49.168999 L217.831451 46.569 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path461" />
+      <path
+         fill="none"
+         d="M217.831451 46.569 L220.431442 46.569 L220.431442 49.168999 L217.831451 49.168999 L217.831451 46.569 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path463" />
+      <path
+         fill="black"
+         d="M230.447662 42.208752 L233.047653 42.208752 L233.047653 44.80875 L230.447662 44.80875 L230.447662 42.208752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path465" />
+      <path
+         fill="none"
+         d="M230.447662 42.208752 L233.047653 42.208752 L233.047653 44.80875 L230.447662 44.80875 L230.447662 42.208752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path467" />
+      <path
+         fill="black"
+         d="M227.594055 63.561749 L230.194046 63.561749 L230.194046 66.161751 L227.594055 66.161751 L227.594055 63.561749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path469" />
+      <path
+         fill="none"
+         d="M227.594055 63.561749 L230.194046 63.561749 L230.194046 66.161751 L227.594055 66.161751 L227.594055 63.561749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path471" />
+      <path
+         fill="black"
+         d="M210.719086 49.747501 L213.319077 49.747501 L213.319077 52.3475 L210.719086 52.3475 L210.719086 49.747501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path473" />
+      <path
+         fill="none"
+         d="M210.719086 49.747501 L213.319077 49.747501 L213.319077 52.3475 L210.719086 52.3475 L210.719086 49.747501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path475" />
+      <path
+         fill="black"
+         d="M208.355484 57.924667 L210.95549 57.924667 L210.95549 60.524666 L208.355484 60.524666 L208.355484 57.924667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path477" />
+      <path
+         fill="none"
+         d="M208.355484 57.924667 L210.95549 57.924667 L210.95549 60.524666 L208.355484 60.524666 L208.355484 57.924667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path479" />
+      <path
+         fill="black"
+         d="M221.340866 69.063004 L223.940872 69.063004 L223.940872 71.663002 L221.340866 71.663002 L221.340866 69.063004 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path481" />
+      <path
+         fill="none"
+         d="M221.340866 69.063004 L223.940872 69.063004 L223.940872 71.663002 L221.340866 71.663002 L221.340866 69.063004 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path483" />
+      <path
+         fill="black"
+         d="M216.790298 47.492668 L219.390289 47.492668 L219.390289 50.092667 L216.790298 50.092667 L216.790298 47.492668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path485" />
+      <path
+         fill="none"
+         d="M216.790298 47.492668 L219.390289 47.492668 L219.390289 50.092667 L216.790298 50.092667 L216.790298 47.492668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path487" />
+      <path
+         fill="black"
+         d="M208.683578 47.098751 L211.283585 47.098751 L211.283585 49.69875 L208.683578 49.69875 L208.683578 47.098751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path489" />
+      <path
+         fill="none"
+         d="M208.683578 47.098751 L211.283585 47.098751 L211.283585 49.69875 L208.683578 49.69875 L208.683578 47.098751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path491" />
+      <path
+         fill="black"
+         d="M193.444992 32.781918 L196.044998 32.781918 L196.044998 35.381916 L193.444992 35.381916 L193.444992 32.781918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path493" />
+      <path
+         fill="none"
+         d="M193.444992 32.781918 L196.044998 32.781918 L196.044998 35.381916 L193.444992 35.381916 L193.444992 32.781918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path495" />
+      <path
+         fill="black"
+         d="M181.240204 60.233833 L183.840195 60.233833 L183.840195 62.833832 L181.240204 62.833832 L181.240204 60.233833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path497" />
+      <path
+         fill="none"
+         d="M181.240204 60.233833 L183.840195 60.233833 L183.840195 62.833832 L181.240204 62.833832 L181.240204 60.233833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path499" />
+      <path
+         fill="black"
+         d="M204.805466 45.862667 L207.405457 45.862667 L207.405457 48.462666 L204.805466 48.462666 L204.805466 45.862667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path501" />
+      <path
+         fill="none"
+         d="M204.805466 45.862667 L207.405457 45.862667 L207.405457 48.462666 L204.805466 48.462666 L204.805466 45.862667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path503" />
+      <path
+         fill="black"
+         d="M233.1418 45.088417 L235.741791 45.088417 L235.741791 47.688416 L233.1418 47.688416 L233.1418 45.088417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path505" />
+      <path
+         fill="none"
+         d="M233.1418 45.088417 L235.741791 45.088417 L235.741791 47.688416 L233.1418 47.688416 L233.1418 45.088417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path507" />
+      <path
+         fill="black"
+         d="M211.58139 55.873585 L214.181396 55.873585 L214.181396 58.473583 L211.58139 58.473583 L211.58139 55.873585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path509" />
+      <path
+         fill="none"
+         d="M211.58139 55.873585 L214.181396 55.873585 L214.181396 58.473583 L211.58139 58.473583 L211.58139 55.873585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path511" />
+      <path
+         fill="black"
+         d="M217.387985 64.94725 L219.987976 64.94725 L219.987976 67.547249 L217.387985 67.547249 L217.387985 64.94725 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path513" />
+      <path
+         fill="none"
+         d="M217.387985 64.94725 L219.987976 64.94725 L219.987976 67.547249 L217.387985 67.547249 L217.387985 64.94725 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path515" />
+      <path
+         fill="black"
+         d="M202.768509 131.396912 L205.368515 131.396912 L205.368515 133.996918 L202.768509 133.996918 L202.768509 131.396912 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path517" />
+      <path
+         fill="none"
+         d="M202.768509 131.396912 L205.368515 131.396912 L205.368515 133.996918 L202.768509 133.996918 L202.768509 131.396912 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path519" />
+      <path
+         fill="black"
+         d="M216.737671 61.225418 L219.337677 61.225418 L219.337677 63.825417 L216.737671 63.825417 L216.737671 61.225418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path521" />
+      <path
+         fill="none"
+         d="M216.737671 61.225418 L219.337677 61.225418 L219.337677 63.825417 L216.737671 63.825417 L216.737671 61.225418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path523" />
+      <path
+         fill="black"
+         d="M198.796478 31.69525 L201.396484 31.69525 L201.396484 34.29525 L198.796478 34.29525 L198.796478 31.69525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path525" />
+      <path
+         fill="none"
+         d="M198.796478 31.69525 L201.396484 31.69525 L201.396484 34.29525 L198.796478 34.29525 L198.796478 31.69525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path527" />
+      <path
+         fill="black"
+         d="M202.295273 33.556168 L204.895264 33.556168 L204.895264 36.156166 L202.295273 36.156166 L202.295273 33.556168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path529" />
+      <path
+         fill="none"
+         d="M202.295273 33.556168 L204.895264 33.556168 L204.895264 36.156166 L202.295273 36.156166 L202.295273 33.556168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path531" />
+      <path
+         fill="black"
+         d="M194.769821 36.340752 L197.369812 36.340752 L197.369812 38.94075 L194.769821 38.94075 L194.769821 36.340752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path533" />
+      <path
+         fill="none"
+         d="M194.769821 36.340752 L197.369812 36.340752 L197.369812 38.94075 L194.769821 38.94075 L194.769821 36.340752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path535" />
+      <path
+         fill="black"
+         d="M220.587448 28.054916 L223.187454 28.054916 L223.187454 30.654917 L220.587448 30.654917 L220.587448 28.054916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path537" />
+      <path
+         fill="none"
+         d="M220.587448 28.054916 L223.187454 28.054916 L223.187454 30.654917 L220.587448 30.654917 L220.587448 28.054916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path539" />
+      <path
+         fill="black"
+         d="M226.150497 55.860001 L228.750504 55.860001 L228.750504 58.459999 L226.150497 58.459999 L226.150497 55.860001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path541" />
+      <path
+         fill="none"
+         d="M226.150497 55.860001 L228.750504 55.860001 L228.750504 58.459999 L226.150497 58.459999 L226.150497 55.860001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path543" />
+      <path
+         fill="black"
+         d="M193.989792 44.925415 L196.589783 44.925415 L196.589783 47.525417 L193.989792 47.525417 L193.989792 44.925415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path545" />
+      <path
+         fill="none"
+         d="M193.989792 44.925415 L196.589783 44.925415 L196.589783 47.525417 L193.989792 47.525417 L193.989792 44.925415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path547" />
+      <path
+         fill="black"
+         d="M168.208588 57.517166 L170.808594 57.517166 L170.808594 60.117168 L168.208588 60.117168 L168.208588 57.517166 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path549" />
+      <path
+         fill="none"
+         d="M168.208588 57.517166 L170.808594 57.517166 L170.808594 60.117168 L168.208588 60.117168 L168.208588 57.517166 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path551" />
+      <path
+         fill="black"
+         d="M166.659363 69.171669 L169.259354 69.171669 L169.259354 71.771667 L166.659363 71.771667 L166.659363 69.171669 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path553" />
+      <path
+         fill="none"
+         d="M166.659363 69.171669 L169.259354 69.171669 L169.259354 71.771667 L166.659363 71.771667 L166.659363 69.171669 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path555" />
+      <path
+         fill="black"
+         d="M203.324478 50.222916 L205.924484 50.222916 L205.924484 52.822918 L203.324478 52.822918 L203.324478 50.222916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path557" />
+      <path
+         fill="none"
+         d="M203.324478 50.222916 L205.924484 50.222916 L205.924484 52.822918 L203.324478 52.822918 L203.324478 50.222916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path559" />
+      <path
+         fill="black"
+         d="M196.454437 36.422249 L199.054443 36.422249 L199.054443 39.022251 L196.454437 39.022251 L196.454437 36.422249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path561" />
+      <path
+         fill="none"
+         d="M196.454437 36.422249 L199.054443 36.422249 L199.054443 39.022251 L196.454437 39.022251 L196.454437 36.422249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path563" />
+      <path
+         fill="black"
+         d="M211.973846 59.799168 L214.573853 59.799168 L214.573853 62.399166 L211.973846 62.399166 L211.973846 59.799168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path565" />
+      <path
+         fill="none"
+         d="M211.973846 59.799168 L214.573853 59.799168 L214.573853 62.399166 L211.973846 62.399166 L211.973846 59.799168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path567" />
+      <path
+         fill="black"
+         d="M213.112106 36.965584 L215.712097 36.965584 L215.712097 39.565582 L213.112106 39.565582 L213.112106 36.965584 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path569" />
+      <path
+         fill="none"
+         d="M213.112106 36.965584 L215.712097 36.965584 L215.712097 39.565582 L213.112106 39.565582 L213.112106 36.965584 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path571" />
+      <path
+         fill="black"
+         d="M199.55278 46.867832 L202.152771 46.867832 L202.152771 49.467834 L199.55278 49.467834 L199.55278 46.867832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path573" />
+      <path
+         fill="none"
+         d="M199.55278 46.867832 L202.152771 46.867832 L202.152771 49.467834 L199.55278 49.467834 L199.55278 46.867832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path575" />
+      <path
+         fill="black"
+         d="M190.579651 48.1175 L193.179657 48.1175 L193.179657 50.717499 L190.579651 50.717499 L190.579651 48.1175 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path577" />
+      <path
+         fill="none"
+         d="M190.579651 48.1175 L193.179657 48.1175 L193.179657 50.717499 L190.579651 50.717499 L190.579651 48.1175 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path579" />
+      <path
+         fill="black"
+         d="M176.692719 45.034084 L179.292725 45.034084 L179.292725 47.634083 L176.692719 47.634083 L176.692719 45.034084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path581" />
+      <path
+         fill="none"
+         d="M176.692719 45.034084 L179.292725 45.034084 L179.292725 47.634083 L176.692719 47.634083 L176.692719 45.034084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path583" />
+      <path
+         fill="black"
+         d="M204.798981 69.253166 L207.398987 69.253166 L207.398987 71.853165 L204.798981 71.853165 L204.798981 69.253166 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path585" />
+      <path
+         fill="none"
+         d="M204.798981 69.253166 L207.398987 69.253166 L207.398987 71.853165 L204.798981 71.853165 L204.798981 69.253166 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path587" />
+      <path
+         fill="black"
+         d="M171.225616 44.979752 L173.825623 44.979752 L173.825623 47.57975 L171.225616 47.57975 L171.225616 44.979752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path589" />
+      <path
+         fill="none"
+         d="M171.225616 44.979752 L173.825623 44.979752 L173.825623 47.57975 L171.225616 47.57975 L171.225616 44.979752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path591" />
+      <path
+         fill="black"
+         d="M176.307922 36.422249 L178.907913 36.422249 L178.907913 39.022251 L176.307922 39.022251 L176.307922 36.422249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path593" />
+      <path
+         fill="none"
+         d="M176.307922 36.422249 L178.907913 36.422249 L178.907913 39.022251 L176.307922 39.022251 L176.307922 36.422249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path595" />
+      <path
+         fill="black"
+         d="M194.299561 66.183334 L196.899567 66.183334 L196.899567 68.783333 L194.299561 68.783333 L194.299561 66.183334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path597" />
+      <path
+         fill="none"
+         d="M194.299561 66.183334 L196.899567 66.183334 L196.899567 68.783333 L194.299561 68.783333 L194.299561 66.183334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path599" />
+      <path
+         fill="black"
+         d="M194.162354 30.825916 L196.762344 30.825916 L196.762344 33.425915 L194.162354 33.425915 L194.162354 30.825916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path601" />
+      <path
+         fill="none"
+         d="M194.162354 30.825916 L196.762344 30.825916 L196.762344 33.425915 L194.162354 33.425915 L194.162354 30.825916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path603" />
+      <path
+         fill="black"
+         d="M187.649658 47.723583 L190.249649 47.723583 L190.249649 50.323582 L187.649658 50.323582 L187.649658 47.723583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path605" />
+      <path
+         fill="none"
+         d="M187.649658 47.723583 L190.249649 47.723583 L190.249649 50.323582 L187.649658 50.323582 L187.649658 47.723583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path607" />
+      <path
+         fill="black"
+         d="M203.273575 37.576832 L205.873566 37.576832 L205.873566 40.176834 L203.273575 40.176834 L203.273575 37.576832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path609" />
+      <path
+         fill="none"
+         d="M203.273575 37.576832 L205.873566 37.576832 L205.873566 40.176834 L203.273575 40.176834 L203.273575 37.576832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path611" />
+      <path
+         fill="black"
+         d="M205.431656 56.946667 L208.031662 56.946667 L208.031662 59.546665 L205.431656 59.546665 L205.431656 56.946667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path613" />
+      <path
+         fill="none"
+         d="M205.431656 56.946667 L208.031662 56.946667 L208.031662 59.546665 L205.431656 59.546665 L205.431656 56.946667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path615" />
+      <path
+         fill="black"
+         d="M140.928497 50.535332 L143.528488 50.535332 L143.528488 53.135334 L140.928497 53.135334 L140.928497 50.535332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path617" />
+      <path
+         fill="none"
+         d="M140.928497 50.535332 L143.528488 50.535332 L143.528488 53.135334 L140.928497 53.135334 L140.928497 50.535332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path619" />
+      <path
+         fill="black"
+         d="M193.495499 52.491333 L196.095505 52.491333 L196.095505 55.091331 L193.495499 55.091331 L193.495499 52.491333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path621" />
+      <path
+         fill="none"
+         d="M193.495499 52.491333 L196.095505 52.491333 L196.095505 55.091331 L193.495499 55.091331 L193.495499 52.491333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path623" />
+      <path
+         fill="black"
+         d="M177.500198 60.410416 L180.100204 60.410416 L180.100204 63.010418 L177.500198 63.010418 L177.500198 60.410416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path625" />
+      <path
+         fill="none"
+         d="M177.500198 60.410416 L180.100204 60.410416 L180.100204 63.010418 L177.500198 63.010418 L177.500198 60.410416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path627" />
+      <path
+         fill="black"
+         d="M198.506531 64.29525 L201.106537 64.29525 L201.106537 66.895248 L198.506531 66.895248 L198.506531 64.29525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path629" />
+      <path
+         fill="none"
+         d="M198.506531 64.29525 L201.106537 64.29525 L201.106537 66.895248 L198.506531 66.895248 L198.506531 64.29525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path631" />
+      <path
+         fill="black"
+         d="M198.521515 39.1525 L201.121506 39.1525 L201.121506 41.752499 L198.521515 41.752499 L198.521515 39.1525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path633" />
+      <path
+         fill="none"
+         d="M198.521515 39.1525 L201.121506 39.1525 L201.121506 41.752499 L198.521515 41.752499 L198.521515 39.1525 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path635" />
+      <path
+         fill="black"
+         d="M167.437973 54.827667 L170.037979 54.827667 L170.037979 57.427666 L167.437973 57.427666 L167.437973 54.827667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path637" />
+      <path
+         fill="none"
+         d="M167.437973 54.827667 L170.037979 54.827667 L170.037979 57.427666 L167.437973 57.427666 L167.437973 54.827667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path639" />
+      <path
+         fill="black"
+         d="M185.452316 59.296585 L188.052322 59.296585 L188.052322 61.896584 L185.452316 61.896584 L185.452316 59.296585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path641" />
+      <path
+         fill="none"
+         d="M185.452316 59.296585 L188.052322 59.296585 L188.052322 61.896584 L185.452316 61.896584 L185.452316 59.296585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path643" />
+      <path
+         fill="black"
+         d="M172.478577 44.938999 L175.078568 44.938999 L175.078568 47.539001 L172.478577 47.539001 L172.478577 44.938999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path645" />
+      <path
+         fill="none"
+         d="M172.478577 44.938999 L175.078568 44.938999 L175.078568 47.539001 L172.478577 47.539001 L172.478577 44.938999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path647" />
+      <path
+         fill="black"
+         d="M184.128296 43.757252 L186.728302 43.757252 L186.728302 46.35725 L184.128296 46.35725 L184.128296 43.757252 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path649" />
+      <path
+         fill="none"
+         d="M184.128296 43.757252 L186.728302 43.757252 L186.728302 46.35725 L184.128296 46.35725 L184.128296 43.757252 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path651" />
+      <path
+         fill="black"
+         d="M184.05101 46.419582 L186.651016 46.419582 L186.651016 49.019585 L184.05101 49.019585 L184.05101 46.419582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path653" />
+      <path
+         fill="none"
+         d="M184.05101 46.419582 L186.651016 46.419582 L186.651016 49.019585 L184.05101 49.019585 L184.05101 46.419582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path655" />
+      <path
+         fill="black"
+         d="M111.139656 95.998749 L113.739655 95.998749 L113.739655 98.598747 L111.139656 98.598747 L111.139656 95.998749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path657" />
+      <path
+         fill="none"
+         d="M111.139656 95.998749 L113.739655 95.998749 L113.739655 98.598747 L111.139656 98.598747 L111.139656 95.998749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path659" />
+      <path
+         fill="black"
+         d="M153.226654 60.478333 L155.826645 60.478333 L155.826645 63.078335 L153.226654 63.078335 L153.226654 60.478333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path661" />
+      <path
+         fill="none"
+         d="M153.226654 60.478333 L155.826645 60.478333 L155.826645 63.078335 L153.226654 63.078335 L153.226654 60.478333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path663" />
+      <path
+         fill="black"
+         d="M176.217834 35.023167 L178.817841 35.023167 L178.817841 37.623165 L176.217834 37.623165 L176.217834 35.023167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path665" />
+      <path
+         fill="none"
+         d="M176.217834 35.023167 L178.817841 35.023167 L178.817841 37.623165 L176.217834 37.623165 L176.217834 35.023167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path667" />
+      <path
+         fill="black"
+         d="M155.516693 33.067165 L158.116699 33.067165 L158.116699 35.667168 L155.516693 35.667168 L155.516693 33.067165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path669" />
+      <path
+         fill="none"
+         d="M155.516693 33.067165 L158.116699 33.067165 L158.116699 35.667168 L155.516693 35.667168 L155.516693 33.067165 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path671" />
+      <path
+         fill="black"
+         d="M195.915222 91.135918 L198.515213 91.135918 L198.515213 93.735916 L195.915222 93.735916 L195.915222 91.135918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path673" />
+      <path
+         fill="none"
+         d="M195.915222 91.135918 L198.515213 91.135918 L198.515213 93.735916 L195.915222 93.735916 L195.915222 91.135918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path675" />
+      <path
+         fill="black"
+         d="M148.795929 59.432415 L151.395935 59.432415 L151.395935 62.032417 L148.795929 62.032417 L148.795929 59.432415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path677" />
+      <path
+         fill="none"
+         d="M148.795929 59.432415 L151.395935 59.432415 L151.395935 62.032417 L148.795929 62.032417 L148.795929 59.432415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path679" />
+      <path
+         fill="black"
+         d="M201.889069 49.815418 L204.489059 49.815418 L204.489059 52.415417 L201.889069 52.415417 L201.889069 49.815418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path681" />
+      <path
+         fill="none"
+         d="M201.889069 49.815418 L204.489059 49.815418 L204.489059 52.415417 L201.889069 52.415417 L201.889069 49.815418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path683" />
+      <path
+         fill="black"
+         d="M178.248596 52.341915 L180.848587 52.341915 L180.848587 54.941917 L178.248596 54.941917 L178.248596 52.341915 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path685" />
+      <path
+         fill="none"
+         d="M178.248596 52.341915 L180.848587 52.341915 L180.848587 54.941917 L178.248596 54.941917 L178.248596 52.341915 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path687" />
+      <path
+         fill="black"
+         d="M176.956268 61.6465 L179.556274 61.6465 L179.556274 64.246498 L176.956268 64.246498 L176.956268 61.6465 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path689" />
+      <path
+         fill="none"
+         d="M176.956268 61.6465 L179.556274 61.6465 L179.556274 64.246498 L176.956268 64.246498 L176.956268 61.6465 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path691" />
+      <path
+         fill="black"
+         d="M175.23259 44.382084 L177.832596 44.382084 L177.832596 46.982082 L175.23259 46.982082 L175.23259 44.382084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path693" />
+      <path
+         fill="none"
+         d="M175.23259 44.382084 L177.832596 44.382084 L177.832596 46.982082 L175.23259 46.982082 L175.23259 44.382084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path695" />
+      <path
+         fill="black"
+         d="M158.650681 42.561916 L161.250671 42.561916 L161.250671 45.161915 L158.650681 45.161915 L158.650681 42.561916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path697" />
+      <path
+         fill="none"
+         d="M158.650681 42.561916 L161.250671 42.561916 L161.250671 45.161915 L158.650681 45.161915 L158.650681 42.561916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path699" />
+      <path
+         fill="black"
+         d="M152.11702 28.435249 L154.71701 28.435249 L154.71701 31.03525 L152.11702 31.03525 L152.11702 28.435249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path701" />
+      <path
+         fill="none"
+         d="M152.11702 28.435249 L154.71701 28.435249 L154.71701 31.03525 L152.11702 31.03525 L152.11702 28.435249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path703" />
+      <path
+         fill="black"
+         d="M191.914474 56.4305 L194.514481 56.4305 L194.514481 59.030499 L191.914474 59.030499 L191.914474 56.4305 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path705" />
+      <path
+         fill="none"
+         d="M191.914474 56.4305 L194.514481 56.4305 L194.514481 59.030499 L191.914474 59.030499 L191.914474 56.4305 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path707" />
+      <path
+         fill="black"
+         d="M165.866287 58.793999 L168.466293 58.793999 L168.466293 61.394001 L165.866287 61.394001 L165.866287 58.793999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path709" />
+      <path
+         fill="none"
+         d="M165.866287 58.793999 L168.466293 58.793999 L168.466293 61.394001 L165.866287 61.394001 L165.866287 58.793999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path711" />
+      <path
+         fill="black"
+         d="M156.93367 47.737167 L159.533676 47.737167 L159.533676 50.337166 L156.93367 50.337166 L156.93367 47.737167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path713" />
+      <path
+         fill="none"
+         d="M156.93367 47.737167 L159.533676 47.737167 L159.533676 50.337166 L156.93367 50.337166 L156.93367 47.737167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path715" />
+      <path
+         fill="black"
+         d="M172.508942 41.964249 L175.108948 41.964249 L175.108948 44.564251 L172.508942 44.564251 L172.508942 41.964249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path717" />
+      <path
+         fill="none"
+         d="M172.508942 41.964249 L175.108948 41.964249 L175.108948 44.564251 L172.508942 44.564251 L172.508942 41.964249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path719" />
+      <path
+         fill="black"
+         d="M163.837585 43.689335 L166.437592 43.689335 L166.437592 46.289333 L163.837585 46.289333 L163.837585 43.689335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path721" />
+      <path
+         fill="none"
+         d="M163.837585 43.689335 L166.437592 43.689335 L166.437592 46.289333 L163.837585 46.289333 L163.837585 43.689335 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path723" />
+      <path
+         fill="black"
+         d="M167.800018 44.395668 L170.400024 44.395668 L170.400024 46.995667 L167.800018 46.995667 L167.800018 44.395668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path725" />
+      <path
+         fill="none"
+         d="M167.800018 44.395668 L170.400024 44.395668 L170.400024 46.995667 L167.800018 46.995667 L167.800018 44.395668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path727" />
+      <path
+         fill="black"
+         d="M173.71759 41.665417 L176.317581 41.665417 L176.317581 44.265415 L173.71759 44.265415 L173.71759 41.665417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path729" />
+      <path
+         fill="none"
+         d="M173.71759 41.665417 L176.317581 41.665417 L176.317581 44.265415 L173.71759 44.265415 L173.71759 41.665417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path731" />
+      <path
+         fill="black"
+         d="M159.667282 45.088417 L162.267273 45.088417 L162.267273 47.688416 L159.667282 47.688416 L159.667282 45.088417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path733" />
+      <path
+         fill="none"
+         d="M159.667282 45.088417 L162.267273 45.088417 L162.267273 47.688416 L159.667282 47.688416 L159.667282 45.088417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path735" />
+      <path
+         fill="black"
+         d="M157.809128 43.173168 L160.409119 43.173168 L160.409119 45.773167 L157.809128 45.773167 L157.809128 43.173168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path737" />
+      <path
+         fill="none"
+         d="M157.809128 43.173168 L160.409119 43.173168 L160.409119 45.773167 L157.809128 45.773167 L157.809128 43.173168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path739" />
+      <path
+         fill="black"
+         d="M157.813812 43.173168 L160.413803 43.173168 L160.413803 45.773167 L157.813812 45.773167 L157.813812 43.173168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path741" />
+      <path
+         fill="none"
+         d="M157.813812 43.173168 L160.413803 43.173168 L160.413803 45.773167 L157.813812 45.773167 L157.813812 43.173168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path743" />
+      <path
+         fill="black"
+         d="M184.380997 33.637669 L186.981003 33.637669 L186.981003 36.237667 L184.380997 36.237667 L184.380997 33.637669 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path745" />
+      <path
+         fill="none"
+         d="M184.380997 33.637669 L186.981003 33.637669 L186.981003 36.237667 L184.380997 36.237667 L184.380997 33.637669 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path747" />
+      <path
+         fill="black"
+         d="M156.502609 40.945499 L159.102615 40.945499 L159.102615 43.545502 L156.502609 43.545502 L156.502609 40.945499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path749" />
+      <path
+         fill="none"
+         d="M156.502609 40.945499 L159.102615 40.945499 L159.102615 43.545502 L156.502609 43.545502 L156.502609 40.945499 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path751" />
+      <path
+         fill="black"
+         d="M174.142975 48.076752 L176.742981 48.076752 L176.742981 50.67675 L174.142975 50.67675 L174.142975 48.076752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path753" />
+      <path
+         fill="none"
+         d="M174.142975 48.076752 L176.742981 48.076752 L176.742981 50.67675 L174.142975 50.67675 L174.142975 48.076752 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path755" />
+      <path
+         fill="black"
+         d="M147.772873 44.830334 L150.372879 44.830334 L150.372879 47.430332 L147.772873 47.430332 L147.772873 44.830334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path757" />
+      <path
+         fill="none"
+         d="M147.772873 44.830334 L150.372879 44.830334 L150.372879 47.430332 L147.772873 47.430332 L147.772873 44.830334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path759" />
+      <path
+         fill="black"
+         d="M180.348267 36.625999 L182.948273 36.625999 L182.948273 39.226002 L180.348267 39.226002 L180.348267 36.625999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path761" />
+      <path
+         fill="none"
+         d="M180.348267 36.625999 L182.948273 36.625999 L182.948273 39.226002 L180.348267 39.226002 L180.348267 36.625999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path763" />
+      <path
+         fill="black"
+         d="M158.840683 45.930584 L161.440689 45.930584 L161.440689 48.530582 L158.840683 48.530582 L158.840683 45.930584 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path765" />
+      <path
+         fill="none"
+         d="M158.840683 45.930584 L161.440689 45.930584 L161.440689 48.530582 L158.840683 48.530582 L158.840683 45.930584 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path767" />
+      <path
+         fill="black"
+         d="M174.280106 50.494583 L176.880112 50.494583 L176.880112 53.094582 L174.280106 53.094582 L174.280106 50.494583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path769" />
+      <path
+         fill="none"
+         d="M174.280106 50.494583 L176.880112 50.494583 L176.880112 53.094582 L174.280106 53.094582 L174.280106 50.494583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path771" />
+      <path
+         fill="black"
+         d="M160.536957 37.332333 L163.136963 37.332333 L163.136963 39.932335 L160.536957 39.932335 L160.536957 37.332333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path773" />
+      <path
+         fill="none"
+         d="M160.536957 37.332333 L163.136963 37.332333 L163.136963 39.932335 L160.536957 39.932335 L160.536957 37.332333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path775" />
+      <path
+         fill="black"
+         d="M134.457474 50.874916 L137.057465 50.874916 L137.057465 53.474918 L134.457474 53.474918 L134.457474 50.874916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path777" />
+      <path
+         fill="none"
+         d="M134.457474 50.874916 L137.057465 50.874916 L137.057465 53.474918 L134.457474 53.474918 L134.457474 50.874916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path779" />
+      <path
+         fill="black"
+         d="M202.286514 48.592918 L204.88652 48.592918 L204.88652 51.192917 L202.286514 51.192917 L202.286514 48.592918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path781" />
+      <path
+         fill="none"
+         d="M202.286514 48.592918 L204.88652 48.592918 L204.88652 51.192917 L202.286514 51.192917 L202.286514 48.592918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path783" />
+      <path
+         fill="black"
+         d="M164.491837 27.348583 L167.091827 27.348583 L167.091827 29.948584 L164.491837 29.948584 L164.491837 27.348583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path785" />
+      <path
+         fill="none"
+         d="M164.491837 27.348583 L167.091827 27.348583 L167.091827 29.948584 L164.491837 29.948584 L164.491837 27.348583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path787" />
+      <path
+         fill="black"
+         d="M144.675034 23.273582 L147.27504 23.273582 L147.27504 25.873583 L144.675034 25.873583 L144.675034 23.273582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path789" />
+      <path
+         fill="none"
+         d="M144.675034 23.273582 L147.27504 23.273582 L147.27504 25.873583 L144.675034 25.873583 L144.675034 23.273582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path791" />
+      <path
+         fill="black"
+         d="M191.584335 74.659332 L194.184326 74.659332 L194.184326 77.259331 L191.584335 77.259331 L191.584335 74.659332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path793" />
+      <path
+         fill="none"
+         d="M191.584335 74.659332 L194.184326 74.659332 L194.184326 77.259331 L191.584335 77.259331 L191.584335 74.659332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path795" />
+      <path
+         fill="black"
+         d="M144.459564 58.372917 L147.059555 58.372917 L147.059555 60.972916 L144.459564 60.972916 L144.459564 58.372917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path797" />
+      <path
+         fill="none"
+         d="M144.459564 58.372917 L147.059555 58.372917 L147.059555 60.972916 L144.459564 60.972916 L144.459564 58.372917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path799" />
+      <path
+         fill="black"
+         d="M132.459702 29.644167 L135.059708 29.644167 L135.059708 32.244167 L132.459702 32.244167 L132.459702 29.644167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path801" />
+      <path
+         fill="none"
+         d="M132.459702 29.644167 L135.059708 29.644167 L135.059708 32.244167 L132.459702 32.244167 L132.459702 29.644167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path803" />
+      <path
+         fill="black"
+         d="M167.001373 43.798 L169.601379 43.798 L169.601379 46.397999 L167.001373 46.397999 L167.001373 43.798 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path805" />
+      <path
+         fill="none"
+         d="M167.001373 43.798 L169.601379 43.798 L169.601379 46.397999 L167.001373 46.397999 L167.001373 43.798 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path807" />
+      <path
+         fill="black"
+         d="M178.931015 44.626583 L181.531006 44.626583 L181.531006 47.226582 L178.931015 47.226582 L178.931015 44.626583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path809" />
+      <path
+         fill="none"
+         d="M178.931015 44.626583 L181.531006 44.626583 L181.531006 47.226582 L178.931015 47.226582 L178.931015 44.626583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path811" />
+      <path
+         fill="black"
+         d="M163.685486 47.968082 L166.285492 47.968082 L166.285492 50.568085 L163.685486 50.568085 L163.685486 47.968082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path813" />
+      <path
+         fill="none"
+         d="M163.685486 47.968082 L166.285492 47.968082 L166.285492 50.568085 L163.685486 50.568085 L163.685486 47.968082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path815" />
+      <path
+         fill="black"
+         d="M170.533936 39.396999 L173.133942 39.396999 L173.133942 41.997002 L170.533936 41.997002 L170.533936 39.396999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path817" />
+      <path
+         fill="none"
+         d="M170.533936 39.396999 L173.133942 39.396999 L173.133942 41.997002 L170.533936 41.997002 L170.533936 39.396999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path819" />
+      <path
+         fill="black"
+         d="M157.170471 43.648582 L159.770477 43.648582 L159.770477 46.248585 L157.170471 46.248585 L157.170471 43.648582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path821" />
+      <path
+         fill="none"
+         d="M157.170471 43.648582 L159.770477 43.648582 L159.770477 46.248585 L157.170471 46.248585 L157.170471 43.648582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path823" />
+      <path
+         fill="black"
+         d="M170.570435 36.680332 L173.170425 36.680332 L173.170425 39.280334 L170.570435 39.280334 L170.570435 36.680332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path825" />
+      <path
+         fill="none"
+         d="M170.570435 36.680332 L173.170425 36.680332 L173.170425 39.280334 L170.570435 39.280334 L170.570435 36.680332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path827" />
+      <path
+         fill="black"
+         d="M151.421768 45.889832 L154.021774 45.889832 L154.021774 48.489834 L151.421768 48.489834 L151.421768 45.889832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path829" />
+      <path
+         fill="none"
+         d="M151.421768 45.889832 L154.021774 45.889832 L154.021774 48.489834 L151.421768 48.489834 L151.421768 45.889832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path831" />
+      <path
+         fill="black"
+         d="M151.793701 44.531502 L154.393707 44.531502 L154.393707 47.1315 L151.793701 47.1315 L151.793701 44.531502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path833" />
+      <path
+         fill="none"
+         d="M151.793701 44.531502 L154.393707 44.531502 L154.393707 47.1315 L151.793701 47.1315 L151.793701 44.531502 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path835" />
+      <path
+         fill="black"
+         d="M163.401215 60.600582 L166.001221 60.600582 L166.001221 63.200584 L163.401215 63.200584 L163.401215 60.600582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path837" />
+      <path
+         fill="none"
+         d="M163.401215 60.600582 L166.001221 60.600582 L166.001221 63.200584 L163.401215 63.200584 L163.401215 60.600582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path839" />
+      <path
+         fill="black"
+         d="M130.830215 29.983749 L133.430222 29.983749 L133.430222 32.583752 L130.830215 32.583752 L130.830215 29.983749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path841" />
+      <path
+         fill="none"
+         d="M130.830215 29.983749 L133.430222 29.983749 L133.430222 32.583752 L130.830215 32.583752 L130.830215 29.983749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path843" />
+      <path
+         fill="black"
+         d="M165.373093 55.615501 L167.973099 55.615501 L167.973099 58.2155 L165.373093 58.2155 L165.373093 55.615501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path845" />
+      <path
+         fill="none"
+         d="M165.373093 55.615501 L167.973099 55.615501 L167.973099 58.2155 L165.373093 58.2155 L165.373093 55.615501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path847" />
+      <path
+         fill="black"
+         d="M156.026321 49.761082 L158.626328 49.761082 L158.626328 52.361084 L156.026321 52.361084 L156.026321 49.761082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path849" />
+      <path
+         fill="none"
+         d="M156.026321 49.761082 L158.626328 49.761082 L158.626328 52.361084 L156.026321 52.361084 L156.026321 49.761082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path851" />
+      <path
+         fill="black"
+         d="M140.55304 45.061249 L143.15303 45.061249 L143.15303 47.661251 L140.55304 47.661251 L140.55304 45.061249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path853" />
+      <path
+         fill="none"
+         d="M140.55304 45.061249 L143.15303 45.061249 L143.15303 47.661251 L140.55304 47.661251 L140.55304 45.061249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path855" />
+      <path
+         fill="black"
+         d="M134.176849 41.964249 L136.776855 41.964249 L136.776855 44.564251 L134.176849 44.564251 L134.176849 41.964249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path857" />
+      <path
+         fill="none"
+         d="M134.176849 41.964249 L136.776855 41.964249 L136.776855 44.564251 L134.176849 44.564251 L134.176849 41.964249 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path859" />
+      <path
+         fill="black"
+         d="M158.758942 43.26825 L161.358948 43.26825 L161.358948 45.868252 L158.758942 45.868252 L158.758942 43.26825 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path861" />
+      <path
+         fill="none"
+         d="M158.758942 43.26825 L161.358948 43.26825 L161.358948 45.868252 L158.758942 45.868252 L158.758942 43.26825 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path863" />
+      <path
+         fill="black"
+         d="M120.774376 48.348415 L123.374382 48.348415 L123.374382 50.948418 L120.774376 50.948418 L120.774376 48.348415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path865" />
+      <path
+         fill="none"
+         d="M120.774376 48.348415 L123.374382 48.348415 L123.374382 50.948418 L120.774376 50.948418 L120.774376 48.348415 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path867" />
+      <path
+         fill="black"
+         d="M160.779434 51.540501 L163.379425 51.540501 L163.379425 54.140499 L160.779434 54.140499 L160.779434 51.540501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path869" />
+      <path
+         fill="none"
+         d="M160.779434 51.540501 L163.379425 51.540501 L163.379425 54.140499 L160.779434 54.140499 L160.779434 51.540501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path871" />
+      <path
+         fill="black"
+         d="M152.251984 53.645916 L154.851974 53.645916 L154.851974 56.245918 L152.251984 56.245918 L152.251984 53.645916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path873" />
+      <path
+         fill="none"
+         d="M152.251984 53.645916 L154.851974 53.645916 L154.851974 56.245918 L152.251984 56.245918 L152.251984 53.645916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path875" />
+      <path
+         fill="black"
+         d="M141.870789 38.1745 L144.470795 38.1745 L144.470795 40.774502 L141.870789 40.774502 L141.870789 38.1745 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path877" />
+      <path
+         fill="none"
+         d="M141.870789 38.1745 L144.470795 38.1745 L144.470795 40.774502 L141.870789 40.774502 L141.870789 38.1745 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path879" />
+      <path
+         fill="black"
+         d="M129.556931 48.918919 L132.156921 48.918919 L132.156921 51.518917 L129.556931 51.518917 L129.556931 48.918919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path881" />
+      <path
+         fill="none"
+         d="M129.556931 48.918919 L132.156921 48.918919 L132.156921 51.518917 L129.556931 51.518917 L129.556931 48.918919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path883" />
+      <path
+         fill="black"
+         d="M130.976562 46.569 L133.576569 46.569 L133.576569 49.168999 L130.976562 49.168999 L130.976562 46.569 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path885" />
+      <path
+         fill="none"
+         d="M130.976562 46.569 L133.576569 46.569 L133.576569 49.168999 L130.976562 49.168999 L130.976562 46.569 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path887" />
+      <path
+         fill="black"
+         d="M125.138596 54.080582 L127.738602 54.080582 L127.738602 56.680584 L125.138596 56.680584 L125.138596 54.080582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path889" />
+      <path
+         fill="none"
+         d="M125.138596 54.080582 L127.738602 54.080582 L127.738602 56.680584 L125.138596 56.680584 L125.138596 54.080582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path891" />
+      <path
+         fill="black"
+         d="M107.651733 45.0205 L110.251732 45.0205 L110.251732 47.620499 L107.651733 47.620499 L107.651733 45.0205 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path893" />
+      <path
+         fill="none"
+         d="M107.651733 45.0205 L110.251732 45.0205 L110.251732 47.620499 L107.651733 47.620499 L107.651733 45.0205 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path895" />
+      <path
+         fill="black"
+         d="M124.620781 34.561333 L127.220779 34.561333 L127.220779 37.161335 L124.620781 37.161335 L124.620781 34.561333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path897" />
+      <path
+         fill="none"
+         d="M124.620781 34.561333 L127.220779 34.561333 L127.220779 37.161335 L124.620781 37.161335 L124.620781 34.561333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path899" />
+      <path
+         fill="black"
+         d="M143.725311 24.8085 L146.325317 24.8085 L146.325317 27.408501 L143.725311 27.408501 L143.725311 24.8085 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path901" />
+      <path
+         fill="none"
+         d="M143.725311 24.8085 L146.325317 24.8085 L146.325317 27.408501 L143.725311 27.408501 L143.725311 24.8085 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path903" />
+      <path
+         fill="black"
+         d="M149.730499 54.053417 L152.330505 54.053417 L152.330505 56.653416 L149.730499 56.653416 L149.730499 54.053417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path905" />
+      <path
+         fill="none"
+         d="M149.730499 54.053417 L152.330505 54.053417 L152.330505 56.653416 L149.730499 56.653416 L149.730499 54.053417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path907" />
+      <path
+         fill="black"
+         d="M128.499527 42.561916 L131.099518 42.561916 L131.099518 45.161915 L128.499527 45.161915 L128.499527 42.561916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path909" />
+      <path
+         fill="none"
+         d="M128.499527 42.561916 L131.099518 42.561916 L131.099518 45.161915 L128.499527 45.161915 L128.499527 42.561916 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path911" />
+      <path
+         fill="black"
+         d="M143.144577 61.945332 L145.744583 61.945332 L145.744583 64.545334 L143.144577 64.545334 L143.144577 61.945332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path913" />
+      <path
+         fill="none"
+         d="M143.144577 61.945332 L145.744583 61.945332 L145.744583 64.545334 L143.144577 64.545334 L143.144577 61.945332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path915" />
+      <path
+         fill="black"
+         d="M111.963394 35.226917 L114.563393 35.226917 L114.563393 37.826916 L111.963394 37.826916 L111.963394 35.226917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path917" />
+      <path
+         fill="none"
+         d="M111.963394 35.226917 L114.563393 35.226917 L114.563393 37.826916 L111.963394 37.826916 L111.963394 35.226917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path919" />
+      <path
+         fill="black"
+         d="M169.670776 44.001751 L172.270767 44.001751 L172.270767 46.601749 L169.670776 46.601749 L169.670776 44.001751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path921" />
+      <path
+         fill="none"
+         d="M169.670776 44.001751 L172.270767 44.001751 L172.270767 46.601749 L169.670776 46.601749 L169.670776 44.001751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path923" />
+      <path
+         fill="black"
+         d="M139.030441 26.194 L141.630432 26.194 L141.630432 28.794001 L139.030441 28.794001 L139.030441 26.194 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path925" />
+      <path
+         fill="none"
+         d="M139.030441 26.194 L141.630432 26.194 L141.630432 28.794001 L139.030441 28.794001 L139.030441 26.194 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path927" />
+      <path
+         fill="black"
+         d="M135.028259 52.939583 L137.628265 52.939583 L137.628265 55.539585 L135.028259 55.539585 L135.028259 52.939583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path929" />
+      <path
+         fill="none"
+         d="M135.028259 52.939583 L137.628265 52.939583 L137.628265 55.539585 L135.028259 55.539585 L135.028259 52.939583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path931" />
+      <path
+         fill="black"
+         d="M131.63031 43.757252 L134.230316 43.757252 L134.230316 46.35725 L131.63031 46.35725 L131.63031 43.757252 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path933" />
+      <path
+         fill="none"
+         d="M131.63031 43.757252 L134.230316 43.757252 L134.230316 46.35725 L131.63031 46.35725 L131.63031 43.757252 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path935" />
+      <path
+         fill="black"
+         d="M125.825729 25.637083 L128.42572 25.637083 L128.42572 28.237083 L125.825729 28.237083 L125.825729 25.637083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path937" />
+      <path
+         fill="none"
+         d="M125.825729 25.637083 L128.42572 25.637083 L128.42572 28.237083 L125.825729 28.237083 L125.825729 25.637083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path939" />
+      <path
+         fill="black"
+         d="M122.146042 56.036583 L124.74604 56.036583 L124.74604 58.636581 L122.146042 58.636581 L122.146042 56.036583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path941" />
+      <path
+         fill="none"
+         d="M122.146042 56.036583 L124.74604 56.036583 L124.74604 58.636581 L122.146042 58.636581 L122.146042 56.036583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path943" />
+      <path
+         fill="black"
+         d="M96.885361 48.1175 L99.485359 48.1175 L99.485359 50.717499 L96.885361 50.717499 L96.885361 48.1175 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path945" />
+      <path
+         fill="none"
+         d="M96.885361 48.1175 L99.485359 48.1175 L99.485359 50.717499 L96.885361 50.717499 L96.885361 48.1175 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path947" />
+      <path
+         fill="black"
+         d="M112.536903 33.040001 L115.136902 33.040001 L115.136902 35.639999 L112.536903 35.639999 L112.536903 33.040001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path949" />
+      <path
+         fill="none"
+         d="M112.536903 33.040001 L115.136902 33.040001 L115.136902 35.639999 L112.536903 35.639999 L112.536903 33.040001 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path951" />
+      <path
+         fill="black"
+         d="M128.339371 26.289083 L130.939377 26.289083 L130.939377 28.889084 L128.339371 28.889084 L128.339371 26.289083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path953" />
+      <path
+         fill="none"
+         d="M128.339371 26.289083 L130.939377 26.289083 L130.939377 28.889084 L128.339371 28.889084 L128.339371 26.289083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path955" />
+      <path
+         fill="black"
+         d="M140.508667 33.053585 L143.108658 33.053585 L143.108658 35.653584 L140.508667 35.653584 L140.508667 33.053585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path957" />
+      <path
+         fill="none"
+         d="M140.508667 33.053585 L143.108658 33.053585 L143.108658 35.653584 L140.508667 35.653584 L140.508667 33.053585 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path959" />
+      <path
+         fill="black"
+         d="M118.736412 27.2535 L121.336411 27.2535 L121.336411 29.8535 L118.736412 29.8535 L118.736412 27.2535 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path961" />
+      <path
+         fill="none"
+         d="M118.736412 27.2535 L121.336411 27.2535 L121.336411 29.8535 L118.736412 29.8535 L118.736412 27.2535 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path963" />
+      <path
+         fill="black"
+         d="M127.845741 34.05875 L130.44574 34.05875 L130.44574 36.658749 L127.845741 36.658749 L127.845741 34.05875 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path965" />
+      <path
+         fill="none"
+         d="M127.845741 34.05875 L130.44574 34.05875 L130.44574 36.658749 L127.845741 36.658749 L127.845741 34.05875 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path967" />
+      <path
+         fill="black"
+         d="M123.249504 60.573418 L125.849503 60.573418 L125.849503 63.173416 L123.249504 63.173416 L123.249504 60.573418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path969" />
+      <path
+         fill="none"
+         d="M123.249504 60.573418 L125.849503 60.573418 L125.849503 63.173416 L123.249504 63.173416 L123.249504 60.573418 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path971" />
+      <path
+         fill="black"
+         d="M130.62973 59.024918 L133.229736 59.024918 L133.229736 61.624916 L130.62973 61.624916 L130.62973 59.024918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path973" />
+      <path
+         fill="none"
+         d="M130.62973 59.024918 L133.229736 59.024918 L133.229736 61.624916 L130.62973 61.624916 L130.62973 59.024918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path975" />
+      <path
+         fill="black"
+         d="M108.412468 36.354332 L111.012474 36.354332 L111.012474 38.954334 L108.412468 38.954334 L108.412468 36.354332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path977" />
+      <path
+         fill="none"
+         d="M108.412468 36.354332 L111.012474 36.354332 L111.012474 38.954334 L108.412468 38.954334 L108.412468 36.354332 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path979" />
+      <path
+         fill="black"
+         d="M140.872665 41.556751 L143.472656 41.556751 L143.472656 44.15675 L140.872665 44.15675 L140.872665 41.556751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path981" />
+      <path
+         fill="none"
+         d="M140.872665 41.556751 L143.472656 41.556751 L143.472656 44.15675 L140.872665 44.15675 L140.872665 41.556751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path983" />
+      <path
+         fill="black"
+         d="M111.315872 46.990082 L113.915871 46.990082 L113.915871 49.590084 L111.315872 49.590084 L111.315872 46.990082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path985" />
+      <path
+         fill="none"
+         d="M111.315872 46.990082 L113.915871 46.990082 L113.915871 49.590084 L111.315872 49.590084 L111.315872 46.990082 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path987" />
+      <path
+         fill="black"
+         d="M113.573738 19.334417 L116.173737 19.334417 L116.173737 21.934416 L113.573738 21.934416 L113.573738 19.334417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path989" />
+      <path
+         fill="none"
+         d="M113.573738 19.334417 L116.173737 19.334417 L116.173737 21.934416 L113.573738 21.934416 L113.573738 19.334417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path991" />
+      <path
+         fill="black"
+         d="M103.531273 23.423 L106.131271 23.423 L106.131271 26.023001 L103.531273 26.023001 L103.531273 23.423 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path993" />
+      <path
+         fill="none"
+         d="M103.531273 23.423 L106.131271 23.423 L106.131271 26.023001 L103.531273 26.023001 L103.531273 23.423 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path995" />
+      <path
+         fill="black"
+         d="M114.641068 37.441002 L117.241066 37.441002 L117.241066 40.041 L114.641068 40.041 L114.641068 37.441002 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path997" />
+      <path
+         fill="none"
+         d="M114.641068 37.441002 L117.241066 37.441002 L117.241066 40.041 L114.641068 40.041 L114.641068 37.441002 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path999" />
+      <path
+         fill="black"
+         d="M121.630142 38.568417 L124.230148 38.568417 L124.230148 41.168415 L121.630142 41.168415 L121.630142 38.568417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1001" />
+      <path
+         fill="none"
+         d="M121.630142 38.568417 L124.230148 38.568417 L124.230148 41.168415 L121.630142 41.168415 L121.630142 38.568417 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1003" />
+      <path
+         fill="black"
+         d="M91.58551 39.070999 L94.185509 39.070999 L94.185509 41.671001 L91.58551 41.671001 L91.58551 39.070999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1005" />
+      <path
+         fill="none"
+         d="M91.58551 39.070999 L94.185509 39.070999 L94.185509 41.671001 L91.58551 41.671001 L91.58551 39.070999 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1007" />
+      <path
+         fill="black"
+         d="M127.593788 40.375 L130.193787 40.375 L130.193787 42.974998 L127.593788 42.974998 L127.593788 40.375 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1009" />
+      <path
+         fill="none"
+         d="M127.593788 40.375 L130.193787 40.375 L130.193787 42.974998 L127.593788 42.974998 L127.593788 40.375 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1011" />
+      <path
+         fill="black"
+         d="M102.396828 35.349167 L104.996826 35.349167 L104.996826 37.949165 L102.396828 37.949165 L102.396828 35.349167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1013" />
+      <path
+         fill="none"
+         d="M102.396828 35.349167 L104.996826 35.349167 L104.996826 37.949165 L102.396828 37.949165 L102.396828 35.349167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1015" />
+      <path
+         fill="black"
+         d="M82.290665 26.098917 L84.890663 26.098917 L84.890663 28.698917 L82.290665 28.698917 L82.290665 26.098917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1017" />
+      <path
+         fill="none"
+         d="M82.290665 26.098917 L84.890663 26.098917 L84.890663 28.698917 L82.290665 28.698917 L82.290665 26.098917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1019" />
+      <path
+         fill="black"
+         d="M103.764061 44.096832 L106.364059 44.096832 L106.364059 46.696835 L103.764061 46.696835 L103.764061 44.096832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1021" />
+      <path
+         fill="none"
+         d="M103.764061 44.096832 L106.364059 44.096832 L106.364059 46.696835 L103.764061 46.696835 L103.764061 44.096832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1023" />
+      <path
+         fill="black"
+         d="M90.895561 20.067917 L93.49556 20.067917 L93.49556 22.667917 L90.895561 22.667917 L90.895561 20.067917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1025" />
+      <path
+         fill="none"
+         d="M90.895561 20.067917 L93.49556 20.067917 L93.49556 22.667917 L90.895561 22.667917 L90.895561 20.067917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1027" />
+      <path
+         fill="black"
+         d="M100.99379 44.653751 L103.593788 44.653751 L103.593788 47.25375 L100.99379 47.25375 L100.99379 44.653751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1029" />
+      <path
+         fill="none"
+         d="M100.99379 44.653751 L103.593788 44.653751 L103.593788 47.25375 L100.99379 47.25375 L100.99379 44.653751 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1031" />
+      <path
+         fill="black"
+         d="M99.606468 43.512749 L102.206474 43.512749 L102.206474 46.112751 L99.606468 46.112751 L99.606468 43.512749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1033" />
+      <path
+         fill="none"
+         d="M99.606468 43.512749 L102.206474 43.512749 L102.206474 46.112751 L99.606468 46.112751 L99.606468 43.512749 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1035" />
+      <path
+         fill="black"
+         d="M114.648842 22.15975 L117.24884 22.15975 L117.24884 24.75975 L114.648842 24.75975 L114.648842 22.15975 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1037" />
+      <path
+         fill="none"
+         d="M114.648842 22.15975 L117.24884 22.15975 L117.24884 24.75975 L114.648842 24.75975 L114.648842 22.15975 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1039" />
+      <path
+         fill="black"
+         d="M94.85154 28.041334 L97.451538 28.041334 L97.451538 30.641333 L94.85154 30.641333 L94.85154 28.041334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1041" />
+      <path
+         fill="none"
+         d="M94.85154 28.041334 L97.451538 28.041334 L97.451538 30.641333 L94.85154 30.641333 L94.85154 28.041334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1043" />
+      <path
+         fill="black"
+         d="M102.006042 33.2845 L104.606041 33.2845 L104.606041 35.884499 L102.006042 35.884499 L102.006042 33.2845 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1045" />
+      <path
+         fill="none"
+         d="M102.006042 33.2845 L104.606041 33.2845 L104.606041 35.884499 L102.006042 35.884499 L102.006042 33.2845 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1047" />
+      <path
+         fill="black"
+         d="M103.507347 30.010918 L106.107353 30.010918 L106.107353 32.610916 L103.507347 32.610916 L103.507347 30.010918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1049" />
+      <path
+         fill="none"
+         d="M103.507347 30.010918 L106.107353 30.010918 L106.107353 32.610916 L103.507347 32.610916 L103.507347 30.010918 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1051" />
+      <path
+         fill="black"
+         d="M144.600525 20.665583 L147.200531 20.665583 L147.200531 23.265583 L144.600525 23.265583 L144.600525 20.665583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1053" />
+      <path
+         fill="none"
+         d="M144.600525 20.665583 L147.200531 20.665583 L147.200531 23.265583 L144.600525 23.265583 L144.600525 20.665583 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1055" />
+      <path
+         fill="black"
+         d="M116.450752 38.188084 L119.050751 38.188084 L119.050751 40.788082 L116.450752 40.788082 L116.450752 38.188084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1057" />
+      <path
+         fill="none"
+         d="M116.450752 38.188084 L119.050751 38.188084 L119.050751 40.788082 L116.450752 40.788082 L116.450752 38.188084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1059" />
+      <path
+         fill="black"
+         d="M124.67968 48.470665 L127.279678 48.470665 L127.279678 51.070667 L124.67968 51.070667 L124.67968 48.470665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1061" />
+      <path
+         fill="none"
+         d="M124.67968 48.470665 L127.279678 48.470665 L127.279678 51.070667 L124.67968 51.070667 L124.67968 48.470665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1063" />
+      <path
+         fill="black"
+         d="M117.499062 40.836834 L120.099068 40.836834 L120.099068 43.436832 L117.499062 43.436832 L117.499062 40.836834 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1065" />
+      <path
+         fill="none"
+         d="M117.499062 40.836834 L120.099068 40.836834 L120.099068 43.436832 L117.499062 43.436832 L117.499062 40.836834 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1067" />
+      <path
+         fill="black"
+         d="M79.632607 20.230917 L82.232605 20.230917 L82.232605 22.830917 L79.632607 22.830917 L79.632607 20.230917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1069" />
+      <path
+         fill="none"
+         d="M79.632607 20.230917 L82.232605 20.230917 L82.232605 22.830917 L79.632607 22.830917 L79.632607 20.230917 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1071" />
+      <path
+         fill="black"
+         d="M86.668129 36.435833 L89.268127 36.435833 L89.268127 39.035831 L86.668129 39.035831 L86.668129 36.435833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1073" />
+      <path
+         fill="none"
+         d="M86.668129 36.435833 L89.268127 36.435833 L89.268127 39.035831 L86.668129 39.035831 L86.668129 36.435833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1075" />
+      <path
+         fill="black"
+         d="M86.533089 41.624668 L89.133087 41.624668 L89.133087 44.224667 L86.533089 44.224667 L86.533089 41.624668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1077" />
+      <path
+         fill="none"
+         d="M86.533089 41.624668 L89.133087 41.624668 L89.133087 44.224667 L86.533089 44.224667 L86.533089 41.624668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1079" />
+      <path
+         fill="black"
+         d="M103.041084 22.363501 L105.641083 22.363501 L105.641083 24.963499 L103.041084 24.963499 L103.041084 22.363501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1081" />
+      <path
+         fill="none"
+         d="M103.041084 22.363501 L105.641083 22.363501 L105.641083 24.963499 L103.041084 24.963499 L103.041084 22.363501 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1083" />
+      <path
+         fill="black"
+         d="M87.318901 26.248333 L89.9189 26.248333 L89.9189 28.848333 L87.318901 28.848333 L87.318901 26.248333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1085" />
+      <path
+         fill="none"
+         d="M87.318901 26.248333 L89.9189 26.248333 L89.9189 28.848333 L87.318901 28.848333 L87.318901 26.248333 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1087" />
+      <path
+         fill="black"
+         d="M90.123558 24.822083 L92.723557 24.822083 L92.723557 27.422083 L90.123558 27.422083 L90.123558 24.822083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1089" />
+      <path
+         fill="none"
+         d="M90.123558 24.822083 L92.723557 24.822083 L92.723557 27.422083 L90.123558 27.422083 L90.123558 24.822083 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1091" />
+      <path
+         fill="black"
+         d="M79.830093 20.312416 L82.430099 20.312416 L82.430099 22.912416 L79.830093 22.912416 L79.830093 20.312416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1093" />
+      <path
+         fill="none"
+         d="M79.830093 20.312416 L82.430099 20.312416 L82.430099 22.912416 L79.830093 22.912416 L79.830093 20.312416 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1095" />
+      <path
+         fill="black"
+         d="M97.760971 63.425919 L100.36097 63.425919 L100.36097 66.025917 L97.760971 66.025917 L97.760971 63.425919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1097" />
+      <path
+         fill="none"
+         d="M97.760971 63.425919 L100.36097 63.425919 L100.36097 66.025917 L97.760971 66.025917 L97.760971 63.425919 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1099" />
+      <path
+         fill="black"
+         d="M96.490852 53.686668 L99.090851 53.686668 L99.090851 56.286667 L96.490852 56.286667 L96.490852 53.686668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1101" />
+      <path
+         fill="none"
+         d="M96.490852 53.686668 L99.090851 53.686668 L99.090851 56.286667 L96.490852 56.286667 L96.490852 53.686668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1103" />
+      <path
+         fill="black"
+         d="M80.101303 47.91375 L82.701309 47.91375 L82.701309 50.513748 L80.101303 50.513748 L80.101303 47.91375 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1105" />
+      <path
+         fill="none"
+         d="M80.101303 47.91375 L82.701309 47.91375 L82.701309 50.513748 L80.101303 50.513748 L80.101303 47.91375 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1107" />
+      <path
+         fill="black"
+         d="M88.909157 37.373085 L91.509155 37.373085 L91.509155 39.973083 L88.909157 39.973083 L88.909157 37.373085 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1109" />
+      <path
+         fill="none"
+         d="M88.909157 37.373085 L91.509155 37.373085 L91.509155 39.973083 L88.909157 39.973083 L88.909157 37.373085 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1111" />
+      <path
+         fill="black"
+         d="M96.515785 48.212582 L99.115784 48.212582 L99.115784 50.812584 L96.515785 50.812584 L96.515785 48.212582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1113" />
+      <path
+         fill="none"
+         d="M96.515785 48.212582 L99.115784 48.212582 L99.115784 50.812584 L96.515785 50.812584 L96.515785 48.212582 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1115" />
+      <path
+         fill="black"
+         d="M97.9758 36.897667 L100.575798 36.897667 L100.575798 39.497665 L97.9758 39.497665 L97.9758 36.897667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1117" />
+      <path
+         fill="none"
+         d="M97.9758 36.897667 L100.575798 36.897667 L100.575798 39.497665 L97.9758 39.497665 L97.9758 36.897667 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1119" />
+      <path
+         fill="black"
+         d="M107.58197 36.843334 L110.181976 36.843334 L110.181976 39.443333 L107.58197 39.443333 L107.58197 36.843334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1121" />
+      <path
+         fill="none"
+         d="M107.58197 36.843334 L110.181976 36.843334 L110.181976 39.443333 L107.58197 39.443333 L107.58197 36.843334 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1123" />
+      <path
+         fill="black"
+         d="M110.942902 41.624668 L113.5429 41.624668 L113.5429 44.224667 L110.942902 44.224667 L110.942902 41.624668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1125" />
+      <path
+         fill="none"
+         d="M110.942902 41.624668 L113.5429 41.624668 L113.5429 44.224667 L110.942902 44.224667 L110.942902 41.624668 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1127" />
+      <path
+         fill="black"
+         d="M95.151543 30.038084 L97.751541 30.038084 L97.751541 32.638084 L95.151543 32.638084 L95.151543 30.038084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1129" />
+      <path
+         fill="none"
+         d="M95.151543 30.038084 L97.751541 30.038084 L97.751541 32.638084 L95.151543 32.638084 L95.151543 30.038084 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1131" />
+      <path
+         fill="black"
+         d="M91.590797 42.602665 L94.190804 42.602665 L94.190804 45.202667 L91.590797 45.202667 L91.590797 42.602665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1133" />
+      <path
+         fill="none"
+         d="M91.590797 42.602665 L94.190804 42.602665 L94.190804 45.202667 L91.590797 45.202667 L91.590797 42.602665 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1135" />
+      <path
+         fill="black"
+         d="M85.285637 50.277248 L87.885635 50.277248 L87.885635 52.877251 L85.285637 52.877251 L85.285637 50.277248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1137" />
+      <path
+         fill="none"
+         d="M85.285637 50.277248 L87.885635 50.277248 L87.885635 52.877251 L85.285637 52.877251 L85.285637 50.277248 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1139" />
+      <path
+         fill="black"
+         d="M79.375504 36.327168 L81.97551 36.327168 L81.97551 38.927166 L79.375504 38.927166 L79.375504 36.327168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1141" />
+      <path
+         fill="none"
+         d="M79.375504 36.327168 L81.97551 36.327168 L81.97551 38.927166 L79.375504 38.927166 L79.375504 36.327168 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1143" />
+      <path
+         fill="black"
+         d="M73.68573 18.560167 L76.285736 18.560167 L76.285736 21.160166 L73.68573 21.160166 L73.68573 18.560167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1145" />
+      <path
+         fill="none"
+         d="M73.68573 18.560167 L76.285736 18.560167 L76.285736 21.160166 L73.68573 21.160166 L73.68573 18.560167 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1147" />
+      <path
+         fill="black"
+         d="M424.151215 139.81842 L436.151215 139.81842 L436.151215 151.81842 L424.151215 151.81842 L424.151215 139.81842 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1149" />
+      <path
+         fill="none"
+         d="M424.151215 139.81842 L436.151215 139.81842 L436.151215 151.81842 L424.151215 151.81842 L424.151215 139.81842 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1151" />
+      <path
+         fill="black"
+         d="M380.922485 115.015251 L392.922485 115.015251 L392.922485 127.015251 L380.922485 127.015251 L380.922485 115.015251 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1153" />
+      <path
+         fill="none"
+         d="M380.922485 115.015251 L392.922485 115.015251 L392.922485 127.015251 L380.922485 127.015251 L380.922485 115.015251 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1155" />
+      <path
+         fill="black"
+         d="M372.779541 92.208832 L384.779541 92.208832 L384.779541 104.208832 L372.779541 104.208832 L372.779541 92.208832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1157" />
+      <path
+         fill="none"
+         d="M372.779541 92.208832 L384.779541 92.208832 L384.779541 104.208832 L372.779541 104.208832 L372.779541 92.208832 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1159" />
+      <path
+         fill="black"
+         d="M360.135681 95.59108 L372.135681 95.59108 L372.135681 107.59108 L360.135681 107.59108 L360.135681 95.59108 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1161" />
+      <path
+         fill="none"
+         d="M360.135681 95.59108 L372.135681 95.59108 L372.135681 107.59108 L360.135681 107.59108 L360.135681 95.59108 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1163" />
+      <path
+         fill="black"
+         d="M319.889984 83.080833 L331.889984 83.080833 L331.889984 95.080833 L319.889984 95.080833 L319.889984 83.080833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         stroke-linejoin="miter"
+         id="path1165" />
+      <path
+         fill="none"
+         d="M319.889984 83.080833 L331.889984 83.080833 L331.889984 95.080833 L319.889984 95.080833 L319.889984 83.080833 Z"
+         clip-path="url(#clipPath3)"
+         stroke="black"
+         stroke-linejoin="miter"
+         id="path1167" />
+    </g>
+    <g
+       font-size="13px"
+       fill="white"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke="white"
+       font-weight="bold"
+       id="g1181">
+      <text
+         xml:space="preserve"
+         x="426.151215"
+         y="151.256897"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="text1171">1</text>
+      <text
+         xml:space="preserve"
+         x="382.922485"
+         y="126.453728"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="text1173">2</text>
+      <text
+         xml:space="preserve"
+         x="374.779541"
+         y="103.647308"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="text1175">3</text>
+      <text
+         xml:space="preserve"
+         x="362.135681"
+         y="107.029556"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="text1177">4</text>
+      <text
+         xml:space="preserve"
+         x="321.889984"
+         y="94.51931"
+         clip-path="url(#clipPath3)"
+         stroke="none"
+         id="text1179">5</text>
+    </g>
+    <g
+       stroke-linecap="round"
+       font-size="13px"
+       fill="gray"
+       text-rendering="optimizeLegibility"
+       font-family="sans-serif"
+       stroke-linejoin="round"
+       stroke="gray"
+       font-weight="bold"
+       stroke-width="0.5"
+       id="g1185">
+      <rect
+         x="43"
+         y="5"
+         clip-path="url(#clipPath1)"
+         fill="none"
+         width="448"
+         height="163"
+         id="rect1183" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.70878601px;line-height:0em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;color-interpolation:auto;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+     x="185.4397"
+     y="197.86621"
+     id="text4815-3"
+     transform="scale(0.99331084,1.0067342)"><tspan
+       sodipodi:role="line"
+       id="tspan4813-6"
+       x="185.4397"
+       y="197.86621"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.5">Base Shear Coeff. </tspan></text>
+  <g
+     style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.86817229;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+     transform="matrix(0.53594097,0,0,0.53462486,113.40321,59.850303)"
+     id="g8770-7">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.37623405px;line-height:0em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93408608;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       x="349.30057"
+       y="260.40869"
+       id="text6783-5"><tspan
+         sodipodi:role="line"
+         id="tspan6781-3"
+         x="349.30057"
+         y="260.40869"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#000000;stroke:none;stroke-width:0.36310455">C</tspan></text>
+    <text
+       id="text8764-5"
+       y="264.70984"
+       x="368.31613"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.97612762px;line-height:0em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93408608;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#000000;stroke:none;stroke-width:0.36310455"
+         y="264.70984"
+         x="368.31613"
+         id="tspan8762-6"
+         sodipodi:role="line">B</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.47725296px;line-height:0em;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     x="-139.06323"
+     y="14.353033"
+     id="text2022"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan2020"
+       x="-139.06323"
+       y="14.353033"
+       style="stroke-width:0.5">Pred. freq. [Hz]</tspan></text>
+</svg>

@@ -1,7 +1,7 @@
 
 @ECHO O
 rem githubのDrawingとつながっているフォルダです。
-set path2=%userprofile%\Documents\git\\mechanical
+set path2=%userprofile%\Documents\git\\Soma
 rem path2に新たに作成するフォルダ名です。
 set dname=00initial
 
@@ -36,7 +36,7 @@ ECHO +----[%INPUT_STR%]----+
 
 cd %path2%
 git init
-git remote add origin git@github.com:shiroi36/mechanical.git
+git remote add origin git@github.com:shiroi36/Soma.git
 git add .
 git commit -m %INPUT_STR%
 git push origin master
